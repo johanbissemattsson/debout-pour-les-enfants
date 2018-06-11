@@ -5,7 +5,7 @@ import { canUseDOM } from 'exenv';
 
 import 'normalize.css';
 
-import Navbar from '../components/Navbar';
+import Nav from '../components/Nav';
 
 import './index.sass';
 
@@ -26,7 +26,7 @@ class TemplateWrapper extends Component {
     return (
       <div className='site-container'>
         <Helmet title='Debout pour les Enfants' />
-        <Navbar />
+        <Nav />
         {children()}
       </div>
     );

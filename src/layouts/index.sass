@@ -1,11 +1,69 @@
 // Config vars
 $background: #fff
-$blue: #fff
-$purple: #fff
+$blue: #7ba6d8
+$purple: #936889
+$white: #fff
+
+$max-width: 1440px
+
 
 body
   font-family: 'Open Sans', sans-serif
-  font-size: 14px
+  font-size: 16px
   line-height: 1.5
   background: $background
 
+.site-nav-container
+  max-width: $max-width
+  margin: 0 auto
+
+  .site-nav
+    display: flex
+    padding: 0 5%
+    margin: 1em 0
+    
+    .nav-brand
+      flex: 1
+      display: flex
+      align-items: center
+
+      .image
+        margin: 0
+
+    .nav-items
+      display: flex
+      flex-direction: column
+      flex: 3
+      text-align: right
+      max-width: ($max-width / 2 - ($max-width * 0.05))
+
+      .nav-lang
+        font-size: 0.875em
+
+        .nav-item
+          margin-left: 2em
+
+      .nav-start
+        display: flex
+        justify-content: space-between
+        margin-top: 1em
+
+      .nav-item
+        text-decoration: none
+      
+      .nav-item:hover
+        text-decoration: underline
+
+.intro-description
+  max-width: ($max-width / 2 - ($max-width * 0.05))
+  box-sizing: border-box
+  padding: 2em 4em
+  background: $purple
+  color: $white
+
+.page-container
+  max-width: $max-width
+  margin: 0 auto
+
+  .page 
+    padding: 0 5%
