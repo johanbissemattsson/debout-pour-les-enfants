@@ -6,6 +6,7 @@ import { canUseDOM } from 'exenv';
 import 'normalize.css';
 
 import Nav from '../components/Nav';
+import Footer from '../components/Footer';
 
 import './index.sass';
 
@@ -28,6 +29,7 @@ class TemplateWrapper extends Component {
         <Helmet title='Debout pour les Enfants' />
         <Nav />
         {children()}
+        <Footer />
       </div>
     );
   }

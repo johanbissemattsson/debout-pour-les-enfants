@@ -8,49 +8,50 @@ export default class IndexPage extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
 
     return (
-      <div className='page-container'>
-        <div className='page'>
-        <section className='intro'>
-          <div className='content'>
-            <div className='intro-description'>
-              <h1>Debout pour <br />les Enfants <br />Senegal</h1>
-              <p><strong>Debout pour les Enfants Senegal &mdash; Stå upp för barnen</strong> är en ideell organisation som genom att driva ett center vill göra livet lite bättre för gatubarnen i <Link to='om-oss'>Ziguinchor</Link>, en stad i södra Senegal.</p>
-              <p><Link to='bidrag' className='button'>Bli månadsgivare</Link> eller kom som <Link to='volontar'>volontär</Link> och delta i verksamheten.</p>
-            </div>
-          </div>
-          <div className='intro-images'>
-
-          </div>
-        </section>
-        <section className="section">
-          <div className="container">
-            {posts
-              .map(({ node: post }) => (
-                <div
-                  className="content"
-                  style={{ border: '1px solid #eaecee', padding: '2em 4em' }}
-                  key={post.id}
-                >
-                  <p>
-                    <Link className="has-text-primary" to={post.fields.slug}>
-                      {post.frontmatter.title}
-                    </Link>
-                    <span> &bull; </span>
-                    <small>{post.frontmatter.date}</small>
-                  </p>
-                  <p>
-                    {post.excerpt}
-                    <br />
-                    <br />
-                    <Link className="button is-small" to={post.fields.slug}>
-                      Keep Reading →
-                    </Link>
-                  </p>
+      <div className='index-container'>
+        <div className='header-container'>
+          <header className='header'>
+            <section className='intro'>
+              <div className='content'>
+                <div className='intro-description'>
+                  <h1>Debout pour <br />les Enfants <br />Senegal</h1>
+                  <p><strong>Debout pour les Enfants Senegal &mdash; Stå upp för barnen</strong> är en ideell organisation som genom att driva ett center vill göra livet lite bättre för gatubarnen i <Link to='om-oss'>Ziguinchor</Link>, en stad i södra Senegal.</p>
+                  <p><Link to='bidrag' className='button'>Bli månadsgivare</Link> eller delta i verksamheten som <Link to='volontar'>volontär</Link>.</p>
                 </div>
-              ))}
-          </div>
-        </section>
-      </div>
+              </div>
+            </section>
+          </header>
+        </div>
+        <div className='page-container'>
+          <div className='page'>
+            <div className='content'>
+              <section>
+                <h1 className='section-title'>Aktuellt</h1>
+                <div className='posts'>
+                  {posts
+                    .map(({ node: post }) => (
+                      <div className='post-item-container' key={post.id}>
+                        <div className='post-item'>
+                          <h3 className='post-item-title'>
+                            <Link className="has-text-primary" to={post.fields.slug}>
+                              {post.frontmatter.title}
+                            </Link>
+                          </h3>
+                          <p>
+                            {post.excerpt}
+                            <br />
+                          </p>
+                          <p className='date'>{post.frontmatter.date}</p>
+                        </div>
+                      </div>
+                    ))}
+              </div>
+          </section>
+        </div>
+
+        </div>
+        </div>
+
       </div>
     )
   }
