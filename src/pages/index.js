@@ -11,11 +11,12 @@ export default class IndexPage extends React.Component {
       <div className='page-container'>
         <div className='page'>
         <section className='intro'>
-          <div className='intro-description'>
-            <h1>Debout pour <br />les Enfants <br />Senegal</h1>
-            <p><strong>Debout pour les Enfants Senegal &mdash; Stå upp för barnen</strong> är en ideell organisation som genom att driva ett center vill göra livet lite bättre för gatubarnen i Ziguinchor, en stad i södra Senegal.</p>
-            <p>Bli månadsgivare eller kom som volontär och delta i verksamheten.</p>
-            <p>Debout pour les Enfants grundades i januari 2018 av Saliou Sagna, Ziguinchor, Senegal och Kristina Lotén, Nacka, Sverige.</p>
+          <div className='content'>
+            <div className='intro-description'>
+              <h1>Debout pour <br />les Enfants <br />Senegal</h1>
+              <p><strong>Debout pour les Enfants Senegal &mdash; Stå upp för barnen</strong> är en ideell organisation som genom att driva ett center vill göra livet lite bättre för gatubarnen i <Link to='om-oss'>Ziguinchor</Link>, en stad i södra Senegal.</p>
+              <p><Link to='bidrag' className='button'>Bli månadsgivare</Link> eller kom som <Link to='volontar'>volontär</Link> och delta i verksamheten.</p>
+            </div>
           </div>
           <div className='intro-images'>
 
@@ -23,9 +24,6 @@ export default class IndexPage extends React.Component {
         </section>
         <section className="section">
           <div className="container">
-            <div className="content">
-              <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
-            </div>
             {posts
               .map(({ node: post }) => (
                 <div

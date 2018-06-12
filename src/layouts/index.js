@@ -15,7 +15,7 @@ class TemplateWrapper extends Component {
       const WebFont = require('webfontloader');
       WebFont.load({
         google: {
-          families: ['Open Sans']
+          families: ['Open Sans', 'Open Sans Condensed:300,700']
         }
       });
     }
