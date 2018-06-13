@@ -6,20 +6,23 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
-    <section className="section section--gradient">
-      <div className="container">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <div className="section">
-              <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
-                {title}
-              </h2>
-              <PageContent className="content" content={content} />
+    <article>
+      <div className='header-container'>
+        <header className='header'>
+          <section className='intro'>
+            <div className='content'>
+              <div className='intro-description'>
+                <h1>Om oss</h1>
+                <p><strong>Vi lorem ipsum</strong> är en ideell organisation som genom att driva ett center vill göra livet lite bättre för.</p>
+              </div>
             </div>
-          </div>
-        </div>
+          </section>
+        </header>
       </div>
-    </section>
+      <div className="main-content-container">
+        <PageContent className='content' content={content} />
+      </div>
+    </article>
   )
 }
 

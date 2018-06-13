@@ -5,7 +5,7 @@ const Footer = () => (
   <div className='site-footer-container'>
     <footer className='site-footer'>
       <div className='content'>
-        <h3 className='footer-title'>Debout pour les Enfants Senegal</h3>
+        <h3 className='footer-title'><Link to='/'>Debout pour les Enfants</Link></h3>
         <div className='nav-items'>
           <div className='nav-start'>
             <Link className='nav-item' to='/about'>

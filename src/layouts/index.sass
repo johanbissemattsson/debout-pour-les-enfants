@@ -4,6 +4,7 @@ $blue: #7ba6d8
 $purple: #936889
 $white: #fff
 $text: #333
+$grey: #757575
 
 $lighter-purple: lighten($purple,40%)
 
@@ -19,8 +20,17 @@ h1
   font-family: 'Open Sans Condensed'
   font-weight: 300
   line-height: 1.125
-  text-transform: uppercase
-  letter-spacing: 0.015em
+  color: $purple
+
+h2 
+  font-family: 'Open Sans Condensed'
+  font-weight: 700
+  font-size: 1em
+  line-height: 1.125
+  color: $purple
+
+a
+  color: $blue
 
 .site-nav-container
   max-width: $max-width
@@ -70,6 +80,14 @@ h1
           background: lighten($blue,27%)
           text-decoration: none
 
+        a.active
+          color: $white
+          background: $blue
+
+        a.active:hover
+          color: $blue
+          background: lighten($blue,27%)
+
       .nav-item
         text-decoration: none
       
@@ -78,119 +96,146 @@ h1
 
 .index-container
   .intro
-    background: grey
-    padding: 4em 0
+    justify-content: initial
+    align-items: initial
+    min-height: 480px
     
     .intro-description
-      max-width: ($max-width / 2 - ($max-width * 0.05))
-      box-sizing: border-box
-      padding: 2em 4em
-      margin: 0 5%
-      background: rgba($purple, 0.9)
-      color: $lighter-purple
-
+      max-width: ($max-width / 2) - ($max-width * 0.05)
       h1
-        margin: 0.5em 0 0.33em 0
         text-transform: uppercase
-        color: $white
         font-size: 4em
-        letter-spacing: initial
+        
+.intro
+  background: grey
+  padding: 4em 0
+  display: flex
+  align-items: center
 
-      strong
-        font-family: 'Open Sans Condensed'
-        font-weight: 700
-        color: $white
-        letter-spacing: 0.015em
+  .content
+    margin: 0 5%
+    max-width: ($max-width / 2) - ($max-width * 0.05)
+  
+  .intro-description
+    box-sizing: border-box
+    padding: 2em 4em
+    background: rgba($purple, 0.9)
+    color: $lighter-purple
+    display: inline-block
 
-      p
-        margin-bottom: 2em
+    h1
+      margin: 0.5em 0 0.33em 0
+      color: $white
+      font-size: 3em
+      letter-spacing: initial
 
-      a
-        text-decoration: none
-        color: $lighter-purple
-        position: relative
+    strong
+      font-family: 'Open Sans Condensed'
+      font-weight: 700
+      color: $white
+      letter-spacing: 0.015em
 
-        &:after
-          content: ''
-          position: absolute
+    a
+      text-decoration: none
+      color: $lighter-purple
+      position: relative
+
+      &:after
+        content: ''
+        position: absolute
+        width: 100%
+        height: 0
+        left: 0
+        bottom: 1px
+        border-bottom: 1px dotted lighten($purple,30%)
+
+    a:hover
+      color: $white
+
+      &:after
+        border-bottom: 1px solid $lighter-purple
+
+    .button
+      font-family: 'Open Sans Condensed'
+      font-weight: 700
+      color: $white
+      letter-spacing: 0.015em
+      text-decoration: none
+      padding: 0.5em 0.625em
+      margin-right: 0.25em
+      background: $lighter-purple
+      color: $purple
+      transition: background-color 0.25s
+      border-bottom: none
+
+      &:after
+        content: none
+
+    .button:hover
+      background: $white
+      color: $purple
+
+  .call-to-action
+    margin-top: 2em
+
+.posts
+  display: flex
+  flex-wrap: wrap
+  margin-bottom: 2em
+
+  .post-item-container
+    width: 50%
+    box-sizing: border-box
+    display:  flex
+
+    .post-item
+      padding: 2em 4em
+      margin-bottom: 2em
+      background: lighten($blue,31%)
+      border-radius: 4px
+      box-shadow: 0 3px 6px rgba($blue,0.12), 0 3px 6px rgba($blue,0.16)
+
+      .image
+        margin: 1em 0
+        background: $blue
+        height: 480px
+        max-height: 240px
+
+        img
           width: 100%
-          height: 0
-          left: 0
-          bottom: 1px
-          border-bottom: 1px dotted lighten($purple,30%)
+          height: auto
+          object-fit: cover
+      a
+        color: $blue
+        text-decoration: none
+        display: block
 
       a:hover
-        color: $white
+        text-decoration: underline
 
-        &:after
-          border-bottom: 1px solid $lighter-purple
-
-      .button
+      .post-item-title
         font-family: 'Open Sans Condensed'
         font-weight: 700
-        color: $white
+        font-size: 1.25em
         letter-spacing: 0.015em
-        text-decoration: none
-        padding: 0.5em 0.625em
-        margin-right: 0.25em
-        background: $lighter-purple
-        color: $purple
-        transition: background-color 0.25s
-        border-bottom: none
+                  
+      .date
+        font-size: 0.875em
+        font-family: 'Open Sans Condensed'
+        font-weight: 700
+        letter-spacing: 0.015em
+        color: $blue
+        margin-bottom: 0
 
-        &:after
-          content: none
-
-      .button:hover
-        background: $white
-        color: $purple
-  
-  .posts
-    display: flex
-    flex-wrap: wrap
-    margin-bottom: 2em
-
-    .post-item-container
-      width: 50%
-      box-sizing: border-box
-      display:  flex
-
-      .post-item
-        padding: 2em 4em
-        margin-bottom: 2em
-        background: lighten($blue,31%)
-        border-radius: 4px
-        box-shadow: 0 3px 6px rgba($blue,0.12), 0 3px 6px rgba($blue,0.16)
-
-        a
-          color: $blue
-          text-decoration: none
-
-        a:hover
-          text-decoration: underline
-
-        .post-item-title
-          font-family: 'Open Sans Condensed'
-          font-weight: 700
-          font-size: 1.25em
-          letter-spacing: 0.015em
-                    
-        .date
-          font-size: 0.875em
-          font-family: 'Open Sans Condensed'
-          font-weight: 700
-          letter-spacing: 0.015em
-          color: $blue
-
-        p
-          color: $text
+      p
+        color: $text
 
 
-    .post-item-container:nth-child(odd)
-      padding-right: 1.25%
+  .post-item-container:nth-child(odd)
+    padding-right: 1.25%
 
-    .post-item-container:nth-child(even)
-      padding-left: 1.25%
+  .post-item-container:nth-child(even)
+    padding-left: 1.25%
 
 
 .page-container
@@ -210,10 +255,13 @@ h1
   margin: 0 auto
 
 .section-title
+  text-transform: uppercase
+  letter-spacing: 0.015em  
   margin-top: 1em
+  color: $text
 
 .site-footer-container
-  background: $purple
+  background: $blue
 
   .site-footer
     max-width: $max-width
@@ -224,13 +272,21 @@ h1
       color: $white
 
     a
-      color: rgba($white,0.75)
+      color: rgba($white,0.875)
       text-decoration: none
       transition: color 0.25s
 
     a:hover
       color: rgba($white,1)
       text-decoration: underline
+
+    .footer-title
+      font-family: 'Open Sans Condensed'
+      font-weight: 300
+      font-size: 1.5em
+      letter-spacing: 0.015em
+      text-transform: uppercase
+      margin: 0 0 0.5em 0
 
     .nav-items
       display: flex
@@ -252,3 +308,38 @@ h1
 
           &:last-child
             margin-right: -0.5em
+
+.intro-title
+  padding: 1.333333333333333em 5% 0.6666666666em 5%
+  color: $white
+  font-size: 3em
+  letter-spacing: initial
+  margin: 0
+  text-transform: initial
+
+.main-content-container
+  .content
+    padding: 0 5%
+    max-width: ($max-width / 2)
+    margin: 3em auto 6em auto
+    font-size: 1.125em
+
+  p
+    margin: 1.5em 0
+    
+  blockquote
+    font-size: 0.8888888888888889em
+    margin: 1.5em
+    border-left: 1px solid $purple
+    padding-left: 1.5em
+    color: $purple
+
+  img
+    width: 100%
+    height: auto
+
+.intro.no-featured-image
+  background: none
+  padding: 0
+  .content
+    margin: 0

@@ -15,33 +15,33 @@ const Nav = () => (
       </div>
       <div className='nav-items'>
         <div className='nav-lang'>
-          <Link className='nav-item' to='/products'>
+          <Link className='nav-item' to='/about' activeClassName='active'>
             Sv
           </Link>
-          <Link className='nav-item' to='/products'>
+          <Link className='nav-item' to='/about' activeClassName='active'>
             Fr
           </Link>
-          <Link className='nav-item' to='/products'>
+          <Link className='nav-item' to='/about' activeClassName='active'>
             En
           </Link>
         </div>
         <div className='nav-start'>
-          <Link className='nav-item' to='/about'>
+          <Link className='nav-item' to='/about' activeClassName='active'>
             Om oss
           </Link>
-          <Link className='nav-item' to='/products'>
+          <Link className='nav-item' to='/about' activeClassName='active'>
             Aktuellt
           </Link>
-          <Link className='nav-item' to='/products'>
+          <Link className='nav-item' to='/about' activeClassName='active'>
             Bidrag
           </Link>
-          <Link className='nav-item' to='/products'>
+          <Link className='nav-item' to='/about' activeClassName='active'>
             Volontär
           </Link>
-          <Link className='nav-item' to='/products'>
+          <Link className='nav-item' to='/about' activeClassName='active'>
             Om Sénegal
           </Link>
-          <Link className='nav-item' to='/products'>
+          <Link className='nav-item' to='/about' activeClassName='active'>
             Kontakt
           </Link>
         </div>

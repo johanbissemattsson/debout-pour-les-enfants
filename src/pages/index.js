@@ -16,7 +16,9 @@ export default class IndexPage extends React.Component {
                 <div className='intro-description'>
                   <h1>Debout pour <br />les Enfants <br />Senegal</h1>
                   <p><strong>Debout pour les Enfants Senegal &mdash; Stå upp för barnen</strong> är en ideell organisation som genom att driva ett center vill göra livet lite bättre för gatubarnen i <Link to='om-oss'>Ziguinchor</Link>, en stad i södra Senegal.</p>
-                  <p><Link to='bidrag' className='button'>Bli månadsgivare</Link> eller delta i verksamheten som <Link to='volontar'>volontär</Link>.</p>
+                  <div className='call-to-action'>
+                    <p><Link to='bidrag' className='button'>Bli månadsgivare</Link> eller delta i verksamheten som <Link to='volontar'>volontär</Link>.</p>
+                  </div>
                 </div>
               </div>
             </section>
@@ -34,6 +36,9 @@ export default class IndexPage extends React.Component {
                         <div className='post-item'>
                           <h3 className='post-item-title'>
                             <Link className="has-text-primary" to={post.fields.slug}>
+                              <figure className='image'>
+                                <img src={''} alt='Kaldi' />
+                              </figure>
                               {post.frontmatter.title}
                             </Link>
                           </h3>
@@ -41,7 +46,7 @@ export default class IndexPage extends React.Component {
                             {post.excerpt}
                             <br />
                           </p>
-                          <p className='date'>{post.frontmatter.date}</p>
+                          <p className='date'><Link to={post.fields.slug}>{post.frontmatter.date}</Link></p>
                         </div>
                       </div>
                     ))}
@@ -73,7 +78,7 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
-          excerpt(pruneLength: 400)
+          excerpt(pruneLength: 300)
           id
           fields {
             slug
@@ -81,7 +86,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             templateKey
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "YYYY-MM-DD")
           }
         }
       }
