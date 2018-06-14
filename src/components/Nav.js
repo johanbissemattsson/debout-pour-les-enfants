@@ -29,7 +29,7 @@ const Nav = () => (
           <Link className='nav-item' to='/about' activeClassName='active'>
             Om oss
           </Link>
-          <Link className='nav-item' to='/about' activeClassName='active'>
+          <Link className='nav-item' to='/posts' activeClassName='active'>
             Aktuellt
           </Link>
           <Link className='nav-item' to='/about' activeClassName='active'>
