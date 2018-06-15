@@ -12,6 +12,7 @@ export const PostTemplate = ({
   description,
   title,
   helmet,
+  language
 }) => {
   const PostContent = contentComponent || Content
 
@@ -23,7 +24,7 @@ export const PostTemplate = ({
           <section className='intro no-featured-image'>
             <div className='content'>
               <div className='intro-description'>
-                <h1>Aktuellt</h1>
+                <h1>{language === 'en' ? 'News' : language === 'fr' ? '`d Actualite' : 'Aktuellt'}</h1>
               </div>
             </div>
           </section>
@@ -57,6 +58,7 @@ const Post = ({ data }) => {
       helmet={<Helmet title={`${post.frontmatter.title} | Debout pour les Enfants`} />}
       title={post.frontmatter.title}
       date={post.frontmatter.date}
+      language={post.frontmatter.language}
     />
   )
 }
@@ -78,6 +80,7 @@ export const postQuery = graphql`
         date(formatString: "YYYY-MM-DD")
         title
         description
+        language
       }
     }
   }

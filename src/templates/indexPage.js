@@ -6,9 +6,9 @@ import Link from 'gatsby-link'
 
 export class IndexPageTemplate extends React.Component {
   render() {
-    const { helmet, title, content, contentComponent, posts } = this.props;
+    const { helmet, title, content, contentComponent, posts, language } = this.props;
     const { edges } = posts;
-    
+    console.log(language);
     return (
       <div className='index-container'>
         {helmet}
@@ -32,7 +32,7 @@ export class IndexPageTemplate extends React.Component {
             <div className='content'>
               {edges &&
                 <section>
-                  <h1 className='section-title'>Aktuellt</h1>
+                  <h1 className='section-title'>{language === 'en' ? 'News' : language === 'fr' ? '`d Actualite' : 'Aktuellt'}</h1>
                   <div className='posts'>
                   {edges
                     .map(({ node: post }) => (
@@ -92,7 +92,7 @@ IndexPageTemplate.propTypes = {
   content: PropTypes.string,
   contentComponent: PropTypes.func,
   posts: PropTypes.shape({
-    edges: PropTypes.array,
+  edges: PropTypes.array,
   }),
 }
 
@@ -106,6 +106,7 @@ const IndexPage = ({ data }) => {
       content={page.html}
       ingress={page.frontmatter.ingress}
       posts={posts}
+      language={page.frontmatter.language}
       helmet={<Helmet title={`Debout pour les Enfants`} />}
     />
   )
@@ -123,6 +124,7 @@ export const indexPageQuery = graphql`
       html
       frontmatter {
         title
+        language
       }
     }
     posts: allMarkdownRemark(
@@ -130,7 +132,6 @@ export const indexPageQuery = graphql`
       filter: {
         frontmatter: {
           templateKey: { eq: "post" },
-          language: {eq: "sv"}
         }
       }
     ) {
