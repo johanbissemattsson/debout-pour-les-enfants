@@ -6,7 +6,6 @@ import logo from '../img/logo.svg'
 export default class Nav extends React.Component {
   render() {
     const { language } = this.props;
-    console.log(language);
     return(
       <div className='site-nav-container'>
         <nav className='site-nav'>

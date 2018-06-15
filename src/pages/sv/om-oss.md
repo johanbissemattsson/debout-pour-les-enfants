@@ -3,11 +3,8 @@ templateKey: 'page'
 path: /om-oss
 title: Om oss
 bgImage: hej
-ingress: Vi vill göra livet lite bättre för gatubarnen i Ziguinchor, en stad i södra Senegal.
+ingress: Vi är en ideell organisation som genom att driva ett center vill göra livet lite bättre för gatubarnen i Ziguinchor, en stad i södra Senegal.
 ---
-# Debout pour les enfants – Stå upp för barnen
-Vi är en ideell organisation som genom att driva ett center vill göra livet lite bättre för gatubarnen i Ziguinchor, en stad i södra Senegal.
-
 # Talibéer
 Gatubarnen i Senegal kallas talibéer vilket betyder lärjungar. De är ivägsända av sina föräldrar, ibland redan vid fyra års ålder, till koranskolor som drivs av Marabouer. Avsikten är att pojkarna ska lära sig Koranen utantill vilket kan ta upp till tio år. Många av barnen träffar inte sina familjer under hela den tiden. Största delen av dagen tillbringar de dock på gatorna för att tigga mat och pengar till Marabouen. Barnen är smutsiga med trasiga kläder och oftast utan skor.
 

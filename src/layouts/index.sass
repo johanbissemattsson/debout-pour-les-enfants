@@ -42,7 +42,6 @@ a
     margin: 0 0 2em 0
     
     .nav-brand
-      flex: 1
       display: flex
       align-items: center
 
@@ -50,28 +49,45 @@ a
         margin: 0
 
     .nav-items
-      display: flex
-      flex-direction: column
-      flex: 3
       text-align: right
-      max-width: ($max-width / 2 - ($max-width * 0.05))
+      margin-left: auto
 
       .nav-lang
         font-size: 0.875em
-        margin-top: 1.142857142857143em
 
         .nav-item
-          margin-left: 2em
-          color: $blue
+          margin-left: 2px
+          color: $purple
+          background: $lighter-purple
+          padding: 1em 1.25em
+          display: inline-block
+          transition: 0.25s background-color
+
+          &:last-child
+            border-radius: 0 0 16px 0
+
+          &:first-child
+            border-radius: 0 0 0 16px
+
+          &:hover
+            background: lighten($purple,31%)
 
         .nav-item.active
-          text-decoration: underline
+          background: $purple
+          color: $white
 
       .nav-start
-        display: flex
-        justify-content: space-between
         margin-top: 2em
 
+        .nav-item
+          margin-right: 1em
+          font-family: 'Open Sans Condensed'
+          font-weight: 700
+          font-size: 1.125em
+          line-height: 1.125          
+
+          &:last-child
+            margin-right: 0
         a
           padding: 0.5em 1em
           color: $blue
@@ -254,19 +270,15 @@ a
 
 .header-container
   background: $purple
+  margin-bottom: 3em
 
 .header
   max-width: $max-width
   margin: 0 auto
-
-.section-title
-  text-transform: uppercase
-  letter-spacing: 0.015em  
-  margin-top: 1em
-  color: $text
-
+  
 .site-footer-container
   background: $blue
+  margin-top: 6em
 
   .site-footer
     max-width: $max-width
@@ -277,7 +289,7 @@ a
       color: $white
 
     a
-      color: rgba($white,0.875)
+      color: rgba($white,0.675)
       text-decoration: none
       transition: color 0.25s
 
@@ -286,6 +298,7 @@ a
       text-decoration: underline
 
     a.active
+      color: $white
       text-decoration: underline
 
     .footer-title
@@ -296,16 +309,19 @@ a
       text-transform: uppercase
       margin: 0 0 0.5em 0
 
+      a
+        color: $white
+
+        &:hover
+          text-decoration: none
+
     .nav-items
       display: flex
+      font-size: 0.875em
 
       .nav-start
         a
-          margin-right: 1em
-          padding: 0.5em
-
-          &:first-child
-            margin-left: -0.5em
+          margin-right: 2em
 
       .nav-lang
         margin-left: auto
@@ -329,7 +345,7 @@ a
   .content
     padding: 0 5%
     max-width: ($max-width / 2)
-    margin: 3em auto 6em auto
+    margin: 0 auto
     font-size: 1.125em
 
   p

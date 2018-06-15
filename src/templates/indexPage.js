@@ -1,14 +1,17 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import Helmet from 'react-helmet'
+import Content, { HTMLContent } from '../components/Content'
 import Link from 'gatsby-link'
 
-export default class IndexPage extends React.Component {
+export class IndexPageTemplate extends React.Component {
   render() {
-    const { data } = this.props
-    const { edges: posts } = data.allMarkdownRemark
-
+    const { helmet, title, content, contentComponent, posts } = this.props;
+    const { edges } = posts;
+    
     return (
       <div className='index-container'>
+        {helmet}
         <div className='header-container'>
           <header className='header'>
             <section className='intro'>
@@ -27,9 +30,42 @@ export default class IndexPage extends React.Component {
         <div className='page-container'>
           <div className='page'>
             <div className='content'>
-              <section>
-                <h1 className='section-title'>Aktuellt</h1>
-                <div className='posts'>
+              {edges &&
+                <section>
+                  <h1 className='section-title'>Aktuellt</h1>
+                  <div className='posts'>
+                  {edges
+                    .map(({ node: post }) => (
+                      <div className='post-item-container' key={post.id}>
+                        <div className='post-item'>
+                          <h3 className='post-item-title'>
+                            <Link className="has-text-primary" to={post.fields.slug}>
+                              <figure className='image'>
+                                <img src={''} alt='Kaldi' />
+                              </figure>
+                              {post.frontmatter.title}
+                            </Link>
+                          </h3>
+                          <p>
+                            {post.excerpt}
+                            <br />
+                          </p>
+                          <p className='date'><Link to={post.fields.slug}>{post.frontmatter.date}</Link></p>
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                </section>
+              }
+            </div>
+          </div>
+        </div>
+      </div>
+    )
+  }
+}
+
+/*
                   {posts
                     .map(({ node: post }) => (
                       <div className='post-item-container' key={post.id}>
@@ -50,27 +86,46 @@ export default class IndexPage extends React.Component {
                         </div>
                       </div>
                     ))}
-                </div>
-              </section>
-            </div>
-          </div>
-        </div>
-      </div>
-    )
-  }
-}
-
-IndexPage.propTypes = {
-  data: PropTypes.shape({
-    allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array,
-    }),
+                    */
+IndexPageTemplate.propTypes = {
+  title: PropTypes.string.isRequired,
+  content: PropTypes.string,
+  contentComponent: PropTypes.func,
+  posts: PropTypes.shape({
+    edges: PropTypes.array,
   }),
 }
 
+const IndexPage = ({ data }) => {
+  const { markdownRemark: page, posts: posts } = data
+
+  return (
+    <IndexPageTemplate
+      contentComponent={HTMLContent}
+      title={page.frontmatter.title}
+      content={page.html}
+      ingress={page.frontmatter.ingress}
+      posts={posts}
+      helmet={<Helmet title={`Debout pour les Enfants`} />}
+    />
+  )
+}
+
+IndexPage.propTypes = {
+  data: PropTypes.object.isRequired,
+}
+
+export default IndexPage
+
 export const indexPageQuery = graphql`
-  query IndexQuery {
-    allMarkdownRemark(
+  query IndexQuery($id: String!) {
+    markdownRemark(id: { eq: $id }) {
+      html
+      frontmatter {
+        title
+      }
+    }
+    posts: allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] },
       filter: {
         frontmatter: {
