@@ -23,13 +23,16 @@ class TemplateWrapper extends Component {
   }
     
   render() {
-    const { children } = this.props;
+    const { children, location } = this.props;
+    const pathArray = location.pathname.split( '/' );
+    const language = (pathArray[1] != '') ? pathArray[1] : 'sv';
+
     return (
       <div className='site-container'>
         <Helmet title='Debout pour les Enfants' />
-        <Nav />
+        <Nav language={language} />
         {children()}
-        <Footer />
+        <Footer language={language} />
       </div>
     );
   }

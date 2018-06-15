@@ -64,6 +64,9 @@ a
           margin-left: 2em
           color: $blue
 
+        .nav-item.active
+          text-decoration: underline
+
       .nav-start
         display: flex
         justify-content: space-between
@@ -99,6 +102,7 @@ a
     justify-content: initial
     align-items: initial
     min-height: 480px
+    font-size: 1em
     
     .intro-description
       max-width: ($max-width / 2) - ($max-width * 0.05)
@@ -111,6 +115,7 @@ a
   padding: 4em 0
   display: flex
   align-items: center
+  font-size: 0.875em
 
   .content
     margin: 0 5%
@@ -280,6 +285,9 @@ a
       color: rgba($white,1)
       text-decoration: underline
 
+    a.active
+      text-decoration: underline
+
     .footer-title
       font-family: 'Open Sans Condensed'
       font-weight: 300
@@ -341,8 +349,22 @@ a
 .intro.no-featured-image
   background: none
   padding: 0
+  min-height: initial
+  align-items: center
   .content
     margin: 0
 
 .posts-page-container .content
   margin: 3em auto 6em auto
+
+.page
+  .intro
+    .content
+      width: 100%
+      max-width: ($max-width / 2)
+      margin: 0 auto
+      padding: 0 5%
+
+    .intro-description
+      padding: 1em 2em 2em 2em
+      max-width: ($max-width / 2) - ($max-width * 0.1)

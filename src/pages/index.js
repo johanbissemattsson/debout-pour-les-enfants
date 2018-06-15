@@ -15,9 +15,9 @@ export default class IndexPage extends React.Component {
               <div className='content'>
                 <div className='intro-description'>
                   <h1>Debout pour <br />les Enfants <br />Senegal</h1>
-                  <p><strong>Debout pour les Enfants Senegal &mdash; Stå upp för barnen</strong> är en ideell organisation som genom att driva ett center vill göra livet lite bättre för gatubarnen i <Link to='om-oss'>Ziguinchor</Link>, en stad i södra Senegal.</p>
+                  <p><strong>Debout pour les Enfants Senegal &mdash; Stå upp för barnen</strong> är en ideell organisation som genom att driva ett center vill göra livet lite bättre för gatubarnen i <Link to='sv/om-oss'>Ziguinchor</Link>, en stad i södra Senegal.</p>
                   <div className='call-to-action'>
-                    <p><Link to='bidrag' className='button'>Bli månadsgivare</Link> eller delta i verksamheten som <Link to='volontar'>volontär</Link>.</p>
+                    <p><Link to='sv/bidrag' className='button'>Bli månadsgivare</Link> eller delta i verksamheten som <Link to='sv/volontar'>volontär</Link>.</p>
                   </div>
                 </div>
               </div>
@@ -50,13 +50,11 @@ export default class IndexPage extends React.Component {
                         </div>
                       </div>
                     ))}
-              </div>
-          </section>
+                </div>
+              </section>
+            </div>
+          </div>
         </div>
-
-        </div>
-        </div>
-
       </div>
     )
   }
@@ -70,11 +68,16 @@ IndexPage.propTypes = {
   }),
 }
 
-export const pageQuery = graphql`
+export const indexPageQuery = graphql`
   query IndexQuery {
     allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] },
-      filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
+      filter: {
+        frontmatter: {
+          templateKey: { eq: "post" },
+          language: {eq: "sv"}
+        }
+      }
     ) {
       edges {
         node {

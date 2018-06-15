@@ -6,40 +6,169 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: "blog"
-    label: "Blog"
-    folder: "src/pages/blog"
+  - name: "svPosts"
+    label: "Posts (Swedish)"
+    folder: "src/pages/sv/aktuellt"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "post"}
+      - {label: "Language", name: "language", widget: "hidden", default: "sv"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Tags", name: "tags", widget: "list"}
-
-  - name: "pages"
-    label: "Pages"
+  - name: "enPosts"
+    label: "Posts (English)"
+    folder: "src/pages/en/news"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "post"}
+      - {label: "Language", name: "language", widget: "hidden", default: "en"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "frPosts"
+    label: "Posts (French)"
+    folder: "src/pages/fr/actualite"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "post"}
+      - {label: "Language", name: "language", widget: "hidden", default: "fr"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Body", name: "body", widget: "markdown"}      
+  - name: 'svPages'      
+  - name: 'svPages'
+    label: 'Pages (Swedish)'
     files:
-      - file: "src/pages/about/index.md"
-        label: "About"
-        name: "about"
-        fields:
+      - file: 'src/pages/sv/om-oss.md'
+        label: 'Om oss'
+        name: 'om-oss'
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Title", name: "title", widget: "string"}
+          - {label: 'Background image', name: bgImage, widget: image, required: false}
+          - {label: "Ingress", name: "ingress", widget: "markdown", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "src/pages/products/index.md"
-        label: "Products Page"
-        name: "products"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "product-page"}
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - {label: Heading, name: heading, widget: string}
-          - {label: Description, name: description, widget: string}
-          - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
-          - {label: Main, name: main, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Image1, name: image1, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image2, name: image2, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image3, name: image3, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}]}
-          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
-          - {label: Full_image, name: full_image, widget: image}
-          - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
+      - file: 'src/pages/sv/bidrag.md'
+        label: 'Bidrag'
+        name: 'bidrag'
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: 'Background image', name: bgImage, widget: image, required: false}
+          - {label: "Ingress", name: "ingress", widget: "markdown", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: 'src/pages/sv/volontar.md'
+        label: 'Volontär'
+        name: 'volontar'
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: 'Background image', name: bgImage, widget: image, required: false}
+          - {label: "Ingress", name: "ingress", widget: "markdown", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: 'src/pages/sv/om-senegal.md'
+        label: 'Om Sénegal'
+        name: 'om-senegal'
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: 'Background image', name: bgImage, widget: image, required: false}
+          - {label: "Ingress", name: "ingress", widget: "markdown", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: 'src/pages/sv/kontakt.md'
+        label: 'Kontakt'
+        name: 'kontakt'
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: 'Background image', name: bgImage, widget: image, required: false}
+          - {label: "Ingress", name: "ingress", widget: "markdown", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}                
+  - name: 'enPages'
+    label: 'Pages (English)'
+    files:
+      - file: 'src/pages/en/about-us.md'
+        label: 'About us'
+        name: 'about-us'
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: 'Background image', name: bgImage, widget: image, required: false}
+          - {label: "Ingress", name: "ingress", widget: "markdown", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: 'src/pages/en/contribution.md'
+        label: 'Contribution'
+        name: 'contribution'
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: 'Background image', name: bgImage, widget: image, required: false}
+          - {label: "Ingress", name: "ingress", widget: "markdown", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: 'src/pages/en/volunteer.md'
+        label: 'Volunteer'
+        name: 'volunteer'
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: 'Background image', name: bgImage, widget: image, required: false}
+          - {label: "Ingress", name: "ingress", widget: "markdown", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: 'src/pages/en/about-senegal.md'
+        label: 'About Sénégal'
+        name: 'about-senegal'
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: 'Background image', name: bgImage, widget: image, required: false}
+          - {label: "Ingress", name: "ingress", widget: "markdown", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: 'src/pages/en/contact.md'
+        label: 'Contact'
+        name: 'contact'
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: 'Background image', name: bgImage, widget: image, required: false}
+          - {label: "Ingress", name: "ingress", widget: "markdown", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+  - name: 'frPages'
+    label: 'Pages (French)'
+    files:
+      - file: 'src/pages/fr/a-propos-de-nous.md'
+        label: 'à Propos de nous'
+        name: 'a-propos-de-nous'
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: 'Background image', name: bgImage, widget: image, required: false}
+          - {label: "Ingress", name: "ingress", widget: "markdown", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: 'src/pages/fr/contribution.md'
+        label: 'Contribution'
+        name: 'contribution'
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: 'Background image', name: bgImage, widget: image, required: false}
+          - {label: "Ingress", name: "ingress", widget: "markdown", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: 'src/pages/fr/volontaire.md'
+        label: 'Volontaire'
+        name: 'volontaire'
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: 'Background image', name: bgImage, widget: image, required: false}
+          - {label: "Ingress", name: "ingress", widget: "markdown", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: 'src/pages/fr/de-senegal.md'
+        label: 'de Sénégal'
+        name: 'de-senegal'
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: 'Background image', name: bgImage, widget: image, required: false}
+          - {label: "Ingress", name: "ingress", widget: "markdown", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: 'src/pages/fr/contact.md'
+        label: 'Contact'
+        name: 'contact'
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: 'Background image', name: bgImage, widget: image, required: false}
+          - {label: "Ingress", name: "ingress", widget: "markdown", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}                 

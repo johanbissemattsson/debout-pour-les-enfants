@@ -5,11 +5,11 @@ import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import Content, { HTMLContent } from '../components/Content'
 
-export const BlogPostTemplate = ({
+export const PostTemplate = ({
   content,
   contentComponent,
+  date,
   description,
-  tags,
   title,
   helmet,
 }) => {
@@ -17,6 +17,7 @@ export const BlogPostTemplate = ({
 
   return (
     <article>
+      {helmet}
       <div className='header-container'>
         <header className='header'>
           <section className='intro no-featured-image'>
@@ -30,52 +31,51 @@ export const BlogPostTemplate = ({
       </div>
       <div className="main-content-container">
         <PostContent className='content' content={content} />
+        <p>{date}</p>
       </div>
     </article>
   )
 }
 
-BlogPostTemplate.propTypes = {
+PostTemplate.propTypes = {
   content: PropTypes.string.isRequired,
   contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
-  helmet: PropTypes.instanceOf(Helmet),
 }
 
-const BlogPost = ({ data }) => {
+const Post = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
-    <BlogPostTemplate
+    <PostTemplate
       content={post.html}
       contentComponent={HTMLContent}
       description={post.frontmatter.description}
-      helmet={<Helmet title={`${post.frontmatter.title} | Blog`} />}
-      tags={post.frontmatter.tags}
+      helmet={<Helmet title={`${post.frontmatter.title} | Debout pour les Enfants`} />}
       title={post.frontmatter.title}
+      date={post.frontmatter.date}
     />
   )
 }
 
-BlogPost.propTypes = {
+Post.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.object,
   }),
 }
 
-export default BlogPost
+export default Post
 
-export const pageQuery = graphql`
-  query BlogPostByID($id: String!) {
+export const postQuery = graphql`
+  query postByID($id: String!) {
     markdownRemark(id: { eq: $id }) {
       id
       html
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "YYYY-MM-DD")
         title
         description
-        tags
       }
     }
   }

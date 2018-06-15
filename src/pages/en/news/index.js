@@ -12,7 +12,7 @@ const PostsPage = ({
         <section className='intro no-featured-image'>
           <div className='content'>
             <div className='intro-description'>
-              <h1>Aktuellt</h1>
+              <h1>News</h1>
             </div>
           </div>
         </section>
@@ -51,11 +51,15 @@ const PostsPage = ({
 export default PostsPage
 
 export const postsPageQuery = graphql`
-  query PostsQuery {
+  query EnPostsQuery {
     allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] },
-      filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
-    ) {
+      filter: {
+        frontmatter: {
+          templateKey: { eq: "post" },
+          language: {eq: "en"}
+        }
+      }    ) {
       edges {
         node {
           excerpt(pruneLength: 300)
@@ -73,30 +77,3 @@ export const postsPageQuery = graphql`
     }
   }
 `
-
-/*
-
-  <section className="section">
-    <Helmet title={`Tags | ${title}`} />
-    <div className="container content">
-      <div className="columns">
-        <div
-          className="column is-10 is-offset-1"
-          style={{ marginBottom: '6rem' }}
-        >
-          <h1 className="title is-size-2 is-bold-light">Aktuellt</h1>
-          <ul className="taglist">
-            {group.map(tag => (
-              <li key={tag.fieldValue}>
-                <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
-                  {tag.fieldValue} ({tag.totalCount})
-                </Link>
-              </li>
-            ))}
-          </ul>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  */
