@@ -33,7 +33,7 @@ export const PostTemplate = ({
       <div className="main-content-container">
         <PostContent className='content' content={content} />
         <div className='content'>
-          {date}
+          <div className='date'>{date}</div>
         </div>
       </div>
     </article>
