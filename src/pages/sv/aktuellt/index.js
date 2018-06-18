@@ -7,6 +7,7 @@ const PostsPage = ({
   data: { allMarkdownRemark: { edges: posts }},
 }) => (
   <div className='posts-page-container'>
+    <Helmet title={'Aktuellt | Debout pour les Enfants'} />
     <div className='header-container'>
       <header className='header'>
         <section className='intro no-featured-image'>

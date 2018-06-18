@@ -1,9 +1,9 @@
 ---
 templateKey: indexPage
 path: /
-title: Debout pour les Enfants — Stand up for the Children
+title: Debout pour les Enfants
 bgImage: hej
 language: fr
 ---
-# Om oss
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+**Debout pour les Enfants Senegal** är en ideell organisation som genom att driva ett center vill göra livet lite bättre för gatubarnen i Ziguinchor, en stad i södra Senegal.
+<div class='call-to-action'><p><a href='sv/bidrag' class='button'>Bli månadsgivare</a> eller delta i verksamheten som <a href='sv/volontar'>volontär</a>.</p></div>

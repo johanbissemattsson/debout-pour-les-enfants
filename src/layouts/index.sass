@@ -54,13 +54,21 @@ a
 
       .nav-lang
         font-size: 0.875em
+        display: flex
+        justify-content: flex-end
+
+        .hideable-chars
+          display: none
+
+          @media only screen and (min-width: 720px)
+            display: inline-block
 
         .nav-item
-          margin-left: 2px
           color: $purple
           background: $lighter-purple
-          padding: 1em 1.25em
-          display: inline-block
+          padding: 1em 0.75em
+          display: flex
+          align-items: center
           transition: 0.25s background-color
 
           &:last-child
@@ -72,6 +80,10 @@ a
           &:hover
             background: lighten($purple,31%)
 
+          .flag-icon
+            border-radius: 100%
+            margin-right: 0.5em 
+
         .nav-item.active
           background: $purple
           color: $white
@@ -80,20 +92,27 @@ a
         margin-top: 2em
 
         .nav-item
-          margin-right: 1em
+          margin-right: 0.25em
           font-family: 'Open Sans Condensed'
           font-weight: 700
           font-size: 1.125em
           line-height: 1.125          
 
+          @media only screen and (min-width: 1140px)  
+            margin-right: 1em              
+
           &:last-child
             margin-right: 0
+
         a
-          padding: 0.5em 1em
+          padding: 0.5em
           color: $blue
           transition: background-color 0.25s
           border-radius: 4px
           background: lighten($blue,31%)
+
+          @media only screen and (min-width: 1280px)  
+            padding: 0.5em 1em
 
         a:hover
           background: lighten($blue,27%)
@@ -118,13 +137,20 @@ a
     justify-content: initial
     align-items: initial
     min-height: 480px
-    font-size: 1em
+    font-size: 0.875em
+    align-items: center
+
+    @media only screen and (min-width: 720px)
+      font-size: 1em
     
     .intro-description
       max-width: ($max-width / 2) - ($max-width * 0.05)
+      
       h1
         text-transform: uppercase
-        font-size: 4em
+
+        @media only screen and (min-width: 768px)
+          font-size: 4em
         
 .intro
   background: grey
@@ -139,17 +165,26 @@ a
   
   .intro-description
     box-sizing: border-box
-    padding: 2em 4em
+    padding: 1em
     background: rgba($purple, 0.9)
     color: $lighter-purple
     display: inline-block
 
+    @media only screen and (min-width: 720px)
+      padding: 2em 2em
+
+    @media only screen and (min-width: 1140px)
+      padding: 2em 4em            
+
     h1
-      margin: 0.5em 0 0.33em 0
+      margin: 0 0 0.33em 0
       color: $white
       font-size: 3em
       letter-spacing: initial
 
+      @media only screen and (min-width: 1140px)
+        margin: 0.5em 0 0.33em 0
+      
     strong
       font-family: 'Open Sans Condensed'
       font-weight: 700
@@ -176,28 +211,30 @@ a
       &:after
         border-bottom: 1px solid $lighter-purple
 
-    .button
-      font-family: 'Open Sans Condensed'
-      font-weight: 700
-      color: $white
-      letter-spacing: 0.015em
-      text-decoration: none
-      padding: 0.5em 0.625em
-      margin-right: 0.25em
-      background: $lighter-purple
-      color: $purple
-      transition: background-color 0.25s
-      border-bottom: none
+    @media only screen and (min-width: 720px)
 
-      &:after
-        content: none
+      .button
+        font-family: 'Open Sans Condensed'
+        font-weight: 700
+        color: $white
+        letter-spacing: 0.015em
+        text-decoration: none
+        padding: 0.5em 0.625em
+        margin-right: 0.25em
+        background: $lighter-purple
+        color: $purple
+        transition: background-color 0.25s
+        border-bottom: none
 
-    .button:hover
-      background: $white
-      color: $purple
+        &:after
+          content: none
 
-  .call-to-action
-    margin-top: 2em
+      .button:hover
+        background: $white
+        color: $purple
+
+      .call-to-action
+        margin-top: 2em
 
 .posts
   display: flex
@@ -205,16 +242,29 @@ a
   margin-bottom: 2em
 
   .post-item-container
-    width: 50%
+    width: 100%
     box-sizing: border-box
     display:  flex
 
+    @media only screen and (min-width: 768px)
+      width: 50%
+
     .post-item
-      padding: 2em 4em
+      padding: 0 1em 1em 1em
       margin-bottom: 2em
       background: lighten($blue,31%)
       border-radius: 4px
       box-shadow: 0 3px 6px rgba($blue,0.12), 0 3px 6px rgba($blue,0.16)
+
+      @media only screen and (min-width: 1140px)
+        padding: 2em 4em
+
+      p
+        font-size: 0.875em
+
+        @media only screen and (min-width: 1280px)
+          font-size: 1em
+
 
       .image
         margin: 1em 0
@@ -323,21 +373,42 @@ a
 
     .nav-items
       display: flex
-      font-size: 0.875em
+      flex-direction: column
+
+      @media only screen and (min-width: 1140px)
+        flex-direction: row
+
+        align-self: 
+          font-size: 0.875em
 
       .nav-start
+        display: flex
+        flex-direction: column
+
+        @media only screen and (min-width: 1140px)
+          flex-direction: row
+
         a
           margin-right: 2em
+          margin-bottom: 1em
 
       .nav-lang
-        margin-left: auto
+        @media only screen and (min-width: 1140px)
+          margin-left: auto
+          margin-top: 0 !important
+          
+          a
+           margin-left: 1em
+
+          a:last-child
+            margin-right: -0.5em
+
+      .nav-lang
+        margin-top: 1em
+        font-size: 0.875em
 
         a
-          margin-left: 1em
-          padding: 0.5em
-
-          &:last-child
-            margin-right: -0.5em
+          margin-right: 2em
 
 .intro-title
   padding: 1.333333333333333em 5% 0.6666666666em 5%
@@ -352,7 +423,9 @@ a
     padding: 0 5%
     max-width: ($max-width / 2)
     margin: 0 auto
-    font-size: 1.125em
+
+    @media only screen and (min-width: 800px)
+      font-size: 1.125em
 
   p
     margin: 1.5em 0
@@ -390,3 +463,67 @@ a
     .intro-description
       padding: 1em 2em 2em 2em
       max-width: ($max-width / 2) - ($max-width * 0.1)
+
+.hamburger-menu-container 
+
+  .bm-overlay
+    top: 0
+    right: 0
+
+  .bm-burger-button 
+    width: 32px
+    height: 28px
+    position: relative
+    display: inline-block
+
+  /* Color/shape of burger icon bars */
+  .bm-burger-bars 
+    background: $blue
+
+  /* Position and sizing of clickable cross button */
+  .bm-cross-button 
+    height: 32px 
+    width: 32px
+
+  /* Color/shape of close button cross */
+  .bm-cross 
+    background: $blue
+
+  /* General sidebar styles */
+  .bm-menu 
+    background: lighten($blue,31%)
+    padding: 2.5em 1.5em 0
+    font-size: 1.15em
+    overflow: hidden !important
+
+    .bm-item-list 
+      color: $blue
+      padding: 0.8em
+      text-align: left
+
+  .bm-item 
+    display: inline-block
+    text-decoration: none
+    margin-bottom: 0.8em
+
+  .bm-item:hover
+    text-decoration: underline
+
+  .bm-overlay 
+    background: rgba(0, 0, 0, 0.3)
+
+  .bm-menu-wrap
+    top: 0
+
+.main-menu
+  display: none
+
+
+
+@media only screen and (min-width: 1024px)  
+  .hamburger-menu-container 
+    .bm-burger-button
+      display: none
+
+  .main-menu
+    display: block

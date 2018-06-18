@@ -85,13 +85,13 @@ export default class Footer extends React.Component {
                 }
               <div className='nav-lang'>
                 <Link className='nav-item' to='/' className={language === 'sv' ? 'active' : ''}>
-                  Sv
+                  Svenska
                 </Link>
                 <Link className='nav-item' to='/fr' className={language === 'fr' ? 'active' : ''}>
-                  Fr
+                  Français
                 </Link>
                 <Link className='nav-item' to='/en' className={language === 'en' ? 'active' : ''}>
-                  En
+                  English
                 </Link>
               </div>
               </div>

@@ -8,7 +8,9 @@ export class IndexPageTemplate extends React.Component {
   render() {
     const { helmet, title, content, contentComponent, posts, language } = this.props;
     const { edges } = posts;
-    console.log(language);
+
+    const PageContent = contentComponent || Content;
+
     return (
       <div className='index-container'>
         {helmet}
@@ -18,10 +20,7 @@ export class IndexPageTemplate extends React.Component {
               <div className='content'>
                 <div className='intro-description'>
                   <h1>Debout pour <br />les Enfants <br />Senegal</h1>
-                  <p><strong>Debout pour les Enfants Senegal &mdash; Stå upp för barnen</strong> är en ideell organisation som genom att driva ett center vill göra livet lite bättre för gatubarnen i <Link to='sv/om-oss'>Ziguinchor</Link>, en stad i södra Senegal.</p>
-                  <div className='call-to-action'>
-                    <p><Link to='sv/bidrag' className='button'>Bli månadsgivare</Link> eller delta i verksamheten som <Link to='sv/volontar'>volontär</Link>.</p>
-                  </div>
+                  <PageContent content={content} />
                 </div>
               </div>
             </section>
@@ -35,25 +34,30 @@ export class IndexPageTemplate extends React.Component {
                   <h1 className='section-title'>{language === 'en' ? 'News' : language === 'fr' ? '`d Actualite' : 'Aktuellt'}</h1>
                   <div className='posts'>
                   {edges
-                    .map(({ node: post }) => (
-                      <div className='post-item-container' key={post.id}>
-                        <div className='post-item'>
-                          <h3 className='post-item-title'>
-                            <Link className="has-text-primary" to={post.fields.slug}>
-                              <figure className='image'>
-                                <img src={''} alt='Kaldi' />
-                              </figure>
-                              {post.frontmatter.title}
-                            </Link>
-                          </h3>
-                          <p>
-                            {post.excerpt}
-                            <br />
-                          </p>
-                          <p className='date'><Link to={post.fields.slug}>{post.frontmatter.date}</Link></p>
-                        </div>
-                      </div>
-                    ))}
+                    .map(({ node: post }) => {
+                      if (language === post.frontmatter.language) {
+                        return (
+                          <div className='post-item-container' key={post.id}>
+                            <div className='post-item'>
+                              <h3 className='post-item-title'>
+                                <Link className="has-text-primary" to={post.fields.slug}>
+                                  <figure className='image'>
+                                    <img src={''} alt={post.frontmatter.title} />
+                                  </figure>
+                                  {post.frontmatter.title}
+                                </Link>
+                              </h3>
+                              <p>
+                                {post.excerpt}
+                                <br />
+                              </p>
+                              <p className='date'><Link to={post.fields.slug}>{post.frontmatter.date}</Link></p>
+                            </div>
+                          </div>
+                        )}
+                      }
+                    )}
+                    
                   </div>
                 </section>
               }
@@ -65,28 +69,6 @@ export class IndexPageTemplate extends React.Component {
   }
 }
 
-/*
-                  {posts
-                    .map(({ node: post }) => (
-                      <div className='post-item-container' key={post.id}>
-                        <div className='post-item'>
-                          <h3 className='post-item-title'>
-                            <Link className="has-text-primary" to={post.fields.slug}>
-                              <figure className='image'>
-                                <img src={''} alt='Kaldi' />
-                              </figure>
-                              {post.frontmatter.title}
-                            </Link>
-                          </h3>
-                          <p>
-                            {post.excerpt}
-                            <br />
-                          </p>
-                          <p className='date'><Link to={post.fields.slug}>{post.frontmatter.date}</Link></p>
-                        </div>
-                      </div>
-                    ))}
-                    */
 IndexPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
@@ -107,7 +89,7 @@ const IndexPage = ({ data }) => {
       ingress={page.frontmatter.ingress}
       posts={posts}
       language={page.frontmatter.language}
-      helmet={<Helmet title={`Debout pour les Enfants`} />}
+      helmet={<Helmet title={page.frontmatter.title} />}
     />
   )
 }
@@ -146,6 +128,7 @@ export const indexPageQuery = graphql`
             title
             templateKey
             date(formatString: "YYYY-MM-DD")
+            language
           }
         }
       }
