@@ -3,19 +3,24 @@ import Link from 'gatsby-link'
 
 import { slide as Menu } from 'react-burger-menu'
 
-import logo from '../img/logo.svg'
+import logo from '../img/logo-dpe.svg'
 import svFlag from 'flag-icon-css/flags/1x1/se.svg';
 import enFlag from 'flag-icon-css/flags/1x1/gb.svg';
 import frFlag from 'flag-icon-css/flags/1x1/sn.svg';
 
 export default class Nav extends React.Component {
-  showSettings (event) {
-    event.preventDefault();
+  constructor() {
+    super();
+    this.state = {menuOpen: false}
   }
-
 
   render() {
     const { language } = this.props;
+
+    const handleMenuClick = (event) => {
+      this.setState({menuOpen: false});
+    }
+
     return(
       <div className='site-nav-container'>
         <nav className='site-nav'>
@@ -23,19 +28,19 @@ export default class Nav extends React.Component {
             {language === 'en' ?
               <Link to='/en' className='nav-item'>
                 <figure className='image'>
-                  <img src={logo} alt='Debout pour les Enfants' style={{ width: '88px' }} />
+                  <img src={logo} alt='Debout pour les Enfants'/>
                 </figure>
               </Link>
             : language === 'fr' ?
               <Link to='/fr' className='nav-item'>
                 <figure className='image'>
-                  <img src={logo} alt='Debout pour les Enfants' style={{ width: '88px' }} />
+                  <img src={logo} alt='Debout pour les Enfants' />
                 </figure>
               </Link>
             :
               <Link to='/' className='nav-item'>
                 <figure className='image'>
-                  <img src={logo} alt='Debout pour les Enfants' style={{ width: '88px' }} />
+                  <img src={logo} alt='Debout pour les Enfants'/>
                 </figure>
               </Link>                  
             }
@@ -55,14 +60,14 @@ export default class Nav extends React.Component {
             {language === 'en' ?
               <div className='nav-start'>
                 <div className='hamburger-menu-container'>
-                  <Menu right className='hamburger-menu'>
-                    <Link className='menu-item' to='/en'>Home</Link>
-                    <Link className='menu-item' to='/en/about-us'>About us</Link>
-                    <Link className='menu-item' to='/en/news'>News</Link>
-                    <Link className='menu-item' to='/en/contribution'>Contribution</Link>
-                    <Link className='menu-item' to='/en/volunteer'>Volunteer</Link>
-                    <Link className='menu-item' to='/en/about-senegal'>About Sénégal</Link>
-                    <Link className='menu-item' to='/en/contact'>Contact</Link>
+                  <Menu right className='hamburger-menu'  isOpen={ this.state.menuOpen } >
+                    <Link className='menu-item' to='/en' onClick={ handleMenuClick }>Home</Link>
+                    <Link className='menu-item' to='/en/about-us' onClick={ handleMenuClick }>About us</Link>
+                    <Link className='menu-item' to='/en/news' onClick={ handleMenuClick }>News</Link>
+                    <Link className='menu-item' to='/en/contribution' onClick={ handleMenuClick }>Contribution</Link>
+                    <Link className='menu-item' to='/en/volunteer' onClick={ handleMenuClick }>Volunteer</Link>
+                    <Link className='menu-item' to='/en/about-senegal' onClick={ handleMenuClick }>About Sénégal</Link>
+                    <Link className='menu-item' to='/en/contact' onClick={ handleMenuClick }>Contact</Link>
                   </Menu>
                 </div>
                 <div className='main-menu'>
@@ -89,14 +94,14 @@ export default class Nav extends React.Component {
             : language === 'fr' ?
               <div className='nav-start'>
               <div className='hamburger-menu-container'>
-                  <Menu right className='hamburger-menu'>
-                    <Link className='menu-item' to='/fr'>Maison</Link>
-                    <Link className='menu-item' to='/fr/a-propos-de-nous'>à Propos de nous</Link>
-                    <Link className='menu-item' to='/fr/actualite'>`d Actualite</Link>
-                    <Link className='menu-item' to='/fr/contribution'>Contribution</Link>
-                    <Link className='menu-item' to='/fr/volontaire'>Volontaire</Link>
-                    <Link className='menu-item' to='/fr/de-senegal'>de Sénégal</Link>
-                    <Link className='menu-item' to='/fr/contact'>Contact</Link>
+                  <Menu right className='hamburger-menu'  isOpen={ this.state.menuOpen }>
+                    <Link className='menu-item' to='/fr' onClick={handleMenuClick}>Maison</Link>
+                    <Link className='menu-item' to='/fr/a-propos-de-nous' onClick={handleMenuClick }>à Propos de nous</Link>
+                    <Link className='menu-item' to='/fr/actualite' onClick={ handleMenuClick}>`d Actualite</Link>
+                    <Link className='menu-item' to='/fr/contribution' onClick={ handleMenuClick}>Contribution</Link>
+                    <Link className='menu-item' to='/fr/volontaire' onClick={ handleMenuClick}>Volontaire</Link>
+                    <Link className='menu-item' to='/fr/de-senegal' onClick={ handleMenuClick}>de Sénégal</Link>
+                    <Link className='menu-item' to='/fr/contact' onClick={ handleMenuClick}>Contact</Link>
                   </Menu>
                 </div>
                 <div className='main-menu'>
@@ -123,14 +128,14 @@ export default class Nav extends React.Component {
             :
               <div className='nav-start'>
                 <div className='hamburger-menu-container'>
-                    <Menu right className='hamburger-menu'>
+                    <Menu right className='hamburger-menu'  isOpen={ this.state.menuOpen }>
                       <Link className='menu-item' to='/'>Hem</Link>
-                      <Link className='menu-item' to='/sv/om-oss'>Om oss</Link>
-                      <Link className='menu-item' to='/sv/aktuellt'>Aktuellt</Link>
-                      <Link className='menu-item' to='/sv/bidrag'>Bidrag</Link>
-                      <Link className='menu-item' to='/sv/volontar'>Volontär</Link>
-                      <Link className='menu-item' to='/sv/om-senegal'>Om Sénegal</Link>
-                      <Link className='menu-item' to='/sv/kontakt'>Kontakt</Link>
+                      <Link className='menu-item' to='/sv/om-oss' onClick={ handleMenuClick}>Om oss</Link>
+                      <Link className='menu-item' to='/sv/aktuellt' onClick={handleMenuClick}>Aktuellt</Link>
+                      <Link className='menu-item' to='/sv/bidrag' onClick={handleMenuClick}>Bidrag</Link>
+                      <Link className='menu-item' to='/sv/volontar' onClick={handleMenuClick}>Volontär</Link>
+                      <Link className='menu-item' to='/sv/om-senegal' onClick={handleMenuClick}>Om Sénegal</Link>
+                      <Link className='menu-item' to='/sv/kontakt' onClick={handleMenuClick}>Kontakt</Link>
                     </Menu>
                   </div>
                   <div className='main-menu'>                
