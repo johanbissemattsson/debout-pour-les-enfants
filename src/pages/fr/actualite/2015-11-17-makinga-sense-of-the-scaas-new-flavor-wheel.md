@@ -1,6 +1,6 @@
 ---
 templateKey: post
-language: en
+language: fr
 title: afafafa
 date: 2015-11-17T15:04:10.000Z
 description: gagaga
