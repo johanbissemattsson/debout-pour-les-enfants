@@ -7,10 +7,12 @@ public_folder: /img
 
 collections:
   - name: "svPosts"
-    label: "Swedish posts"
+    label: "Swedish Posts"
     folder: "src/pages/sv/aktuellt"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "post"}
       - {label: "Language", name: "language", widget: "hidden", default: "sv"}
@@ -20,10 +22,12 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "enPosts"
-    label: "English posts"
+    label: "English Posts"
     folder: "src/pages/en/news"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false    
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "post"}
       - {label: "Language", name: "language", widget: "hidden", default: "en"}
@@ -33,10 +37,12 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "frPosts"
-    label: "French posts"
+    label: "French Posts"
     folder: "src/pages/fr/actualite"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false    
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "post"}
       - {label: "Language", name: "language", widget: "hidden", default: "fr"}
@@ -46,7 +52,9 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}      
   - name: 'svPages'
-    label: 'Swedish pages'
+    label: 'Swedish Pages'
+    editor:
+      preview: false    
     files:
       - file: 'src/pages/sv/om-oss.md'
         label: 'Om oss'
@@ -94,7 +102,9 @@ collections:
           - {label: "Ingress", name: "ingress", widget: "markdown", required: false}
           - {label: "Body", name: "body", widget: "markdown"}                
   - name: 'enPages'
-    label: 'English pages'
+    label: 'English Pages'
+    editor:
+      preview: false    
     files:
       - file: 'src/pages/en/about-us.md'
         label: 'About us'
@@ -142,7 +152,9 @@ collections:
           - {label: "Ingress", name: "ingress", widget: "markdown", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
   - name: 'frPages'
-    label: 'French pages'
+    label: 'French Pages'
+    editor:
+      preview: false    
     files:
       - file: 'src/pages/fr/a-propos-de-nous.md'
         label: 'à Propos de nous'
