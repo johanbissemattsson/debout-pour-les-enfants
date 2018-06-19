@@ -2,7 +2,7 @@
 templateKey: 'page'
 path: /about-us
 title: About us
-bgImage: hej
+bgImage: /img/products-grid3.jpg
 ingress: We are an ideal organization which goal is to make life a little better for the street children in Ziguinchor, a city in southern Senegal.
 ---
 # Talibéer

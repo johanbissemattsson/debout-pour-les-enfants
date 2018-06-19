@@ -2,7 +2,7 @@
 templateKey: 'page'
 path: /de-senegal
 title: de Sénégal
-bgImage: hej
+bgImage: /img/products-grid3.jpg
 ingress: Maecenas iaculis nibh ut nisi tincidunt eleifend. Donec sagittis sapien neque, ut sodales dolor faucibus sed.
 
 ---

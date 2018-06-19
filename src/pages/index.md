@@ -2,7 +2,7 @@
 templateKey: 'indexPage'
 path: /
 title: Debout pour les Enfants — Stå upp för barnen
-bgImage: hej
+bgImage: /img/products-grid3.jpg
 language: sv
 ---
 **Debout pour les Enfants Senegal &mdash; Stå upp för barnen** är en ideell organisation som genom att driva ett center vill göra livet lite bättre för gatubarnen i , en stad i södra Senegal.

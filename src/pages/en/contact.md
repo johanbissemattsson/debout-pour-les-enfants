@@ -2,7 +2,7 @@
 templateKey: 'page'
 path: /contact
 title: Contact us
-bgImage: hej
+bgImage: /img/products-grid3.jpg
 ingress: Aliquam nec ligula eros semper mi. Praesent efficitur dapibus diam ad est eget dapibus magna facilisis. 
 ---
 Curabitur tortor nibh, faucibus egestas ornare non, malesuada ac augue. Nulla consectetur ligula dolor, eget mattis lectus faucibus a. Suspendisse sit amet eros porta, tempus massa non, sollicitudin orci.

@@ -2,7 +2,7 @@
 templateKey: 'page'
 path: /om-oss
 title: Om oss
-bgImage: hej
+bgImage: /img/products-grid3.jpg
 ingress: Vi är en ideell organisation som genom att driva ett center vill göra livet lite bättre för gatubarnen i Ziguinchor, en stad i södra Senegal.
 ---
 # Talibéer

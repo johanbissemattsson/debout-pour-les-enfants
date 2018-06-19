@@ -2,7 +2,7 @@
 templateKey: 'page'
 path: /volontaire
 title: Volontaire
-bgImage: hej
+bgImage: /img/products-grid3.jpg
 ingress: Vestibulum feugiat convallis massa id ultricies. Nulla sodales est nec pharetra fermentum ad est dolores.
 ---
 # Un titre sur le bénévolat

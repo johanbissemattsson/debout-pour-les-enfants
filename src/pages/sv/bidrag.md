@@ -2,7 +2,7 @@
 templateKey: 'page'
 path: /bidrag
 title: Bidrag lorem ipsum
-bgImage: hej
+bgImage: /img/products-grid3.jpg
 ingress: Lorem ipsum ad est dolores fianlique voriste quantum ad est domingo florentin. Eros ad domino.
 ---
 # Detta är en rubrik
