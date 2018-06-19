@@ -1,7 +1,7 @@
 ---
 templateKey: post
 language: sv
-title: Vestibulum eu risus sit amet urna tempus luctus ultrices vitae
+title: Vestibulum eu risus sit amet urna tempus luctus ultrices
 date: '2018-06-19T22:48:53+02:00'
 featuredImage: /img/jumbotron.jpg
 description: >-
