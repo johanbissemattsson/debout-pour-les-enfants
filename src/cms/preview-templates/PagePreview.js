@@ -2,10 +2,6 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { PageTemplate } from '../../templates/page'
 
-import 'normalize.css';
-
-import '../../layouts/index.sass';
-
 class PagePreview extends Component { 
   render() {
     const { entry, widgetFor } = this.props;
