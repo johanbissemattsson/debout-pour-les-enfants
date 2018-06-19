@@ -8,6 +8,7 @@ class PagePreview extends Component {
     return (
       <PageTemplate
         title={entry.getIn(['data', 'title'])}
+        ingress={entry.getIn(['data', 'ingress'])}
         content={widgetFor('body')}
       />
     );
