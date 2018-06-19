@@ -1,19 +1,13 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { PageTemplate } from '../../templates/page'
+import { PageTemplate } from '../../templates/about-page'
 
-class PagePreview extends Component { 
-  render() {
-    const { entry, widgetFor } = this.props;
-    return (
-      <PageTemplate
-        title={entry.getIn(['data', 'title'])}
-        ingress={entry.getIn(['data', 'ingress'])}
-        content={widgetFor('body')}
-      />
-    );
-  }
-}
+const PagePreview = ({ entry, widgetFor }) => (
+  <PageTemplate
+    title={entry.getIn(['data', 'title'])}
+    content={widgetFor('body')}
+  />
+)
 
 PagePreview.propTypes = {
   entry: PropTypes.shape({
@@ -23,4 +17,3 @@ PagePreview.propTypes = {
 }
 
 export default PagePreview
-
