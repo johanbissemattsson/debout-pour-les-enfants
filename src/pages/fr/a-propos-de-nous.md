@@ -1,21 +1,18 @@
 ---
 templateKey: 'page'
 path: /a-propos-de-nous
-title: à Propos de nous FR
+title: à Propos de nous
 bgImage: hej
-ingress: Ingress til là Propos de nous
+ingress: Nous sommes une organisation idéale qui dirige un centre pour rendre la vie un peu meilleure pour les enfants des rues de Ziguinchor, une ville du sud du Sénégal.
+
 ---
-# Om oss
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+# Talibées
+Les enfants des rues au Sénégal sont appelés talibans, ce qui signifie disciples. Ils ont été relayés par leurs parents, parfois déjà à l'âge de quatre ans, dans les écoles coraniques de Marabouer. L'intention est que les garçons apprennent le Coran au-delà de ce qui peut prendre jusqu'à dix ans. Beaucoup d'enfants ne rencontrent pas leurs familles pendant tout ce temps. La plupart du temps, ils passent dans les rues pour mendier de la nourriture et de l'argent pour le Marabou. Les enfants sont sales avec des vêtements cassés et généralement sans chaussures.
 
-# Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+# Daaras
+Il y a le nom d'une école coranique. Beaucoup sont situés dans des endroits que nous considérons comme étant déversés. Les talibans dorment sur du plastique ou des bâtards qui gisent directement sur le sol sale. Ici, ils passent aussi du temps pour leurs études avec les Marabouen. L'accès aux toilettes est bien sûr, mais pas beaucoup d'hygiène.
 
-## Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+# Convention des Nations Unies sur les droits de l'enfant et ce que nous voulons accomplir
+Le Sénégal a signé la Convention des Nations Unies relative aux droits de l'enfant mais n'en fait pas assez pour la suivre. Les talibans sont un problème qui a été noté ces dernières années mais les changements tardent à se produire.
 
-## Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-## Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Au centre que nous avons à Ziguinchor, nous voulons donner aux enfants, principalement aux talibans, l'occasion d'être des enfants ordinaires, de jouer au football, de dessiner et de lire des livres. Nous voulons aussi enseigner le français, qui est la langue officielle du Sénégal, et aussi l'anglais. Quand les enfants grandissent, ils réalisent qu'ils ont besoin d'apprendre quelque chose de plus que le Coran et ils sont très motivés pour étudier.

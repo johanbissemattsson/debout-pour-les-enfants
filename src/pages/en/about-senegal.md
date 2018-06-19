@@ -3,20 +3,15 @@ templateKey: 'page'
 path: /about-senegal
 title: About Sénégal
 bgImage: hej
-ingress: Sénégal is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under othe
+ingress: Sénégal iaculis nibh ut nisi tincidunt eleifend. Donec sagittis sapien neque, ut sodales dolor faucibus sed.
 
 ---
-# Om Senegal
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+# A header about Sénégal
+Etiam eleifend ligula sit amet erat interdum aliquam. Phasellus dolor massa, sagittis sodales dui sit amet, elementum feugiat neque. In finibus, tellus at bibendum accumsan, quam urna convallis augue, euismod interdum tortor dolor vitae arcu. Suspendisse condimentum pharetra mattis. Suspendisse sit amet commodo erat. Morbi gravida pharetra neque, ac pretium quam placerat eu. Donec congue velit risus, id interdum ante scelerisque ac. Nunc vitae metus viverra, aliquam odio vel, mattis orci. Quisque interdum risus at ex volutpat, non laoreet justo tempus.
 
-# Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Nam sollicitudin tincidunt libero, nec pretium enim pretium vitae. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi sed ante fermentum, placerat nisi id, tempor est. Ut sapien eros, vestibulum maximus nunc eu, viverra tincidunt justo. Phasellus congue id massa in blandit. Aliquam nec ligula lobortis, maximus dolor blandit, semper mi. Praesent efficitur dapibus diam, eget dapibus magna facilisis cursus. 
 
-## Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+## Another header about Sénégal
+Praesent eu lectus urna. Nam imperdiet cursus purus, eget eleifend sapien viverra sit amet. Aliquam erat volutpat. Donec gravida neque nec metus dignissim interdum. Integer venenatis felis et ante scelerisque, eu varius nisi porttitor. In hac habitasse platea dictumst. Donec luctus facilisis sapien. Donec bibendum massa nec efficitur dictum. Cras vel luctus urna, vitae tristique leo. Phasellus quis sodales eros, at vehicula risus. Donec ultricies posuere tellus et scelerisque. Mauris ut euismod odio. Aenean sed dolor id dui vehicula aumsan.
 
-## Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-## Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Nulla bibendum sodales efficitur. Fusce ut leo id magna consequat tempus et a mauris. In ut aliquam est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec turpis tortor, eu ipsum vitae, pretium faucibus nulla. Nullam blandit nunc non orci auctor, sit amet efficitur erat bibendum. Mauris sit amet iaculis risus. Proin tempus vulputate odio ac cursus. Nullam ligula odio, auctor ut elementum quis, placerat sit amet lacus. Nullam tincidunt iaculis tortor. Phasellus convallis lacus sit amet scelerisque aliquet. Proin non nulla massa. Aliquam risus metus, posuere a est ut, scelerisque pretium nisl.

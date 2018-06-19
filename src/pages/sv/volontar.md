@@ -3,19 +3,13 @@ templateKey: 'page'
 path: /volontar
 title: Bli volontär
 bgImage: hej
-ingress: Hej
+ingress: Vestibulum feugiat convallis massa id ultricies. Nulla sodales est nec pharetra fermentum ad est dolores.
 ---
-# Volontar
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+# En rubrik om volontärsarbete
+Etiam efficitur non ex a facilisis. Sed lacinia purus dolor. Nullam pellentesque justo ac ligula consequat faucibus. In et placerat ligula. Integer turpis tortor, tempus ut tellus vel, viverra ultrices purus. Nunc maximus lorem vitae eleifend suscipit. Vestibulum ut ipsum tellus. 
 
-# Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+## En underrubrik om volontärsarbete
+Proin laoreet ipsum enim, et vestibulum ante condimentum eu. Nunc ac massa at nisl vehicula facilisis non eget justo. Pellentesque commodo, mauris at accusan semper, dui sem varius lorem, quis bibendum tortor sapien et purus. Nunc faucibus rutrum odio vel convallis. Suspendisse dictum, elit eget ornare sagittis, sem eros accumsan enim, vel rutrum massa augue vel nulla. Duis eu magna sed mauris malesuada convallis. Fusce nec dolor sed enim maximus semper non nec turpis magna. 
 
-## Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-## Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-## Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+## En till underrubrik om volontärsarbete
+Nam condimentum condimentum luctus. Morbi et enim augue. Mauris suscipit est eu arcu dapibus, id egestas tellus feugiat. In sed eros sit amet erat pretium mattis. Quisque et mattis nunc. Nullam non nulla velit. Curabitur at mattis nibh. Etiam malesuada pharetra mattis. Pellentesque varius enim quis justo euismod dignissim.

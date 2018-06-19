@@ -3,19 +3,15 @@ templateKey: 'page'
 path: /about-us
 title: About us
 bgImage: hej
-ingress: ingress About us
+ingress: We are an ideal organization which goal is to make life a little better for the street children in Ziguinchor, a city in southern Senegal.
 ---
-# Om oss
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+# Talibéer
+The street children in Senegal are called talibans which means disciples. They have been relayed by their parents, sometimes already at the age of four, to the Koran schools operated by Marabouer. The intention is that the boys will learn the Quran beyond which may take up to ten years. Many of the children do not meet their families throughout that time. Most of the day, they spend on the streets to beg for food and money for the Marabou. The children are dirty with broken clothes and usually without shoes.
 
-# Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+# Daaras
+There is the name of a Koran school. Many are located in places that we would consider to be dumped. The Talibans are sleeping on plastic or bastards lying directly on the dirty floor. Here they also spend the time for their studies with the Marabouen. Access to the toilet is of course, but not a lot of hygiene.
 
-## Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+# UN Convention on the Rights of the Child and what we want to achieve
+Senegal has signed the UN Convention on the Rights of the Child but does not do enough to follow it. The Taliban is a problem that has been noted in recent years but changes are delaying.
 
-## Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-## Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+In the center we have in Ziguinchor we want to give the children, primarily the Taliban, an opportunity to be ordinary children playing, playing soccer, drawing and reading books. We also want to teach French, which is the official language of Senegal, and also in English. When the children grow older they realize that they need to learn something more than the Quran and they are very motivated for study.

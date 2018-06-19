@@ -3,19 +3,15 @@ templateKey: 'page'
 path: /contribution
 title: Contribution
 bgImage: hej
-ingress: Contribution iodjvoiedjvioedjioe
+ingress: Lorem ipsum ad est dolores fianlique voriste quantum ad est domingo florentin. Eros ad domino.
 ---
-# Bidrag
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+# This is a header
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed sollicitudin tortor. Donec odio neque, varius in est sit amet, viverra ultrices augue. Curabitur facilisis, lorem eget congue scelerisque, enim ipsum venenatis enim, efficitur consectetur neque ipsum sit amet diam. Vestibulum bibendum mi dolor, ut interdum elit faucibus blandit. Suspendisse efficitur in lacus eleifend consectetur.
 
-# Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+## This is another header about how you can contribute
+In hac habitasse platea dictumst. Nullam ultricies arcu eu aliquam congue. Maecenas fringilla dui in quam luctus ultricies. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur congue elementum neque sed egestas. Donec porttitor justo ex, sit amet suscipit eros dapibus in. Aenean dignissim ultrices scelerisque. Nunc feugiat et nulla sit amet finibus. Nulla facilisi.
 
-## Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Vestibulum gravida urna vitae libero pretium rutrum. Morbi gravida pellentesque dolor at porttitor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis sit amet sodales nisl. Nam non facilisis eros, sit amet volutpat ipsum. Curabitur mollis finibus nisi. Morbi in euismod eros, sit amet sodales lorem. Sed vel diam felis ac, sagittis ante.
 
-## Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-## Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+## How to contribute
+Pellentesque ac nibh semper, semper urna mollis, condimentum urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec luctus arcu vitae tincidunt lacinia. Donec mattis pharetra posuere. In gravida felis et dapibus commodo. Integer eleifend arcu lorem, aliquam bibendum enim feugiat non. Praesent imperdiet sem justo, lobortis faucibus augue porta a. Etiam non enim pulvinar, egestas quam sed, faucibus ipsum. Nam sed ultricies tellus. Integer sed quam eu ligula dignissim maximus a a sapien. Donec ultrices turpis sed nisl finibus feugiat.
