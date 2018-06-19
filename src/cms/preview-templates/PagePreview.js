@@ -7,18 +7,7 @@ import 'normalize.css';
 
 import '../../layouts/index.sass';
 
-class PagePreview extends Component {
-  componentWillMount() {
-    if (canUseDOM) {
-      const WebFont = require('webfontloader');
-      WebFont.load({
-        google: {
-          families: ['Open Sans', 'Open Sans Condensed:300,700']
-        }
-      });
-    }
-  }
-    
+class PagePreview extends Component { 
   render() {
     const { entry, widgetFor } = this.props;
     return (
