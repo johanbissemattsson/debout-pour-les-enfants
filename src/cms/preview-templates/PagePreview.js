@@ -1,7 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { PageTemplate } from '../../templates/page'
-import { canUseDOM } from 'exenv';
 
 import 'normalize.css';
 
