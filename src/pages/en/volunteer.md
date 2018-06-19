@@ -1,9 +1,10 @@
 ---
-templateKey: 'page'
-path: /volunteer
+templateKey: page
 title: Volunteer
-bgImage: hej
-ingress: Vestibulum feugiat convallis massa id ultricies. Nulla sodales est nec pharetra fermentum ad est dolores.
+bgImage: /img/flavor_wheel.jpg
+ingress: >-
+  Vestibulum feugiat convallis massa id ultricies. Nulla sodales est nec
+  pharetra fermentum ad est dolores.
 ---
 # A header about how to volunteer
 Etiam efficitur non ex a facilisis. Sed lacinia purus dolor. Nullam pellentesque justo ac ligula consequat faucibus. In et placerat ligula. Integer turpis tortor, tempus ut tellus vel, viverra ultrices purus. Nunc maximus lorem vitae eleifend suscipit. Vestibulum ut ipsum tellus. 
