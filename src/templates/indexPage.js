@@ -6,7 +6,7 @@ import Link from 'gatsby-link'
 
 export class IndexPageTemplate extends React.Component {
   render() {
-    const { helmet, title, content, contentComponent, posts, language } = this.props;
+    const { helmet, title, content, contentComponent, posts, language, bgImage } = this.props;
     const { edges } = posts;
 
     const PageContent = contentComponent || Content;
@@ -16,7 +16,7 @@ export class IndexPageTemplate extends React.Component {
         {helmet}
         <div className='header-container'>
           <header className='header'>
-            <section className='intro'>
+            <section className='intro' style={{background: 'url(' + bgImage + ')'}}>
               <div className='content'>
                 <div className='intro-description'>
                   <h1>Debout pour <br />les Enfants <br />Senegal</h1>
@@ -75,6 +75,7 @@ IndexPageTemplate.propTypes = {
   contentComponent: PropTypes.func,
   posts: PropTypes.shape({
   edges: PropTypes.array,
+  bgImage: PropTypes.string
   }),
 }
 
@@ -89,6 +90,7 @@ const IndexPage = ({ data }) => {
       ingress={page.frontmatter.ingress}
       posts={posts}
       language={page.frontmatter.language}
+      bgImage={page.frontmatter.bgImage}
       helmet={<Helmet title={page.frontmatter.title} />}
     />
   )
@@ -107,6 +109,7 @@ export const indexPageQuery = graphql`
       frontmatter {
         title
         language
+        bgImage
       }
     }
     posts: allMarkdownRemark(

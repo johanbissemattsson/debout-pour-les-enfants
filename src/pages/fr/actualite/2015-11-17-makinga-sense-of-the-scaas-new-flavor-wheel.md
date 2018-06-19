@@ -2,6 +2,7 @@
 templateKey: post
 language: fr
 title: afafafa
+featuredImage: /img/products-grid3.jpg
 date: 2015-11-17T15:04:10.000Z
 description: gagaga
 ---

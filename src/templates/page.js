@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import Content, { HTMLContent } from '../components/Content'
 
-export const PageTemplate = ({ helmet, title, content, contentComponent, ingress }) => {
+export const PageTemplate = ({ helmet, title, content, contentComponent, ingress, bgImage }) => {
   const PageContent = contentComponent || Content
 
   return (
@@ -11,7 +11,7 @@ export const PageTemplate = ({ helmet, title, content, contentComponent, ingress
       {helmet}
       <div className='header-container'>
         <header className='header'>
-          <section className='intro'>
+          <section className='intro' style={{background: 'url(' + bgImage + ')'}}>
             <div className='content'>
               <div className='intro-description'>
                 <h1>{title}</h1>
@@ -33,6 +33,7 @@ PageTemplate.propTypes = {
   content: PropTypes.string,
   contentComponent: PropTypes.func,
   ingress: PropTypes.string,
+  bgImage: PropTypes.string
 }
 
 const Page = ({ data }) => {
@@ -44,6 +45,7 @@ const Page = ({ data }) => {
       title={page.frontmatter.title}
       content={page.html}
       ingress={page.frontmatter.ingress}
+      bgImage={page.frontmatter.bgImage}
       helmet={<Helmet title={`${page.frontmatter.title} | Debout pour les Enfants`} />}
     />
   )
@@ -62,6 +64,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         ingress
+        bgImage
       }
     }
   }

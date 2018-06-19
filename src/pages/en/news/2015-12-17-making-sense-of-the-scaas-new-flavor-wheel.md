@@ -2,6 +2,7 @@
 templateKey: post
 language: en
 title: Maaaaaking sense of the SCAA’s new Flavor Wheel
+featuredImage: /img/products-grid3.jpg
 date: 2015-12-17T15:04:10.000Z
 description: The Coffee Tasaaegegter’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 ---
