@@ -1,11 +1,13 @@
 ---
-templateKey: 'page'
-path: /de-senegal
+templateKey: page
 title: de Sénégal
 bgImage: /img/bg-about-senegal.jpg
-ingress: Maecenas iaculis nibh ut nisi tincidunt eleifend. Donec sagittis sapien neque, ut sodales dolor faucibus sed.
-
+ingress: >-
+  Maecenas iaculis nibh ut nisi tincidunt eleifend. Donec sagittis sapien neque,
+  ut sodales dolor faucibus sed.
 ---
+![Senegal](/img/map.jpg)
+
 # Un titre sur Sénegal
 Etiam eleifend ligula sit amet erat interdum aliquam. Phasellus dolor massa, sagittis sodales dui sit amet, elementum feugiat neque. In finibus, tellus at bibendum accumsan, quam urna convallis augue, euismod interdum tortor dolor vitae arcu. Suspendisse condimentum pharetra mattis. Suspendisse sit amet commodo erat. Morbi gravida pharetra neque, ac pretium quam placerat eu. Donec congue velit risus, id interdum ante scelerisque ac. Nunc vitae metus viverra, aliquam odio vel, mattis orci. Quisque interdum risus at ex volutpat, non laoreet justo tempus.
 
