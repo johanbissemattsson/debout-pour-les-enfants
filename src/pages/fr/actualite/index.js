@@ -7,13 +7,13 @@ const PostsPage = ({
   data: { allMarkdownRemark: { edges: posts }},
 }) => (
   <div className='posts-page-container'>
-    <Helmet title={'`d Actualite | Debout pour les Enfants'} />
+    <Helmet title={'&#96;d Actualite | Debout pour les Enfants'} />
     <div className='header-container'>
       <header className='header'>
         <section className='intro no-featured-image'>
           <div className='content'>
             <div className='intro-description'>
-              <h1>`d Actualite</h1>
+              <h1>&#96;d Actualite</h1>
             </div>
           </div>
         </section>
