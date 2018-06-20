@@ -1,7 +1,7 @@
 ---
 templateKey: page
 title: Volunteer
-bgImage: /img/flavor_wheel.jpg
+bgImage: /img/bg-volunteer.jpg
 ingress: >-
   Vestibulum feugiat convallis massa id ultricies. Nulla sodales est nec
   pharetra fermentum ad est dolores.

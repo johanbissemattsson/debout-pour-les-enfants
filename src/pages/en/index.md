@@ -2,7 +2,7 @@
 templateKey: 'indexPage'
 path: /
 title: Debout pour les Enfants — Stand up for the Children
-bgImage: /img/products-grid3.jpg
+bgImage: /img/bg-index.jpg
 language: en
 ---
 **Debout pour les Enfants Senegal &mdash; Stand up for the Children** is a non-profit organization that operates a center to make life a little better for the street children in Ziguinchor, a city in southern Senegal.

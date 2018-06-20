@@ -11,7 +11,7 @@ export const PageTemplate = ({ helmet, title, content, contentComponent, ingress
       {helmet}
       <div className='header-container'>
         <header className='header'>
-          <section className='intro' style={{background: 'url(' + bgImage + ')'}}>
+          <section className='intro' style={{background: 'url(' + bgImage + ') center 43% / cover'}}>
             <div className='content'>
               <div className='intro-description'>
                 <h1>{title}</h1>

@@ -31,6 +31,7 @@ export const PostTemplate = ({
         </header>
       </div>
       <div className="main-content-container">
+        <div className='content'><h1>{title}</h1></div>
         <PostContent className='content' content={content} />
         <div className='content'>
           <div className='date'>{date}</div>

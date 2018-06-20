@@ -1,8 +1,8 @@
 ---
 templateKey: post
-language: sv
-title: Lorem ipsum ad est dolores
-date: '2018-06-19T22:38:31+02:00'
+language: fr
+title: Eros quantum florentin
+date: '2018-06-19T23:38:31+02:00'
 featuredImage: /img/painted-wall.jpg
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies

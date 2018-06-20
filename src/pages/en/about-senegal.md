@@ -1,7 +1,7 @@
 ---
 templateKey: page
 title: About Sénégal
-bgImage: /img/chemex.jpg
+bgImage: /img/bg-about-senegal.jpg
 ingress: >-
   Sénégal iaculis nibh ut nisi tincidunt eleifend. Donec sagittis sapien neque,
   ut sodales dolor faucibus sed.

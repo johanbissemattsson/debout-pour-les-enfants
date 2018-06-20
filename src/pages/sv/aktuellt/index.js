@@ -29,7 +29,7 @@ const PostsPage = ({
                   <h3 className='post-item-title'>
                     <Link className="has-text-primary" to={post.fields.slug}>
                       <figure className='image'>
-                        <img src={''} alt='Kaldi' />
+                        <img src={post.frontmatter.featuredImage} alt={post.frontmatter.title} />
                       </figure>
                       {post.frontmatter.title}
                     </Link>
@@ -72,6 +72,7 @@ export const postsPageQuery = graphql`
           frontmatter {
             title
             templateKey
+            featuredImage
             date(formatString: "YYYY-MM-DD")
           }
         }

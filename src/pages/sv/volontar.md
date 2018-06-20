@@ -2,7 +2,7 @@
 templateKey: 'page'
 path: /volontar
 title: Bli volontär
-bgImage: /img/products-grid3.jpg
+bgImage: /img/bg-volunteer.jpg
 ingress: Vestibulum feugiat convallis massa id ultricies. Nulla sodales est nec pharetra fermentum ad est dolores.
 ---
 # En rubrik om volontärsarbete

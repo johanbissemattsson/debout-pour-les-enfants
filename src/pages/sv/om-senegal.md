@@ -2,7 +2,7 @@
 templateKey: 'page'
 path: /om-senegal
 title: Om Sénegal
-bgImage: /img/products-grid3.jpg
+bgImage: /img/bg-about-senegal.jpg
 ingress: Maecenas iaculis nibh ut nisi tincidunt eleifend. Donec sagittis sapien neque, ut sodales dolor faucibus sed.
 
 ---

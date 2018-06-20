@@ -16,7 +16,7 @@ export class IndexPageTemplate extends React.Component {
         {helmet}
         <div className='header-container'>
           <header className='header'>
-            <section className='intro' style={{background: 'url(' + bgImage + ')'}}>
+            <section className='intro' style={{background: 'url(' + bgImage + ') center 40% / cover'}}>
               <div className='content'>
                 <div className='intro-description'>
                   <h1>Debout pour <br />les Enfants <br />Senegal</h1>
@@ -42,7 +42,7 @@ export class IndexPageTemplate extends React.Component {
                               <h3 className='post-item-title'>
                                 <Link className="has-text-primary" to={post.fields.slug}>
                                   <figure className='image'>
-                                    <img src={''} alt={post.frontmatter.title} />
+                                    <img src={post.frontmatter.featuredImage} alt={post.frontmatter.title} />
                                   </figure>
                                   {post.frontmatter.title}
                                 </Link>
@@ -132,6 +132,7 @@ export const indexPageQuery = graphql`
             templateKey
             date(formatString: "YYYY-MM-DD")
             language
+            featuredImage
           }
         }
       }
