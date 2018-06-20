@@ -9,6 +9,8 @@ description: >-
   ultricies mi et finibus. Nulla vel faucibus est. Interdum et malesuada fames
   ac ante ipsum primis in faucibus.
 ---
+![Lorem ipsum](/img/outside.jpg)
+
 Etiam in mauris non felis elementum tristique eu nec augue. Integer gravida ultricies mi et finibus. Nulla vel faucibus est. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla ultrices, massa nec condimentum pulvinar, nunc urna posuere sem, ac egestas ex diam quis augue.
 
 Mauris ut mi finibus arcu iaculis sollicitudin. Fusce pulvinar nisl ut pretium sagittis. Nulla facilisi. Nunc placerat scelerisque tortor. Donec luctus tortor at orci sodales consectetur. Pellentesque sed quam felis. Proin nulla felis, fermentum eu interdum vitae, vulputate ut urna.
