@@ -48,7 +48,7 @@ export class IndexPageTemplate extends React.Component {
                                 </Link>
                               </h3>
                               <p>
-                                {post.excerpt}
+                                {post.frontmatter.description ? post.frontmatter.description : post.excerpt}
                                 <br />
                               </p>
                               <p className='date'><Link to={post.fields.slug}>{post.frontmatter.date}</Link></p>
@@ -133,6 +133,7 @@ export const indexPageQuery = graphql`
             date(formatString: "YYYY-MM-DD")
             language
             featuredImage
+            description
           }
         }
       }

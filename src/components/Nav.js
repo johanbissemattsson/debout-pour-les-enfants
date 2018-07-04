@@ -134,7 +134,7 @@ export default class Nav extends React.Component {
                       <Link className='menu-item' to='/sv/aktuellt' onClick={handleMenuClick}>Aktuellt</Link>
                       <Link className='menu-item' to='/sv/bidrag' onClick={handleMenuClick}>Bidrag</Link>
                       <Link className='menu-item' to='/sv/volontar' onClick={handleMenuClick}>Volontär</Link>
-                      <Link className='menu-item' to='/sv/om-senegal' onClick={handleMenuClick}>Om Sénegal</Link>
+                      <Link className='menu-item' to='/sv/om-senegal' onClick={handleMenuClick}>Om Senegal</Link>
                       <Link className='menu-item' to='/sv/kontakt' onClick={handleMenuClick}>Kontakt</Link>
                     </Menu>
                   </div>
@@ -152,7 +152,7 @@ export default class Nav extends React.Component {
                       Volontär
                     </Link>
                     <Link className='nav-item' to='/sv/om-senegal' activeClassName='active'>
-                      Om Sénegal
+                      Om Senegal
                     </Link>
                     <Link className='nav-item' to='/sv/kontakt' activeClassName='active'>
                       Kontakt

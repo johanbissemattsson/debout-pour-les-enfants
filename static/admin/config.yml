@@ -53,6 +53,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}      
   - name: 'svPages'
     label: 'Swedish Pages'
+    delete: false 
     editor:
       preview: false    
     files:
@@ -84,7 +85,7 @@ collections:
           - {label: "Ingress", name: "ingress", widget: "markdown", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: 'src/pages/sv/om-senegal.md'
-        label: 'Om Sénegal'
+        label: 'Om Senegal'
         name: 'om-senegal'
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
@@ -100,12 +101,29 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: 'Background image', name: bgImage, widget: image, required: false}
           - {label: "Ingress", name: "ingress", widget: "markdown", required: false}
-          - {label: "Body", name: "body", widget: "markdown"}                
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: 'src/pages/index.md'
+        label: 'Index'
+        name: 'index'
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: 'Background image', name: bgImage, widget: image, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}                          
   - name: 'enPages'
     label: 'English Pages'
+    delete: false 
     editor:
       preview: false    
     files:
+      - file: 'src/pages/en/index.md'
+        label: 'Index'
+        name: 'index'
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: 'Background image', name: bgImage, widget: image, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
       - file: 'src/pages/en/about-us.md'
         label: 'About us'
         name: 'about-us'
@@ -153,9 +171,18 @@ collections:
           - {label: "Body", name: "body", widget: "markdown"}
   - name: 'frPages'
     label: 'French Pages'
+    delete: false 
     editor:
       preview: false    
     files:
+      - file: 'src/pages/fr/index.md'
+        label: 'Index'
+        name: 'index'
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: 'Background image', name: bgImage, widget: image, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}      
       - file: 'src/pages/fr/a-propos-de-nous.md'
         label: 'à Propos de nous'
         name: 'a-propos-de-nous'

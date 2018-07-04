@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Debout pour les Enfants',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -18,12 +18,12 @@ module.exports = {
           coast: false,
           favicons: true,
           firefox: true,
-          twitter: false,
+          twitter: true,
           yandex: false,
-          windows: false
+          windows: true
         }
       }
-    },    
+    },  
     {
       resolve: 'gatsby-source-filesystem',
       options: {
