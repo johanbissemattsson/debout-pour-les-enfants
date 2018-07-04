@@ -3,6 +3,7 @@ templateKey: post
 language: fr
 title: Ett inlägg på franska
 date: '2018-07-04T17:00:45+02:00'
+featuredImage: /img/paint.jpg
 description: Bonjour
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas euismod arcu bibendum felis rhoncus, in ultricies leo ullamcorper. Etiam velit sem, a laoreet elit tincidunt in. Cras enim nunc, hendrerit eu felis sed, pulvinar sodales lectus. Nunc quis dui aliquet, sodales libero non, tincidunt mauris. Ut non vulputate augue. Curabitur at tincidunt tortor, ac facilisis nibh. Pellentesque sollicitudin, risus ut lacinia accumsan, erat nisi tristique felis, vel fermentum felis risus rhoncus arcu. Donec sapien felis, placerat eget tortor non, ultrices consequat metus. Nunc at gravida quam, sit amet placerat diam. Praesent ac ante ultricies justo egestas congue. 
