@@ -1,9 +1,13 @@
 ---
-templateKey: 'page'
-path: /bidrag
+templateKey: page
 title: Contribution
 bgImage: /img/bg-contribution.jpg
-ingress: Lorem ipsum ad est dolores fianlique voriste quantum ad est domingo florentin. Eros ad domino.
+ingress: >-
+  ![]()
+
+
+  Lorem ipsum ad est dolores fianlique voriste quantum ad est domingo florentin.
+  Eros ad domino.
 ---
 # Ceci est une rubrique
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed sollicitudin tortor. Donec odio neque, varius in est sit amet, viverra ultrices augue. Curabitur facilisis, lorem eget congue scelerisque, enim ipsum venenatis enim, efficitur consectetur neque ipsum sit amet diam. Vestibulum bibendum mi dolor, ut interdum elit faucibus blandit. Suspendisse efficitur in lacus eleifend consectetur.
