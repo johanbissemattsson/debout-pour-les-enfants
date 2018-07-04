@@ -1,6 +1,6 @@
 ---
 templateKey: page
-title: de Sénégal
+title: de Sénégal et Ziguinchor
 bgImage: /img/bg-about-senegal.jpg
 ingress: >-
   Maecenas iaculis nibh ut nisi tincidunt eleifend. Donec sagittis sapien neque,
