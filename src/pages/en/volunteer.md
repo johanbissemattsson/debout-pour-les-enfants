@@ -3,14 +3,24 @@ templateKey: page
 title: Volunteer
 bgImage: /img/bg-volunteer.jpg
 ingress: >-
-  Vestibulum feugiat convallis massa id ultricies. Nulla sodales est nec
-  pharetra fermentum ad est dolores.
+  If you would like to experience the genuine Africa, live with a Senegalese
+  family and at the same time make a contribution to your fellow human beings,
+  then take this chance! Come and work with us!
 ---
-# A header about how to volunteer
-Etiam efficitur non ex a facilisis. Sed lacinia purus dolor. Nullam pellentesque justo ac ligula consequat faucibus. In et placerat ligula. Integer turpis tortor, tempus ut tellus vel, viverra ultrices purus. Nunc maximus lorem vitae eleifend suscipit. Vestibulum ut ipsum tellus. 
+To speak French, which is the national language, is not necessary. The pupils in the “Lycee” learn English but otherwise people speak Wolof or French. The Talibes speak mostly Poular, one of the other ethnic languages and Wolof. You can manage to get a long way with body language and a nicer and more sympathetic people than the Senegalese are not easy to find.
 
-## Do you want to volunteer?
-Proin laoreet ipsum enim, et vestibulum ante condimentum eu. Nunc ac massa at nisl vehicula facilisis non eget justo. Pellentesque commodo, mauris at accusan semper, dui sem varius lorem, quis bibendum tortor sapien et purus. Nunc faucibus rutrum odio vel convallis. Suspendisse dictum, elit eget ornare sagittis, sem eros accumsan enim, vel rutrum massa augue vel nulla. Duis eu magna sed mauris malesuada convallis. Fusce nec dolor sed enim maximus semper non nec turpis magna. 
 
-## Another header about how to volunteer
-Nam condimentum condimentum luctus. Morbi et enim augue. Mauris suscipit est eu arcu dapibus, id egestas tellus feugiat. In sed eros sit amet erat pretium mattis. Quisque et mattis nunc. Nullam non nulla velit. Curabitur at mattis nibh. Etiam malesuada pharetra mattis. Pellentesque varius enim quis justo euismod dignissim.
+
+Your duties at the Centre will be to teach ABC, English and maybe a little French and Maths. You will also be a General Playleader. If you want, you can also help in the Clinic, taking care of wounds – the children get lots off wounds on their feet and legs.
+
+
+
+There will be opportunities to make excursions, for example, to Cap Skirring, a tourist place by the sea, Kafountine, a fishing village also by the sea and the paradisiac islands Carabane and Kachouane in the Casamance River.
+
+
+
+On Friday evenings we usually meet somewhere in the city to have a drink together and there are also some hotels with swimming pools to visit during your free time-
+
+
+
+There will also be opportunities to have lessons in French, Wolof and Djola.
