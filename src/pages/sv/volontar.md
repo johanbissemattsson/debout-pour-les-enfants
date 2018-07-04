@@ -1,15 +1,21 @@
 ---
-templateKey: 'page'
-path: /volontar
+templateKey: page
 title: Bli volontär
 bgImage: /img/bg-volunteer.jpg
-ingress: Vestibulum feugiat convallis massa id ultricies. Nulla sodales est nec pharetra fermentum ad est dolores.
+ingress: >-
+  Vill du uppleva det genuina Afrika, bo i en senegalesisk familj och samtidigt
+  göra en insats för dina medmänniskor så ta chansen! Kom och arbeta med oss!
 ---
-# En rubrik om volontärsarbete
-Etiam efficitur non ex a facilisis. Sed lacinia purus dolor. Nullam pellentesque justo ac ligula consequat faucibus. In et placerat ligula. Integer turpis tortor, tempus ut tellus vel, viverra ultrices purus. Nunc maximus lorem vitae eleifend suscipit. Vestibulum ut ipsum tellus. 
+Kunskaper i franska språket, som är det officiella spåket i Senegal, är inte növändigt. Ungdomarna som går i gymnasiet lär sig engelska, annars pratar de flesta wolof med  varandra och talibéerna som gatubarnen kallas, pratar oftast pular, ett av alla andra etniska språk. Man kommer långt med kroppsspråket och vänligare och mer förstående människor än senegaleser får man leta efter.
 
-## En underrubrik om volontärsarbete
-Proin laoreet ipsum enim, et vestibulum ante condimentum eu. Nunc ac massa at nisl vehicula facilisis non eget justo. Pellentesque commodo, mauris at accusan semper, dui sem varius lorem, quis bibendum tortor sapien et purus. Nunc faucibus rutrum odio vel convallis. Suspendisse dictum, elit eget ornare sagittis, sem eros accumsan enim, vel rutrum massa augue vel nulla. Duis eu magna sed mauris malesuada convallis. Fusce nec dolor sed enim maximus semper non nec turpis magna. 
 
-## En till underrubrik om volontärsarbete
-Nam condimentum condimentum luctus. Morbi et enim augue. Mauris suscipit est eu arcu dapibus, id egestas tellus feugiat. In sed eros sit amet erat pretium mattis. Quisque et mattis nunc. Nullam non nulla velit. Curabitur at mattis nibh. Etiam malesuada pharetra mattis. Pellentesque varius enim quis justo euismod dignissim.
+
+Dina uppgifter på centret kommer att vara att lära ut ABC, engelska och franska, lite matematik och att vara allmän lekledare och medmänniska. Om du har kunskaper kan du också hjälpa till med sårvård, barnen har ofta sår på fötter och ben.
+
+
+
+Tillfälle till utflykter till t ex Cap Skirring som är en turistort vid havet, Kafountine en ort med fiskeläge, också vid havet, och de paradisiska öarna Karabane och Kachouane som ligger i floden. Fredagskvällar brukar vi träffas någonstans på stan för att ta något att dricka tillsammans. Det finns också fina hotell med pooler att besöka på helger och annan ledig tid.
+
+
+
+Det kommer också att finnas möjlighet till lektioner i franska, wolof och djola.
