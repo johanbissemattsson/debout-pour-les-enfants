@@ -1,19 +1,22 @@
 ---
 templateKey: page
-title: About Sénégal
+title: About Sénégal and Ziguinchor
 bgImage: /img/bg-about-senegal.jpg
 ingress: >-
-  Sénégal iaculis nibh ut nisi tincidunt eleifend. Donec sagittis sapien neque,
-  ut sodales dolor faucibus sed.
+  Senegal is the most westerly of the African mainland countries, situated on
+  the Atlantic Coast. It has borders with Gambia, Guinea, Guinea-Bissau, Mali
+  and Mauritania.
 ---
 ![Senegal](/img/map.jpg)
 
-# A header about Sénégal
-Etiam eleifend ligula sit amet erat interdum aliquam. Phasellus dolor massa, sagittis sodales dui sit amet, elementum feugiat neque. In finibus, tellus at bibendum accumsan, quam urna convallis augue, euismod interdum tortor dolor vitae arcu. Suspendisse condimentum pharetra mattis. Suspendisse sit amet commodo erat. Morbi gravida pharetra neque, ac pretium quam placerat eu. Donec congue velit risus, id interdum ante scelerisque ac. Nunc vitae metus viverra, aliquam odio vel, mattis orci. Quisque interdum risus at ex volutpat, non laoreet justo tempus.
+During the 9th and 10th centuries, Islam was introduced to this area and, today, about 94% of the population are Muslims, 5% Christians and the remainder of native religions.
 
-Nam sollicitudin tincidunt libero, nec pretium enim pretium vitae. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi sed ante fermentum, placerat nisi id, tempor est. Ut sapien eros, vestibulum maximus nunc eu, viverra tincidunt justo. Phasellus congue id massa in blandit. Aliquam nec ligula lobortis, maximus dolor blandit, semper mi. Praesent efficitur dapibus diam, eget dapibus magna facilisis cursus. 
+In the 1500´s the Portuguese arrived in West Africa and settled on the island Gorée, close to Dakar, and a bit later the Dutch visited seeking to trade in rubber. Then in the 1700´s the French founded a commercial town on the island Saint-Louis, it the northern Senegalese river estuary.
 
-## Another header about Sénégal
-Praesent eu lectus urna. Nam imperdiet cursus purus, eget eleifend sapien viverra sit amet. Aliquam erat volutpat. Donec gravida neque nec metus dignissim interdum. Integer venenatis felis et ante scelerisque, eu varius nisi porttitor. In hac habitasse platea dictumst. Donec luctus facilisis sapien. Donec bibendum massa nec efficitur dictum. Cras vel luctus urna, vitae tristique leo. Phasellus quis sodales eros, at vehicula risus. Donec ultricies posuere tellus et scelerisque. Mauris ut euismod odio. Aenean sed dolor id dui vehicula aumsan.
+During the colonial period, Dakar was the most important port for the transportation of slaves to America.
 
-Nulla bibendum sodales efficitur. Fusce ut leo id magna consequat tempus et a mauris. In ut aliquam est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec turpis tortor, eu ipsum vitae, pretium faucibus nulla. Nullam blandit nunc non orci auctor, sit amet efficitur erat bibendum. Mauris sit amet iaculis risus. Proin tempus vulputate odio ac cursus. Nullam ligula odio, auctor ut elementum quis, placerat sit amet lacus. Nullam tincidunt iaculis tortor. Phasellus convallis lacus sit amet scelerisque aliquet. Proin non nulla massa. Aliquam risus metus, posuere a est ut, scelerisque pretium nisl.
+In 1815 Senegal was recognised as a French Colony but in 1960 it became an independent state and in 1981 the country got full democracy.
+
+The climate is tropical. During the rainy season, which can last from June until October, there are strong winds from the South-East which can flood the low-lying land areas. The Casamance region in the South is considerably hotter and more damp than the rest of the country.
+
+Ziguinchor is situate in this region of Casamance, south of Gambia. The city in 2013 had a population of about 205.000 inhabitants. It is a typical African city with mostly low buildings, a lot of hustle and bustle, lots of colours and friendly people everywhere. It is a very green city lying by the Casamance River and only one hours drive from the sea.
