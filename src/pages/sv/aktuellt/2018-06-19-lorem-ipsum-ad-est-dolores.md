@@ -4,11 +4,6 @@ language: sv
 title: Lorem ipsum ad est dolores
 date: '2018-06-19T22:38:31+02:00'
 featuredImage: /img/painted-wall.jpg
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies
-  turpis nec lacus convallis, facilisis euismod dolor fringilla. In hac
-  habitasse platea dictumst. Integer viverra erat accumsan mi rhoncus, eu
-  volutpat.
 ---
 ![Lorem ipsum](/img/painted-wall.jpg)
 

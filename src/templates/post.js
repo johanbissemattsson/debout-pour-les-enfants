@@ -9,7 +9,6 @@ export const PostTemplate = ({
   content,
   contentComponent,
   date,
-  description,
   title,
   helmet,
   language
@@ -55,7 +54,6 @@ const Post = ({ data }) => {
     <PostTemplate
       content={post.html}
       contentComponent={HTMLContent}
-      description={post.frontmatter.description}
       helmet={<Helmet title={`${post.frontmatter.title} | Debout pour les Enfants`} />}
       title={post.frontmatter.title}
       date={post.frontmatter.date}
@@ -80,7 +78,6 @@ export const postQuery = graphql`
       frontmatter {
         date(formatString: "YYYY-MM-DD")
         title
-        description
         language
       }
     }

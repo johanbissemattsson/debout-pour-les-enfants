@@ -4,10 +4,6 @@ language: sv
 title: Vestibulum eu risus sit amet urna tempus luctus ultrices
 date: '2018-06-19T22:48:53+02:00'
 featuredImage: /img/outside.jpg
-description: >-
-  Etiam in mauris non felis elementum tristique eu nec augue. Integer gravida
-  ultricies mi et finibus. Nulla vel faucibus est. Interdum et malesuada fames
-  ac ante ipsum primis in faucibus.
 ---
 Etiam in mauris non felis elementum tristique eu nec augue. Integer gravida ultricies mi et finibus. Nulla vel faucibus est. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla ultrices, massa nec condimentum pulvinar, nunc urna posuere sem, ac egestas ex diam quis augue.
 
