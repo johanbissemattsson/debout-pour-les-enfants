@@ -3,17 +3,20 @@ templateKey: page
 title: de Sénégal et Ziguinchor
 bgImage: /img/bg-about-senegal.jpg
 ingress: >-
-  Maecenas iaculis nibh ut nisi tincidunt eleifend. Donec sagittis sapien neque,
-  ut sodales dolor faucibus sed.
+  Le Sénégal est le pays le plus occidental du continent africain, situé sur les
+  côtes de l’océan atlantique, il est frontalié avec la Gambie, la Guinée
+  Bissau, le Mali et la Mauritanie.
 ---
 ![Senegal](/img/map.jpg)
 
-# Un titre sur Sénegal
-Etiam eleifend ligula sit amet erat interdum aliquam. Phasellus dolor massa, sagittis sodales dui sit amet, elementum feugiat neque. In finibus, tellus at bibendum accumsan, quam urna convallis augue, euismod interdum tortor dolor vitae arcu. Suspendisse condimentum pharetra mattis. Suspendisse sit amet commodo erat. Morbi gravida pharetra neque, ac pretium quam placerat eu. Donec congue velit risus, id interdum ante scelerisque ac. Nunc vitae metus viverra, aliquam odio vel, mattis orci. Quisque interdum risus at ex volutpat, non laoreet justo tempus.
+Durant le 9eme et le 10eme siècle il y a eut l’introduction de l’Islam dans cette zone. Aujourd’hui 94% de la population sont musulmsans et 5% sont des chretiens.
 
-Nam sollicitudin tincidunt libero, nec pretium enim pretium vitae. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi sed ante fermentum, placerat nisi id, tempor est. Ut sapien eros, vestibulum maximus nunc eu, viverra tincidunt justo. Phasellus congue id massa in blandit. Aliquam nec ligula lobortis, maximus dolor blandit, semper mi. Praesent efficitur dapibus diam, eget dapibus magna facilisis cursus. 
+Dans les années 1500 les Portuguais arrivent dans l’ouest de l’Afrique et s’installent sur l’Ile de Gorée, tout près de Dakar, et un peu plus tard les Allemands visitent et tentent de faire le commerce du caoutchouc. Alors vers les années 1700 les Français ont découvert une ville commerciale L’ile Saint-Louis située au nord de la rivière estuaire sénégalaise.
 
-## Une sous-position de Sénegal
-Praesent eu lectus urna. Nam imperdiet cursus purus, eget eleifend sapien viverra sit amet. Aliquam erat volutpat. Donec gravida neque nec metus dignissim interdum. Integer venenatis felis et ante scelerisque, eu varius nisi porttitor. In hac habitasse platea dictumst. Donec luctus facilisis sapien. Donec bibendum massa nec efficitur dictum. Cras vel luctus urna, vitae tristique leo. Phasellus quis sodales eros, at vehicula risus. Donec ultricies posuere tellus et scelerisque. Mauris ut euismod odio. Aenean sed dolor id dui vehicula aumsan.
+Durant l’époque coloniale Dakar était le plus important port de transportation des esclaves vers les États Unie.
 
-Nulla bibendum sodales efficitur. Fusce ut leo id magna consequat tempus et a mauris. In ut aliquam est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec turpis tortor, eu ipsum vitae, pretium faucibus nulla. Nullam blandit nunc non orci auctor, sit amet efficitur erat bibendum. Mauris sit amet iaculis risus. Proin tempus vulputate odio ac cursus. Nullam ligula odio, auctor ut elementum quis, placerat sit amet lacus. Nullam tincidunt iaculis tortor. Phasellus convallis lacus sit amet scelerisque aliquet. Proin non nulla massa. Aliquam risus metus, posuere a est ut, scelerisque pretium nisl.
+En 1815 le Sénégal été reconnu comme une colonie française, mais en 1960 il devient un état indépendant. En 1981 il obtient une démocratie totale.
+
+Le climat est tropical. Durant la saison des pluies il y a de très forts vents soufflant du sud-est pouvant inonder le long de la zone. La Casamance dans le sud du Sénégal est Durant le 9eme et le 10eme siècle il y a eut l’introduction de l’Islam dans cette zone. Aujourd’hui 94% de la population sont musulmsans et 5% sont des chretiens.
+
+Ziguinchor est situé dans la région de la Casamance au sud de la Gambie. En 2013 la ville comptait 205.000 habitants. C’est une ville typiquement africaine avec très basses maisons de construction avec une forte bousculade et animation, une ville pleine de couleurs et des personnes très sympathique. C’est une région très verte qui s’ étend Lelangue du fleuve de Casamance avec seulement une heure de route pour la côte de la mer.
