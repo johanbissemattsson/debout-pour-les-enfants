@@ -1,15 +1,19 @@
 ---
-templateKey: 'page'
-path: /volontaire
+templateKey: page
 title: Volontaire
 bgImage: /img/bg-volunteer.jpg
-ingress: Vestibulum feugiat convallis massa id ultricies. Nulla sodales est nec pharetra fermentum ad est dolores.
+ingress: >-
+  Si vous voulez vivre une expérience authentique en Afrique, habiter au sien
+  d’une famille sénégalaise et en même temps éditer faire une contribution, de
+  votre type d’être humain, alors tenez cette chance! Venez travailler avec
+  nous!
 ---
-# Un titre sur le bénévolat
-Etiam efficitur non ex a facilisis. Sed lacinia purus dolor. Nullam pellentesque justo ac ligula consequat faucibus. In et placerat ligula. Integer turpis tortor, tempus ut tellus vel, viverra ultrices purus. Nunc maximus lorem vitae eleifend suscipit. Vestibulum ut ipsum tellus. 
+La maîtrise de la langue française, qui est la langue nationale du Sénégal n’est pas nécessaire. Les élèves dans les lycée apprennent l’anglais mais sinon les gens parlent le Wolof ou un peu le français. La plus part des talibés parlent poular, un des groupes ethnique et aussi le Wolof. Vous pouvez vous débrouiller un bon moment avec le language corporel et des gens gentils et plus sympathique que les sénégalais ne sont pas facile à trouver. 
 
-## Un sous-thème sur le bénévolat
-Proin laoreet ipsum enim, et vestibulum ante condimentum eu. Nunc ac massa at nisl vehicula facilisis non eget justo. Pellentesque commodo, mauris at accusan semper, dui sem varius lorem, quis bibendum tortor sapien et purus. Nunc faucibus rutrum odio vel convallis. Suspendisse dictum, elit eget ornare sagittis, sem eros accumsan enim, vel rutrum massa augue vel nulla. Duis eu magna sed mauris malesuada convallis. Fusce nec dolor sed enim maximus semper non nec turpis magna. 
 
-## Une subdivision sur le bénévolat
-Nam condimentum condimentum luctus. Morbi et enim augue. Mauris suscipit est eu arcu dapibus, id egestas tellus feugiat. In sed eros sit amet erat pretium mattis. Quisque et mattis nunc. Nullam non nulla velit. Curabitur at mattis nibh. Etiam malesuada pharetra mattis. Pellentesque varius enim quis justo euismod dignissim.
+
+Votre rôle dans le centre est d’enseigner A B C …un peu de français et d’anglais et maths. Vous serez aussi en général un chef d’orchestre. Si vous voulez aussi vous pouvez aider à la clinique, prendre soin et traitement des plais des enfants talibés sur leur pieds et un peu partout sur leur corp. 
+
+
+
+Il y aura une opportunité de faire des excursions, par exemple Cap Skirring, une station balnéaire une site touristique le long de la mer; Kafountine, une village des peucheurs et en même temps lieu touristique; et des îles paradisiaques comme Karabane et Kachouane dans le fleuve Casamance.
