@@ -13,11 +13,13 @@ Under 800- och 900-talet infördes islam i området. Nu är 94% av befolkningen 
 
 På 1400-talet kom portugiserna till området och slog sig ner på ön Gorée utanför Dakar. Något senare anlände också holländarna hit. Handeln med gummi lockade många europeiska länder. Vid mitten av 16-talet grundade fransmännen en handelsstation på ön Saint-Louis vid Senegalflodens utlopp.
 
-![](/img/om-senegal-300.jpg)
+![null](/img/om-senegal-300.jpg)
 
 Dakar var under kolonialtiden den viktigaste hamnen för transport av slavar till Amerika. 1815 erkändes Senegal som fransk koloni-
 
 1960 blev Senegal en helt självständig stat. 1981 fick landet full demokrati.
+
+![](/img/om-senegal-15.jpg)
 
 Klimatet är tropiskt. Under regnperioden som varar som längst från juni till oktober, blåser det kraftiga sydostliga vindar och låglänta delar av landet kan översvämmas. I Casamanceregionen i söder är det betydligt hetare och fuktigare än i resten av landet.
 
