@@ -2,15 +2,17 @@
 templateKey: page
 title: Contact us
 bgImage: /img/bg-contact.jpg
-ingress: ''
+ingress: Do not hesitate to contact us.
 ---
+Email address: debout@telia.com
 
 
-Email address: debout@telia.com
 
-Facebook: Pour les Enfants Sénégal 
+Facebook: Pour les Enfants Sénégal 
 
-Tel.  +46 708 86 40 96
+
+
+Tel.  +46 708 86 40 96
 
 Adress:
 
