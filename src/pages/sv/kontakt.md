@@ -1,25 +1,25 @@
 ---
-templateKey: 'page'
-path: /kontakt
+templateKey: page
 title: Kontakta oss
 bgImage: /img/bg-contact.jpg
-ingress: Aliquam nec ligula eros semper mi. Praesent efficitur dapibus diam ad est eget dapibus magna facilisis. 
+ingress: Har du frågor så tveka inte att kontakta oss
 ---
-Curabitur tortor nibh, faucibus egestas ornare non, malesuada ac augue. Nulla consectetur ligula dolor, eget mattis lectus faucibus a. Suspendisse sit amet eros porta, tempus massa non, sollicitudin orci.
 
-Nunc nec purus consequat. Integer vulputate turpis sed elit consectetur laoreet. Maecenas ac interdum augue. 
 
-**Debout pour les Enfants**  
-**Gatuvägen 12**  
-**123 45 Staden**  
+Email address: debout@telia.com
 
-Tel: +46 01234567  
-E-post: mail@debout.se
+Facebook: Pour les Enfants Sénégal 
 
-## Namn Namnsson
-Tel: +46 01234567  
-E-post: namn.namnsson@debout.se
+Tel.  +46 708 86 40 96
 
-## Namn Namnsson
-Tel: +46 01234567  
-E-post: namn.namnsson@debout.se
+Adress:
+
+Debout Pour les Enfants Sénégal 
+
+c/o Kristina Lotén
+
+Knut Stangenbergsv 44
+
+131 47  Nacka
+
+Sweden
