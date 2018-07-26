@@ -4,15 +4,11 @@ title: Kontakta oss
 bgImage: /img/bg-contact.jpg
 ingress: Har du frågor så tveka inte att kontakta oss
 ---
-Email address: 
-
-debout@telia.com
+Email address: debout@telia.com
 
 
 
-Facebook: 
-
-Pour les Enfants Sénégal 
+Facebook: Pour les Enfants Sénégal 
 
 
 
