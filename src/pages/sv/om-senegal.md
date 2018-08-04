@@ -38,12 +38,12 @@ Dakar var under kolonialtiden den viktigaste hamnen för transport av slavar til
 
 ## Klimat
 
-Klimatet söder är tropiskt. Under regnperioden som varar som längst från juni till oktober, blåser det kraftiga sydostliga vindar och låglänta delar av landet kan översvämmas. Resten av året domineras klimatet av heta, torra harmattan-vinden. Ibland förekommer längre torrperioder.
+Klimatet i söder är tropiskt. Under regnperioden som varar som längst från juni till oktober, blåser det kraftiga sydostliga vindar och låglänta delar av landet kan översvämmas. Resten av året domineras klimatet av heta, torra harmattan-vindar. Ibland förekommer längre torrperioder.
 
 I norra delarna av landet råder ett stäppklimat. 
 
 ![null](/img/om-senegal-15.jpg)
 
-I Casamanceregionen i söder är det betydligt hetare och fuktigare än i resten av landet vilket resulterat i ett bördigare landskap. Här odlas ris, jordnötter och andra grödor. 
+I Casamanceregionen i söder är det betydligt hetare och fuktigare än i resten av landet vilket resulterat i ett bördigt landskap. Här odlas ris, jordnötter och andra grödor. 
 
 Kontakta oss gärna för mer informtion!
