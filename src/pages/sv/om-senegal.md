@@ -6,9 +6,7 @@ ingress: >-
   Senegal vid Afrikas Atlantkust och med Mauritanien i norr och Guinea-Bissau i
   söder. Landet är en republik och en av Afrikas äldsta demokratier.
 ---
-
-
-![](/img/map.jpg)
+![null](/img/map.jpg)
 
 ## Senegal
 
@@ -22,7 +20,7 @@ Franska är det officiella språket men man talar också ett antal lokala språk
 
 ![null](/img/gata-z.jpg)
 
-Staden Ziguinchor ligger i södra Senega, i regionen Casamance, söder om Gambia. År  2013 hade staden drygt 200.000 innevånare. Det är en typiskt afrikansk stad med i huvudsak låg bebyggelse, ett myllrandet gatuliv, mycket färger och vänliga människor. Det är stad med mycket grönska invid den breda Casamancefloden och bara en dryg timmes bilresa till havet.
+Staden Ziguinchor ligger i södra Senegal, i regionen Casamance, söder om Gambia. År  2013 hade staden drygt 200.000 innevånare. Det är en typiskt afrikansk stad med i huvudsak låg bebyggelse, ett myllrandet gatuliv, mycket färger och vänliga människor. Det är en stad med mycket grönska invid den breda Casamancefloden och bara en dryg timmes bilresa till havet.
 
 ![null](/img/butik-z.jpg)
 
