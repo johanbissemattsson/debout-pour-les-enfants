@@ -12,8 +12,14 @@ La maîtrise de la langue française, qui est la langue nationale du Sénégal n
 
 
 
+![](/img/volontär-3.jpg)
+
 Votre rôle dans le centre est d’enseigner A B C …un peu de français et d’anglais et maths. Vous serez aussi en général un chef d’orchestre. Si vous voulez aussi vous pouvez aider à la clinique, prendre soin et traitement des plais des enfants talibés sur leur pieds et un peu partout sur leur corp. 
 
 
 
+![](/img/volontär-2.jpg)
+
 Il y aura une opportunité de faire des excursions, par exemple Cap Skirring, une station balnéaire une site touristique le long de la mer; Kafountine, une village des peucheurs et en même temps lieu touristique; et des îles paradisiaques comme Karabane et Kachouane dans le fleuve Casamance.
+
+![](/img/mat-4.jpg)
