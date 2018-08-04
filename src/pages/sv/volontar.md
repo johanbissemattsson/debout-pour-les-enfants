@@ -16,8 +16,6 @@ Dina uppgifter på centret kommer att vara att lära ut ABC, engelska (och event
 
 På fritid ges tillfälle till utflykter bland annat till t ex Cap Skirring som är en turistort vid havet, Kafountine en ort med fiskeläge, också vid havet, och de paradisiska öarna Karabane och Kachouane som ligger i floden. Fredagskvällar brukar vi träffas någonstans på stan för att ta något att dricka tillsammans. Det finns också fina hotell med pooler att besöka på helger och annan ledig tid.
 
-![null](/img/mat-4.jpg)
-
-![null]()
+![](/img/mat-4.jpg)
 
 Det kommer också att finnas möjlighet till lektioner i franska, wolof och djola.
