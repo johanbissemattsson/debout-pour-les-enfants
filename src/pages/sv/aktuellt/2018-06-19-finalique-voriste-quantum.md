@@ -1,7 +1,7 @@
 ---
 templateKey: post
 language: sv
-title: Finalique voriste quantum
+title: Undervisning
 date: '2018-07-20T22:56:28+02:00'
 featuredImage: /img/aktuellt-21.jpg
 ---
