@@ -2,7 +2,7 @@
 templateKey: post
 language: sv
 title: Undervisning
-date: '2018-07-20T22:56:28+02:00'
+date: '2018-06-20T22:56:28+02:00'
 featuredImage: /img/aktuellt-21.jpg
 ---
 ![](/img/aktuellt-21.jpg)
