@@ -3,6 +3,9 @@ templateKey: page
 title: Om Senegal och Ziguinchor
 bgImage: /img/senegal-3004.jpg
 ingress: >-
+  ![](/img/map.jpg)
+
+
   Senegal vid Afrikas Atlantkust och med Mauritanien i norr och Guinea-Bissau i
   söder. Landet är en republik och en av Afrikas äldsta demokratier.
 ---
