@@ -3,12 +3,13 @@ templateKey: page
 title: Om Senegal och Ziguinchor
 bgImage: /img/senegal-3004.jpg
 ingress: >-
-  ![](/img/map.jpg)
-
-
   Senegal vid Afrikas Atlantkust och med Mauritanien i norr och Guinea-Bissau i
   söder. Landet är en republik och en av Afrikas äldsta demokratier.
 ---
+
+
+![](/img/map.jpg)
+
 ## Senegal
 
 Ytan är ca 200 000 kvadratkilometer vilket motsvarar knappt halva Sveriges yta. Befolkningsmängden är knappt 16 miljoner varav huvudstaden Dakar har ca 2 miljon innevånare. Medellivslängden är 67 år och medianåldern är ca 18,5 år dvs hälften av befolkningen är under 19 år. Ungdomsarbetslösheten är hög och medelinkomsten låg. Endast en liten del av befolkningen har anställning och därmed fast inkomst. Hälften av befolkningen är mycket fattiga. Senegals BNP är ca 7 % av Sveriges. De stora exportprodukterna är fisk och jordnötter. Andra näringar är livsmedel, gruvdrift, cement, konstgödsel, textilier och raffinering av importerad olja. 
@@ -19,15 +20,11 @@ Franska är det officiella språket men man talar också ett antal lokala språk
 
 ## Ziguinchor
 
-![](/img/gata-z.jpg)
+![null](/img/gata-z.jpg)
 
 Staden Ziguinchor ligger i södra Senega, i regionen Casamance, söder om Gambia. År  2013 hade staden drygt 200.000 innevånare. Det är en typiskt afrikansk stad med i huvudsak låg bebyggelse, ett myllrandet gatuliv, mycket färger och vänliga människor. Det är stad med mycket grönska invid den breda Casamancefloden och bara en dryg timmes bilresa till havet.
 
-
-
-![](/img/butik-z.jpg)
-
-
+![null](/img/butik-z.jpg)
 
 ## Historia
 
