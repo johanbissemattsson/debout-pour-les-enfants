@@ -3,7 +3,7 @@ templateKey: post
 language: sv
 title: Möte med inspekören
 date: '2018-05-08T22:38:00+02:00'
-featuredImage: /img/bg-index.jpg
+featuredImage: /img/om-oss-1.jpg
 ---
 ![](/img/om-oss-1.jpg)
 
