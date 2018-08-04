@@ -1,14 +1,10 @@
 ---
 templateKey: post
 language: sv
-title: Lorem ipsum ad est dolores
-date: '2018-06-19T22:38:31+02:00'
-featuredImage: /img/painted-wall.jpg
+title: Möte med inspekören
+date: '2018-05-08T22:38:00+02:00'
+featuredImage: /img/bg-index.jpg
 ---
-![Lorem ipsum](/img/painted-wall.jpg)
+![](/img/om-oss-1.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies turpis nec lacus convallis, facilisis euismod dolor fringilla. In hac habitasse platea dictumst. Integer viverra erat accumsan mi rhoncus, eu volutpat erat viverra. Vestibulum iaculis dictum euismod.
-
-Cras tincidunt blandit magna sit amet posuere. Maecenas euismod rutrum efficitur. Vivamus et tellus placerat, rutrum sem eu, viverra diam. Proin sit amet felis ut turpis sodales semper. Aenean condimentum volutpat arcu vitae rhoncus. Morbi auctor eget elit sed porta. Etiam non maximus est. Etiam eget eros a enim suscipit posuere eget sed leo.
-
-Aenean hendrerit, enim non pellentesque scelerisque, tellus est commodo ligula, ut varius dolor dolor ut metus. Curabitur non egestas nisi. Phasellus eu consectetur orci. Vestibulum consectetur lectus in tempor suscipit.
+Idag den 8 maj hade vi ett av många möten med L’Inspecteur de la Jeunesse, Jean Louis Dacosta. Vi kunde då tala om att vi hade en lokal och hoppades kunna öppna den för talibéerna inom några dagar. Han var mycket glad och nöjd över detta och stöttar oss till fullo.
