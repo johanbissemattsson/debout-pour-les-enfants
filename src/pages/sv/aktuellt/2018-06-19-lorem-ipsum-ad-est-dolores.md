@@ -1,7 +1,7 @@
 ---
 templateKey: post
 language: sv
-title: Möte med inspekören
+title: Möte med inspektören
 date: '2018-05-08T22:38:00+02:00'
 featuredImage: /img/om-oss-1.jpg
 ---
