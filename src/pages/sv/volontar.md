@@ -8,18 +8,16 @@ ingress: >-
 ---
 Kunskaper i franska språket, som är det officiella spåket i Senegal, är inte növändigt. Ungdomarna som går i gymnasiet lär sig engelska, annars pratar de flesta wolof med  varandra och talibéerna som gatubarnen kallas, pratar oftast pular, ett av alla andra etniska språk. Man kommer långt med kroppsspråket och vänligare och mer förstående människor än senegaleser får man leta efter.
 
-
-
-![](/img/volontär-3.jpg)
+![null](/img/volontär-3.jpg)
 
 Dina uppgifter på centret kommer att vara att lära ut ABC, engelska (och eventuellt franska), lite matematik och att vara allmän lekledare och medmänniska. Om du har kunskaper kan du också hjälpa till med sårvård, barnen har ofta sår på fötter och ben.
 
-![](/img/bg-about-us.jpg)
+![null](/img/volontär-2.jpg)
 
 På fritid ges tillfälle till utflykter bland annat till t ex Cap Skirring som är en turistort vid havet, Kafountine en ort med fiskeläge, också vid havet, och de paradisiska öarna Karabane och Kachouane som ligger i floden. Fredagskvällar brukar vi träffas någonstans på stan för att ta något att dricka tillsammans. Det finns också fina hotell med pooler att besöka på helger och annan ledig tid.
 
-![](/img/mat-4.jpg)
+![null](/img/mat-4.jpg)
 
-![]()
+![null]()
 
 Det kommer också att finnas möjlighet till lektioner i franska, wolof och djola.
