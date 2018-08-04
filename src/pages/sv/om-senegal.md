@@ -14,6 +14,18 @@ Ytan är ca 200 000 kvadratkilometer vilket motsvarar knappt halva Sveriges yta.
 
 Franska är det officiella språket men man talar också ett antal lokala språk kopplade till folkgrupperna Wolof, Pulaar, Serer, Jola, Mandinka respektive Soninke. Många behärskar samtidigt flera av dessa språk. Analfabetismen är dock omfattande och år 2015 var drygt 40% av den vuxna befolkningen analfabeter.  
 
+## Ziguinchor
+
+![](/img/gata-z.jpg)
+
+Staden Ziguinchor ligger i södra Senega, i regionen Casamance, söder om Gambia. År  2013 hade staden drygt 200.000 innevånare. Det är en typiskt afrikansk stad med i huvudsak låg bebyggelse, ett myllrandet gatuliv, mycket färger och vänliga människor. Det är stad med mycket grönska invid den breda Casamancefloden och bara en dryg timmes bilresa till havet.
+
+
+
+![](/img/butik-z.jpg)
+
+
+
 ## Historia
 
 Dagens Senegal har varit bebott sedan förhistorisk tid. Under 800- och 900-talet infördes islam i området. Idag är 94% av befolkningen muslimer, 5% kristna och 1% tillhör inhemska religioner.
