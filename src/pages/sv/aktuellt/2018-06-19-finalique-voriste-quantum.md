@@ -2,11 +2,9 @@
 templateKey: post
 language: sv
 title: Finalique voriste quantum
-date: '2018-06-19T22:56:28+02:00'
-featuredImage: /img/library.jpg
+date: '2018-07-20T22:56:28+02:00'
+featuredImage: /img/aktuellt-21.jpg
 ---
-![Lorem ipsum](/img/library.jpg)
+![](/img/aktuellt-21.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis porta, ligula non sodales volutpat, tortor nulla venenatis sapien, ut venenatis mi diam non erat. Nulla rhoncus posuere odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sollicitudin lectus eu faucibus bibendum. 
-
-Phasellus tincidunt consequat felis, sit amet iaculis erat vulputate vitae. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque ornare, nisl a cursus condimentum, lectus felis fringilla mi, vel elementum ligula nisi vitae eros. Praesent ullamcorper interdum ante, sagittis dignissim ex viverra vitae.
+20 juni Saliou håller dagligen lektioner i franska för barnen. Även de mindre är mycket intresserade.
