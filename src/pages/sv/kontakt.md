@@ -1,18 +1,18 @@
 ---
 templateKey: page
 title: Kontakta oss
-bgImage: /img/bg-contact.jpg
+bgImage: /img/om-senegal-15.jpg
 ingress: Har du frågor så tveka inte att kontakta oss
 ---
 ## Email address: debout@telia.com
 
-## Facebook: Pour les Enfants Sénégal 
+## Facebook: Pour les Enfants Sénégal
 
 ## Tel.  +46 708 86 40 96
 
 ## Postadress:
 
-## Debout Pour les Enfants Sénégal 
+## Debout Pour les Enfants Sénégal
 
 ## c/o Kristina Lotén
 
@@ -20,4 +20,4 @@ ingress: Har du frågor så tveka inte att kontakta oss
 
 ## 131 47  Nacka
 
-##
+![](/img/bg-contact.jpg)
