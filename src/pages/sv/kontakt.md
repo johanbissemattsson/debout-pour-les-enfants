@@ -6,7 +6,7 @@ ingress: Har du frågor så tveka inte att kontakta oss
 ---
 ## Email address: debout@telia.com
 
-## Facebook: Pour les Enfants Sénégal
+## Facebook: Debout Pour les Enfants Sénégal
 
 ## Tel.  +46 708 86 40 96
 
@@ -20,4 +20,4 @@ ingress: Har du frågor så tveka inte att kontakta oss
 
 ## 131 47  Nacka
 
-![](/img/bg-contact.jpg)
+![null](/img/bg-contact.jpg)
