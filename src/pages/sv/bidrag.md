@@ -32,4 +32,4 @@ Vår förhoppning är att kunna öka budgeten och ge barnen ett mål mat i vecka
 * Call Control AB
 * Luxark AB
 * CR Möbelrestaurering 
-* Lotén Arkitekter
+* Lotén Arkitekter AB
