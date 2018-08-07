@@ -31,3 +31,5 @@ Vår förhoppning är att kunna öka budgeten och ge barnen ett mål mat i vecka
 * [Incoord AB](https://www.incoord.se/)
 * Call Control AB
 * Luxark AB
+* CR Möbelrestaurering 
+* Lotén Arkitekter
