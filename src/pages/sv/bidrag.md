@@ -18,7 +18,7 @@ IBAN SE 6000 0000 0005 2448 2381
 
 BIC HANDSESS
 
-Alla bidrag går oavkortat, så när som på avgifter till bank och hemsida, till projektet i Ziguinchor. 
+Alla bidrag går oavkortat, så när som på avgifter till bank och domän, till projektet i Ziguinchor. 
 
 Jag, Kristina, betalar alla mina egna utgifter såsom resor o dyl, personligen. 
 
