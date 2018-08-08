@@ -20,7 +20,7 @@ BIC HANDSESS
 
 Alla bidrag går oavkortat, så när som på avgifter till bank och domän, till projektet i Ziguinchor. 
 
-Jag, Kristina, betalar alla mina egna utgifter såsom resor o dyl, personligen. 
+Jag, Kristina, betalar personligen alla mina egna utgifter såsom resor o dyl. 
 
 Vår månadsbudget är på ca 5.000 kr.
 
