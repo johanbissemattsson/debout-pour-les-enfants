@@ -12,7 +12,7 @@ Debout Pour les Enfants (DPE) grundades i januari 2018 av Saliou Sagna, Ziguinch
 
 ## I Sverige
 
-Verksamheten i Sverige drivs som ideell förening under namnet DEBOUT POUR LES ENFANTS SÉNÉGAL (DPE) och är helt inriktad på att samla in medel till verksamheten i Ziguinchor. I styrelsen för den svenska organisationen sitter Kristina Lotén (ordförande), Anders Lindegren samt Pelle Lotén. Revisor Chri Rammer. Ingen av dessa arvoderas utan arbetar helt idéellt. 
+Verksamheten i Sverige drivs som ideell förening under namnet DEBOUT POUR LES ENFANTS SÉNÉGAL (DPE) och är helt inriktad på att samla in medel till verksamheten i Ziguinchor. I styrelsen för den svenska organisationen sitter Kristina Lotén (ordförande), Anders Lindegren samt Pelle Lotén. Revisor Chri Rammer. Ingen av dessa arvoderas utan arbetar helt idéellt. Föreningens organisationsnummer är 802514-2467
 
 ## I Senegal
 
