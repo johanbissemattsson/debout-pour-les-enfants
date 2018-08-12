@@ -6,7 +6,7 @@ ingress: >-
   Vill du uppleva det genuina Afrika, bo i en senegalesisk familj och samtidigt
   göra en insats för dina medmänniskor?  Kom och arbeta med oss!
 ---
-Du behöver inte ha kunskaper i franska språket även om är det officiella spåket i Senegal. Ungdomarna som går i gymnasiet lär sig engelska, annars pratar de flesta wolof med  varandra och talibéerna som gatubarnen kallas, pratar oftast pular, ett av alla andra etniska språk. Man kommer långt med kroppsspråket och vänligare och mer förstående människor än senegaleser får man leta efter.
+Du behöver inte ha kunskaper i franska även om det är det officiella spåket i Senegal. Ungdomarna som går i gymnasiet lär sig engelska, annars pratar de flesta wolof med  varandra och talibéerna som gatubarnen kallas, pratar oftast pular, ett av alla andra etniska språk. Man kommer långt med kroppsspråket och vänligare och mer förstående människor än senegaleser får man leta efter.
 
 ![null](/img/volontär-3.jpg)
 
