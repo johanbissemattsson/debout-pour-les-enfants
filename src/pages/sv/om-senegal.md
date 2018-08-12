@@ -28,9 +28,13 @@ Staden Ziguinchor ligger i södra Senegal, i regionen Casamance, söder om Gambi
 
 Dagens Senegal har varit bebott sedan förhistorisk tid. Under 800- och 900-talet infördes islam i området. Idag är 94% av befolkningen muslimer, 5% kristna och 1% tillhör inhemska religioner.
 
-På 1400-talet kom portugiserna till området och slog sig ner på ön Gorée utanför Dakar. Något senare anlände också holländarna hit. Handeln med gummi lockade många europeiska länder. Vid mitten av 1600-talet grundade fransmännen en handelsstation på ön Saint-Louis i norra Senegal vid Senegalflodens utlopp. Staden Saint- Louis finns i dag med på FN;s världsarvslista.
+På 1400-talet kom portugiserna till området och slog sig ner på ön Gorée utanför Dakar. Något senare anlände också holländarna hit. Handeln med gummi lockade många europeiska länder. 
 
-![null](/img/om-senegal-300.jpg)
+
+
+![](/img/om-senegal-300.jpg)
+
+Saint-Louis. Vid mitten av 1600-talet grundade fransmännen en handelsstation på ön Saint-Louis i norra Senegal vid Senegalflodens utlopp. Staden Saint- Louis finns i dag med på FN;s världsarvslista.
 
 Dakar var under kolonialtiden den viktigaste hamnen för transport av slavar till Amerika. I början av 1800-talet tog Frankrike kontroll över hela området och 1815 erkändes Senegal som fransk koloni.
 
