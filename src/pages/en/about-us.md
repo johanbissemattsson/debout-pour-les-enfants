@@ -50,7 +50,7 @@ The street children in Senegal are called talibés which means disciples. They h
 
 ![null](/img/darras-1.jpg)
 
-There is the name of a Koran school. Many are located in places that we would consider to be dumped. The Talibans are sleeping on plastic or bastards lying directly on the dirty floor. Here they also spend the time for their studies with the Marabouen. Access to the toilet is of course, but not a lot of hygiene.
+There is the name of a Koran school. Many are located in places that we would consider to be dumped. The talibés are sleeping on plastic or bastards lying directly on the dirty floor. Here they also spend the time for their studies with the Marabouen. Access to the toilet is of course, but not a lot of hygiene.
 
 ![null](/img/darras-2.jpg)
 
@@ -58,6 +58,6 @@ There is the name of a Koran school. Many are located in places that we would co
 
 ![null](/img/bg-about-senegal.jpg)
 
-Senegal has signed the UN Convention on the Rights of the Child but does not do enough to follow it. The Taliban is a problem that has been noted in recent years but changes are delaying.
+Senegal has signed the UN Convention on the Rights of the Child. The talibés is a problem that has been noted in recent years but changes are delaying.
 
-In the center we have in Ziguinchor we want to give the children, primarily the Taliban, an opportunity to be ordinary children playing, playing soccer, drawing and reading books. We also want to teach French, which is the official language of Senegal, and also in English. When the children grow older they realize that they need to learn something more than the Quran and they are very motivated for study.
+In the center we have in Ziguinchor we want to give the children, primarily the talibés, an opportunity to be ordinary children playing, playing soccer, drawing and reading books. We also want to teach French, which is the official language of Senegal, and also English. When the children grow older they realize that they need to learn something more than the Quran and they are very motivated for study.
