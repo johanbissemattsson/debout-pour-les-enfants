@@ -1,8 +1,12 @@
 ---
 templateKey: post
 language: fr
-title: Le centre de DPE est ouvert!
-date: '2018-07-04T17:00:45+02:00'
-featuredImage: /img/aktuellt-21.jpg
+title: Rendez-vous avec les l´Inspecteur
+date: '2018-05-08T17:00:45+02:00'
+featuredImage: /img/om-oss-1.jpg
 ---
+Aujourd’hui 8 mai nous avons eu des rendez-vous avec l’Inspecteur de la Jeunesse Jean Louis Dacosta. Nous pouvions dire que nous avons trouvé un endroit pour notre centre. Il était très content et il nous supporte complètement.
+
+
+
 .
