@@ -16,15 +16,13 @@ Durant le 9eme et le 10eme siècle il y a eut l’introduction de l’Islam dans
 
 Dans les années 1500 les Portuguais arrivent dans l’ouest de l’Afrique et s’installent sur l’Ile de Gorée, tout près de Dakar, et un peu plus tard les Allemands visitent et tentent de faire le commerce du caoutchouc. 
 
-![Saint-Louis](/img/om-senegal-300.jpg)
+![](/img/om-senegal-300.jpg)
 
 Alors vers les années 1700 les Français ont découvert une ville commerciale L’ile Saint-Louis située au nord de la rivière estuaire sénégalaise.
 
 Durant l’époque coloniale Dakar était le plus important port de transportation des esclaves vers les États Unie.
 
 En 1815 le Sénégal été reconnu comme une colonie française, mais en 1960 il devient un état indépendant. En 1981 il obtient une démocratie totale.
-
-![null](/img/om-senegal-15.jpg)
 
 Le climat est tropical. Durant la saison des pluies il y a de très forts vents soufflant du sud-est pouvant inonder le long de la zone. La Casamance dans le sud du Sénégal est Durant le 9eme et le 10eme siècle il y a eut l’introduction de l’Islam dans cette zone. Aujourd’hui 
 94% de la population sont musulmsans et 5% sont des chretiens.
