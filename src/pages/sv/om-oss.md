@@ -54,6 +54,6 @@ Daara är namnet på en koranskola. Många är belägna på platser som vi skull
 
 ![null](/img/om-oss-21.jpg)
 
-Senegal har skrivit på FN:s barnkonvention men gör inte tillräckligt för att följa den. Talibéerna är ett problem som uppmärksammats på senare år men förändringar dröjer.
+Senegal har skrivit på FN:s barnkonvention. Talibéerna är ett problem som uppmärksammats på senare år men förändringar dröjer.
 
 I det center vi har i Ziguinchor vill vi ge barnen, i första hand talibéerna, en möjlighet att få vara vanliga barn som leker, spelar fotboll, ritar och läser böcker. Vi vill också ge undervisning i franska, vilket är det officiella språket i Senegal, och även i engelska. När barnen blir äldre inser de att man behöver lära sig något mer än Koranen och de är mycket motiverade för studier.
