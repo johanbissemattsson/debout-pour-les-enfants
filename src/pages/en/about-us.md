@@ -3,10 +3,8 @@ templateKey: page
 title: About us
 bgImage: /img/bg-about-us.jpg
 ingress: >-
-
-
-  We are an ideal organization which goal is to make life a little better for
-  the street children in Ziguinchor, a city in southern Senegal.
+  We are an non-profit organization which goal is to make life a little better
+  for the street children in Ziguinchor, a city in southern Senegal.
 ---
 # About Us
 
