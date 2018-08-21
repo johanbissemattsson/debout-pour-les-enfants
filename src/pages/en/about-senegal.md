@@ -9,25 +9,19 @@ ingress: >-
 ---
 ![Senegal](/img/map.jpg)
 
-
-
 ## Senegal
 
-
-
-The area is about 200,000 square kilometers which corresponds to barely half the size of Sweden. The population is about 16 million, of which 2 million are living in the capital Dakar. 
+The area is about 200,000 square kilometers which corresponds to barely half the size of Sweden. The population is about 16 million, of which 2 million are living in the capital Dakar. In Sweden 10 million.
 
 The average length of life is 67 years and the median age is 18,5 years which means that half the population is under 19 years old. The youth unemployment is high and the average income is low. Half the population is very poor. 
 
-![](/img/senegal-3003.jpg)
+![null](/img/senegal-3003.jpg)
 
 The GNP of Senegal is 7 % that of Sweden. The main export products are fish and peanuts.
 
 French is the official language but people mostly speak their own ethnic language like Wolof, Pulaar, Jola, Mandinca and so on. Many speak several of these languages.
 
 Illiteracy is widespread and, in 2015, included more than 40% of the adult population.
-
-
 
 ## Ziguinchor
 
@@ -46,8 +40,6 @@ In the 1500´s the Portuguese arrived in West Africa and settled on the island G
 ![null](/img/om-senegal-300.jpg)
 
 Then in the 1700´s the French founded a commercial town on the island Saint-Louis, it the northern Senegalese river estuary.
-
-
 
 During the colonial period, Dakar was the most important port for the transportation of slaves to America.
 
