@@ -24,7 +24,7 @@ The sister organisation in Senegal called DEBOUT POUR LES ENFANTS, led by Saliou
 
 # Background
 
-In Spring 2015, I, Kristina Lotén, made a holiday trip to Senegal. A terrific journey full of experiences which awakened my interest for the country and the people. So a desire to find a work with some kind of relief organisation arouse.
+In Spring 2015, I, Kristina Lotén, made a holiday trip to Senegal. A terrific journey full of experiences which awakened my interest for the country and its people. So a desire to find a work with some kind of relief organisation arouse.
 
 ![null](/img/om-oss-6.jpg)
 
@@ -44,13 +44,13 @@ We opened our centre in May 2018 and have 30-50 visiting children every day, som
 
 ![null](/img/om-oss-23.jpg)
 
-The street children in Senegal are called talibés which means disciples. They have been relayed by their parents, sometimes already at the age of four, to the Koran schools operated by Marabouer. The intention is that the boys will learn the Quran beyond which may take up to ten years. Many of the children do not meet their families throughout that time. Most of the day, they spend on the streets to beg for food and money for the Marabou. The children are dirty with broken clothes and usually without shoes.
+The street children in Senegal are called talibés which means disciples. They have been relayed by their parents, sometimes already at the age of four, to the Koran schools operated by Marabous. The intention is that the boys will learn the Quran beyond which may take up to ten years. Many of the children do not meet their families throughout that time. Most of the day, they spend on the streets to beg for food and money for the Marabou. The children are dirty with broken clothes and usually without shoes.
 
 ## Daaras
 
 ![null](/img/darras-1.jpg)
 
-There is the name of a Koran school. Many are located in places that we would consider to be dumped. The talibés are sleeping on plastic or bastards lying directly on the dirty floor. Here they also spend the time for their studies with the Marabouen. Access to the toilet is of course, but not a lot of hygiene.
+Daaras is the name of a Koran school. Many are located in places that we would consider to be dumped. The talibés are sleeping on plastic mats lying directly on the dirty floor. Here they also spend the time for their studies with the Marabou. Access to the toilet is of course, but not a lot of hygiene.
 
 ![null](/img/darras-2.jpg)
 
@@ -60,4 +60,4 @@ There is the name of a Koran school. Many are located in places that we would co
 
 Senegal has signed the UN Convention on the Rights of the Child. The talibés is a problem that has been noted in recent years but changes are delaying.
 
-In the center we have in Ziguinchor we want to give the children, primarily the talibés, an opportunity to be ordinary children playing, playing soccer, drawing and reading books. We also want to teach French, which is the official language of Senegal, and also English. When the children grow older they realize that they need to learn something more than the Quran and they are very motivated for study.
+In the center we have in Ziguinchor we want to give the children, primarily the talibés, an opportunity to be ordinary children playing, playing soccer, drawing and reading books. We want to teach French, which is the official language of Senegal, and also English. When the children grow older they realize that they need to learn something more than the Quran and they are very motivated for study.
