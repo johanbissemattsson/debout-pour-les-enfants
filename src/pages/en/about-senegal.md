@@ -11,7 +11,7 @@ ingress: >-
 
 ## Senegal
 
-The area is about 200,000 square kilometers which corresponds to barely half the size of Sweden. The population is about 16 million, of which 2 million are living in the capital Dakar. In Sweden 10 million.
+The area is about 200,000 square kilometers which corresponds to barely half the size of Sweden. The population is about 16 million, of which 2 million are living in the capital Dakar. 
 
 The average length of life is 67 years and the median age is 18,5 years which means that half the population is under 19 years old. The youth unemployment is high and the average income is low. Half the population is very poor. 
 
