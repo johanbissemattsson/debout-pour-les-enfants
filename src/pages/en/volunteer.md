@@ -3,9 +3,6 @@ templateKey: page
 title: Volunteer
 bgImage: /img/bg-volunteer.jpg
 ingress: >-
-  ![](/img/bg-volunteer.jpg)
-
-
   If you would like to experience the genuine Africa, live with a Senegalese
   family and at the same time make a contribution to your fellow human beings,
   then take this chance! Come and work with us!

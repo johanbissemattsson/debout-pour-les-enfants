@@ -10,6 +10,8 @@ export class IndexPageTemplate extends React.Component {
     const { edges } = posts;
 
     const PageContent = contentComponent || Content;
+    
+    let postCount = 0;
 
     return (
       <div className='index-container'>
@@ -35,7 +37,9 @@ export class IndexPageTemplate extends React.Component {
                   <div className='posts'>
                   {edges
                     .map(({ node: post }) => {
-                      if (language === post.frontmatter.language) {
+                      if (postCount <= 1) {
+                      if (language && language === post.frontmatter.language) {
+                        postCount++;
                         return (
                           <div className='post-item-container' key={post.id}>
                             <div className='post-item'>
@@ -55,9 +59,32 @@ export class IndexPageTemplate extends React.Component {
                             </div>
                           </div>
                         )}
+                        else if (!language && post.frontmatter.language === 'sv') {
+                          postCount++;
+                          return (
+                          <div className='post-item-container' key={post.id}>
+                            <div className='post-item'>
+                              <h3 className='post-item-title'>
+                                <Link className="has-text-primary" to={post.fields.slug}>
+                                  <figure className='image'>
+                                    <img src={post.frontmatter.featuredImage} alt={post.frontmatter.title} />
+                                  </figure>
+                                  {post.frontmatter.title}
+                                </Link>
+                              </h3>
+                              <p>
+                                {post.excerpt}
+                                <br />
+                              </p>
+                              <p className='date'><Link to={post.fields.slug}>{post.frontmatter.date}</Link></p>
+                            </div>
+                          </div>
+                          )
+                        }
                       }
+                    }
                     )}
-                    
+                    {language === 'en' ? <a href='/en/news'>More news</a> : language === 'fr' ? <a href='/fr/actualite'>Plus d'actualities</a> : <a href='/sv/aktuellt'>Fler nyheter</a>}
                   </div>
                 </section>
               }

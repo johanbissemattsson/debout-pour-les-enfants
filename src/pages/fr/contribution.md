@@ -2,7 +2,7 @@
 templateKey: page
 title: Contributions
 bgImage: /img/bg-contribution.jpg
-ingress: '![null]()'
+ingress: ''
 ---
 # CONTRIBUTIONS
 
