@@ -30,9 +30,7 @@ Dagens Senegal har varit bebott sedan förhistorisk tid. Under 800- och 900-tale
 
 På 1400-talet kom portugiserna till området och slog sig ner på ön Gorée utanför Dakar. Något senare anlände också holländarna hit. Handeln med gummi lockade många europeiska länder. 
 
-
-
-![](/img/om-senegal-300.jpg)
+![null](/img/om-senegal-300.jpg)
 
 Saint-Louis. Vid mitten av 1600-talet grundade fransmännen en handelsstation på ön Saint-Louis i norra Senegal vid Senegalflodens utlopp. Staden Saint- Louis finns i dag med på FN;s världsarvslista.
 
@@ -46,7 +44,7 @@ Klimatet i söder är tropiskt. Under regnperioden som varar som längst från j
 
 I norra delarna av landet råder ett stäppklimat. 
 
-![null](/img/om-senegal-15.jpg)
+![null](/img/djungel-2.jpg)
 
 I Casamanceregionen i söder är det betydligt hetare och fuktigare än i resten av landet vilket resulterat i ett bördigt landskap. Här odlas ris, jordnötter och andra grödor. 
 
