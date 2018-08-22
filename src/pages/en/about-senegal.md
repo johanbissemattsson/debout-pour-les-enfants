@@ -1,7 +1,7 @@
 ---
 templateKey: page
 title: About Sénégal and Ziguinchor
-bgImage: /img/bg-about-senegal.jpg
+bgImage: /img/senegal-3004.jpg
 ingress: >-
   Senegal is the most westerly of the African mainland countries, situated on
   the Atlantic Coast. It has borders with Gambia, Guinea, Guinea-Bissau, Mali
