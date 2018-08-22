@@ -1,7 +1,7 @@
 ---
 templateKey: page
 title: de Sénégal et Ziguinchor
-bgImage: /img/bg-about-senegal.jpg
+bgImage: /img/senegal-3004.jpg
 ingress: >-
   Le Sénégal est le pays le plus occidental du continent africain, situé sur les
   côtes de l’océan atlantique, il est frontalié avec la Gambie, la Guinée
