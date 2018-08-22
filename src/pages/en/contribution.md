@@ -4,6 +4,8 @@ title: Contribution
 bgImage: /img/bg-contribution.jpg
 ingress: ''
 ---
+## Contributions
+
 IBAN SE 6000 0000 0005 2448 2381\
 BIC HANDSESS
 
