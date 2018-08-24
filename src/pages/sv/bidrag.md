@@ -4,23 +4,23 @@ title: Bidrag
 bgImage: /img/bg-contribution.jpg
 ingress: För att kunna bedriva vår verksamhet är vi helt beroende av bidrag.
 ---
-Bg 5268-5930
-
-Swish. 1234604229
-
-
+## Månadsgivare
 
 Om Du vill bidra månadsvis använd följande kontonr: 
 
 HB clearingnr 6104 kontonr 524 482 381
 
+## Enstaka bidrag
 
+Bg 5268-5930
 
-Utlandsbetalning:
+Swish. 1234604229
+
+## Utlandsbetalning
 
 IBAN SE 6000 0000 0005 2448 2381        BIC HANDSESS
 
-
+## Vår budget
 
 Alla bidrag går oavkortat, så när som på avgifter till bank och domän, till projektet i Ziguinchor. 
 
