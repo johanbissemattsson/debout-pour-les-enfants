@@ -7,6 +7,12 @@ ingress: >-
   peu meilleure pour les enfants des rues de Ziguinchor, une ville du sud du
   Sénégal.
 ---
+
+
+
+
+
+
 # Talibées
 
 Les enfants des rues au Sénégal sont appelés talibées, ce qui signifie disciples. Ils ont été relayés par leurs parents, parfois déjà à l'âge de quatre ans, dans les écoles coraniques de Marabou. L'intention est que les garçons apprennent le Coran au-delà de ce qui peut prendre jusqu'à dix ans. Beaucoup d'enfants ne rencontrent pas leurs familles pendant tout ce temps. La plupart du temps, ils passent dans les rues pour mendier de la nourriture et de l'argent pour le Marabou. Les enfants sont sales avec des vêtements cassés et généralement sans chaussures.
