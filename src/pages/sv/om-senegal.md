@@ -14,7 +14,7 @@ Ytan är ca 200 000 kvadratkilometer vilket motsvarar knappt halva Sveriges yta.
 
 ![null](/img/senegal-3003.jpg)
 
-Franska är det officiella språket men man talar också ett antal lokala språk kopplade till folkgrupperna Wolof, Pulaar, Serer, Jola, Mandinka respektive Soninke. Många behärskar samtidigt flera av dessa språk. Analfabetismen är dock omfattande och år 2015 var drygt 40% av den vuxna befolkningen analfabeter.  
+Franska är det officiella språket men man talar också ett antal lokala språk kopplade till folkgrupperna wolof, pulaar, serer, jola, mandinka respektive soninke. Många behärskar samtidigt flera av dessa språk. Analfabetismen är dock omfattande och år 2015 var drygt 40% av den vuxna befolkningen analfabeter.  
 
 ## Ziguinchor
 
