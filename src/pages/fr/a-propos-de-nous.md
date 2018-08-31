@@ -49,7 +49,7 @@ Les enfants des rues au Sénégal sont appelés talibées, ce qui signifie disci
 
 ![null](/img/darras-1.jpg)
 
-Il y a le nom d'une école coranique. Beaucoup sont situés dans des endroits que nous considérons comme étant déversés. Les talibées dorment sur du plastique ou des bâtards qui gisent directement sur le sol sale. Ici, ils passent aussi du temps pour leurs études avec les Marabous. L'accès aux toilettes est bien sûr, mais pas beaucoup d'hygiène.
+Daara c´est le nom d'une école coranique. Beaucoup sont situés dans des endroits que nous considérons comme étant déversés. Les talibées dorment sur du plastique ou des bâtards qui gisent directement sur le sol sale. Ici, ils passent aussi du temps pour leurs études avec les Marabous. L'accès aux toilettes est bien sûr, mais pas beaucoup d'hygiène.
 
 ![](/img/darras-2.jpg)
 
