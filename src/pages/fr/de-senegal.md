@@ -15,7 +15,7 @@ La zone est de 200.000 kilomètres carré ce qui correspond tout juste à la moi
 
 ![null](/img/senegal-3003.jpg)
 
-La langue officielle est le français mais les gens parlent la langue de leur ethnique groupe comme le wolof, jola, serrèrent, pular, Mandinca etc. La plupart parlent plusieurs de ses langues. 
+La langue officielle est le français mais les gens parlent la langue de leur ethnique groupe comme le wolof, jola, serrèrent, pular, mandinca etc. La plupart parlent plusieurs de ses langues. 
 
 L’analphabétism est répandu et en 2015 inclus plus de 40 % de la population adulte.
 
@@ -23,7 +23,7 @@ L’analphabétism est répandu et en 2015 inclus plus de 40 % de la population 
 
 ![null](/img/gata-z.jpg)
 
-Ziguinchor est situé dans la région de la Casamance au sud de la Gambie. En 2013 la ville comptait 205.000 habitants. C’est une ville typiquement africaine avec très basses maisons de construction avec une forte bousculade et animation, une ville pleine de couleurs et des personnes très sympathique. C’est une région très verte qui s’ étend Lelangue du fleuve de Casamance avec seulement une heure de route pour la côte de la mer.
+Ziguinchor est situé dans la région de la Casamance au sud de la Gambie. En 2013 la ville comptait 205.000 habitants. C’est une ville typiquement africaine avec très basses maisons de construction avec une forte bousculade et animation, une ville pleine de couleurs et des personnes très sympathique. C’est une région très verte qui s’ étend le long du fleuve de Casamance avec seulement une heure de route pour la côte de la mer.
 
 ![null](/img/butik-z.jpg)
 
@@ -36,7 +36,7 @@ Dans les années 1500 les Portuguais arrivent dans l’ouest de l’Afrique et s
 
 ![null](/img/om-senegal-300.jpg)
 
-Alors vers les années 1700 les Français ont découvert une ville commerciale L’ile Saint-Louis située au nord de la rivière estuaire sénégalaise.
+Alors vers les années 1700 les Français ont établi une ville commerciale L’ile Saint-Louis située au nord de la rivière estuaire sénégalaise.
 
 Durant l’époque coloniale Dakar était le plus important port de transportation des esclaves vers les États Unie.
 
