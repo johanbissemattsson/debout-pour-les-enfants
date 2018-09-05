@@ -13,7 +13,7 @@ Debout Pour les Enfants (DPE) est fondé en janvier 2018 par Amadou Saliou Sagna
 
 ## En Suède
 
-Cette organisation en Suède est dirigée comme unge organisation mon lukrativ Quick s´appelle DEBOUT POUR LES ENFANTS SENEGAL et premenstruell concerné et avec in budget capital Pour les activités à Ziguinchor. Les membres du bureau consiste Kristina Lotén dont la présidente, Anders Lindegren et Pelle Lotén; l´auditeur est Chri Rammer. Tous ces membres travaillent comme volontaires.
+Cette organisation en Suède est dirigée comme une organisation mon lukrativ Quick s´appelle DEBOUT POUR LES ENFANTS SENEGAL et premenstruell concerné et avec in budget capital Pour les activités à Ziguinchor. Les membres du bureau consiste Kristina Lotén dont la présidente, Anders Lindegren et Pelle Lotén; l´auditeur est Chri Rammer. Tous ces membres travaillent comme volontaires.
 
 Le numéro de registre est 8025142467.
 
@@ -49,13 +49,13 @@ Les enfants des rues au Sénégal sont appelés talibées, ce qui signifie disci
 
 ![null](/img/darras-1.jpg)
 
-Daara c´est le nom d'une école coranique. Beaucoup sont situés dans des endroits que nous considérons comme étant déversés. Les talibées dorment sur du plastique ou des bâtards qui gisent directement sur le sol sale. Ici, ils passent aussi du temps pour leurs études avec les Marabous. L'accès aux toilettes est bien sûr, mais pas beaucoup d'hygiène.
+Daara c´est le nom d'une école coranique. Beaucoup sont situés dans des endroits que nous considérons comme étant déversés. Les talibées dorment sur des nattes en plastique directemente sur le sol sale. Ici, ils passent aussi du temps pour leurs études avec les Marabous. L'accès aux toilettes est bien sûr, mais pas beaucoup d'hygiène.
 
-![](/img/darras-2.jpg)
+![null](/img/darras-2.jpg)
 
 ## Convention des Nations Unies sur les droits de l'enfant et ce que nous voulons accomplir
 
-![](/img/bg-about-senegal.jpg)
+![null](/img/bg-about-senegal.jpg)
 
 Le Sénégal a signé la Convention des Nations Unies relative aux droits de l'enfant. Les talibées sont un problème qui a été noté ces dernières années mais les changements tardent à se produire.
 
