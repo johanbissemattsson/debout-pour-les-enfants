@@ -13,7 +13,7 @@ Debout Pour les Enfants (DPE) est fondé en janvier 2018 par Amadou Saliou Sagna
 
 ## En Suède
 
-Cette organisation en Suède est dirigée comme une organisation mon lukrativ Quick s´appelle DEBOUT POUR LES ENFANTS SENEGAL et premenstruell concerné et avec in budget capital Pour les activités à Ziguinchor. Les membres du bureau consiste Kristina Lotén dont la présidente, Anders Lindegren et Pelle Lotén; l´auditeur est Chri Rammer. Tous ces membres travaillent comme volontaires.
+Cette organisation en Suède est dirigée comme une organisation non lucrative qui s´appelle DEBOUT POUR LES ENFANTS SENEGAL et purement concerné et avec un budget capital pour les activités à Ziguinchor. Les membres du bureau consiste Kristina Lotén dont la présidente, Anders Lindegren et Pelle Lotén; l´auditeur est Chri Rammer. Tous ces membres travaillent comme volontaires.
 
 Le numéro de registre est 8025142467.
 
@@ -29,9 +29,7 @@ En printemps 2015, moi, Kristina Lotén, j´ai fait un voyage de vacance au Sén
 
 ![null](/img/om-oss-6.jpg)
 
-Au même automne je suis retourné pour travailler avec une organisation anglaises à propos des talibés, les enfants de la rue. Je suis installée dans une famille sénégalaise en Saint-Louis et travaillais dans une centre dirigé 
-
-par cette organisation. En 2016, j’y suis retourné encore pendant trois mois. D’étais une expérience fantastique pour moi et une fois reparti, j’ai pensé à une aide supplémentaire. Vivre dans une famille sénégalaise comme ça, est une excellente manière de comprendre la culture. Alors en automne 2017 je suis partie à Ziguinchor pour six semaines pour travailler avec des jeunes adultes. Durant cette période je réalise qu’il n’y avait rien pour les talibés de Ziguinchor comme le centre à Saint-Louis’ alors ensemble avec Saliou Sagna qui habite là-bas et qui est une éducateur qualifié, j’ai décidée de créer et faire fonctionner une organisation similaire.
+Au même automne je suis retourné pour travailler avec une organisation anglaises à propos des talibés, les enfants de la rue. Je suis installée dans une famille sénégalaise en Saint-Louis et travaillais dans une centre dirigé par cette organisation. En 2016, j’y suis retourné encore pendant trois mois. D’étais une expérience fantastique pour moi et une fois reparti, j’ai pensé à une aide supplémentaire. Vivre dans une famille sénégalaise comme ça, est une excellente manière de comprendre la culture. Alors en automne 2017 je suis partie à Ziguinchor pour six semaines pour travailler avec des jeunes adultes. Durant cette période je réalise qu’il n’y avait rien pour les talibés de Ziguinchor comme le centre à Saint-Louis’ alors ensemble avec Saliou Sagna qui habite là-bas et qui est une éducateur qualifié, j’ai décidée de créer et faire fonctionner une organisation similaire.
 
 ## Aujourd’hui
 
