@@ -13,7 +13,7 @@ Debout Pour les Enfants (DPE) est fondé en janvier 2018 par Amadou Saliou Sagna
 
 ## En Suède
 
-Cette organisation en Suède est dirigée comme une organisation non lucrative qui s´appelle DEBOUT POUR LES ENFANTS SENEGAL et purement concerné et avec un budget capital pour les activités à Ziguinchor. Les membres du bureau consiste Kristina Lotén dont la présidente, Anders Lindegren et Pelle Lotén; l´auditeur est Chri Rammer. Tous ces membres travaillent comme volontaires.
+Cette organisation en Suède est dirigée comme une organisation non lucrative qui  s´appelle DEBOUT POUR LES ENFANTS SENEGAL et purement concerné de collecter des moyens financiers pour les activités à Ziguinchor. Les membres du bureau consiste Kristina Lotén dont la présidente, Anders Lindegren et Pelle Lotén; l´auditeur est Chri Rammer. Tous ces membres travaillent comme volontaires.
 
 Le numéro de registre est 8025142467.
 
