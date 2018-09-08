@@ -3,9 +3,9 @@ templateKey: page
 title: à Propos de nous
 bgImage: /img/bg-about-us.jpg
 ingress: >-
-  Nous sommes une organisation idéale qui dirige un centre pour rendre la vie un
-  peu meilleure pour les enfants des rues de Ziguinchor, une ville du sud du
-  Sénégal.
+  Nous sommes une organisation non lucrative qui dirige un centre pour rendre la
+  vie un peu meilleure pour les enfants des rues de Ziguinchor, une ville du sud
+  du Sénégal.
 ---
 ## À PROPOSITION DE NOUS
 
