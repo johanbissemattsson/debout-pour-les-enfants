@@ -17,7 +17,7 @@ La zone est de 200.000 kilomètres carré ce qui correspond tout juste à la moi
 
 La langue officielle est le français mais les gens parlent la langue de leur ethnique groupe comme le wolof, jola, serrèrent, pular, mandinca etc. La plupart parlent plusieurs de ses langues. 
 
-L’analphabétism est répandu et en 2015 inclus plus de 40 % de la population adulte.
+L’analphabétisme est répandu et en 2015 est inclus plus de 40 % de la population adulte.
 
 ## Ziguinchor
 
@@ -36,7 +36,7 @@ Dans les années 1500 les Portuguais arrivent dans l’ouest de l’Afrique et s
 
 ![null](/img/om-senegal-300.jpg)
 
-Alors vers les années 1700 les Français ont établi une ville commerciale L’ile Saint-Louis située au nord de la rivière estuaire sénégalaise.
+Alors vers les années 1700 les Français ont établi une ville commerciale de Saint-Louis située au nord de la rivière estuaire sénégalaise.
 
 Durant l’époque coloniale Dakar était le plus important port de transportation des esclaves vers les États Unie.
 
