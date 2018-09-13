@@ -7,13 +7,13 @@ ingress: >-
   vie un peu meilleure pour les enfants des rues de Ziguinchor, une ville du sud
   du Sénégal.
 ---
-## À PROPOSITION DE NOUS
+## À PROPO DE NOUS
 
 Debout Pour les Enfants (DPE) est fondé en janvier 2018 par Amadou Saliou Sagna, Ziguinchor et Kristina Lotén, Nacka, Suède.
 
 ## En Suède
 
-Cette organisation en Suède est dirigée comme une organisation non lucrative qui  s´appelle DEBOUT POUR LES ENFANTS SENEGAL et purement concerné de collecter des moyens financiers pour les activités à Ziguinchor. Les membres du bureau consiste Kristina Lotén dont la présidente, Anders Lindegren et Pelle Lotén; l´auditeur est Chri Rammer. Tous ces membres travaillent comme volontaires.
+Cette organisation en Suède est dirigée comme une organisation non lucrative qui  s´appelle DEBOUT POUR LES ENFANTS SENEGAL et notre role en Suede est de collecter uniquemont des fonds pour nos activités à Ziguinchor. Les membres du bureau consiste Kristina Lotén dont la présidente, Anders Lindegren et Pelle Lotén; l´auditeur est Chri Rammer. Tous ces membres travaillent comme volontaires.
 
 Le numéro de registre est 8025142467.
 
@@ -21,15 +21,15 @@ Le numéro de registre est 8025142467.
 
 ![null](/img/om-oss-4.jpg)
 
-L’organisation au Sénégal du nom DEBOUT POUR LES ENFANTS, dirigé par Saliou Sagna, fait fonctionner un centre à Ziguinchor et aussi le receveur du capital collectionné. L’organisation a été registrée à Ziguinchor et a obtenu tous les documents nécessaires. Les co-travailleurs de M l’inspecteur de la jeunesse sont membres du bureau. L’inspecteur de la jeunesse Jean Louis Dacosta qui lui aussi nous supporte pleinement.
+L’organisation au Sénégal du nom DEBOUT POUR LES ENFANTS, dirigé par Saliou Sagna, fait fonctionner un centre à Ziguinchor est aussi le receveur du capital collectionné. L’organisation a été registrée à Ziguinchor et a obtenu tous les documents nécessaires. Les co-travailleurs de M l’inspecteur de la jeunesse sont membres du bureau. L’inspecteur de la jeunesse Jean Louis Dacosta qui lui aussi nous supporte pleinement.
 
 QUELQUES ANNÉES PASSÉES 
 
-En printemps 2015, moi, Kristina Lotén, j´ai fait un voyage de vacance au Sénégal, un voyage fantastique pleins d’expérience ce qui éveille mon intérêt pour ce pays et leur population. Alors j’ai eut un désire de trouver un travail comme bénévole dans le sens d’aider et d’être utile volontairement.
+En printemps 2015, moi, Kristina Lotén, j´ai fait un voyage de vacance au Sénégal, un voyage fantastique plein d’expérience ce qui éveille mon intérêt pour ce pays et leur population. Alors j’ai eut un désire de trouver un travail comme bénévole dans le sens d’aider et d’être utile volontairement.
 
 ![null](/img/om-oss-6.jpg)
 
-Au même automne je suis retourné pour travailler avec une organisation anglaises à propos des talibés, les enfants de la rue. Je suis installée dans une famille sénégalaise en Saint-Louis et travaillais dans une centre dirigé par cette organisation. En 2016, j’y suis retourné encore pendant trois mois. D’étais une expérience fantastique pour moi et une fois reparti, j’ai pensé à une aide supplémentaire. Vivre dans une famille sénégalaise comme ça, est une excellente manière de comprendre la culture. Alors en automne 2017 je suis partie à Ziguinchor pour six semaines pour travailler avec des jeunes adultes. Durant cette période je réalise qu’il n’y avait rien pour les talibés de Ziguinchor comme le centre à Saint-Louis’ alors ensemble avec Saliou Sagna qui habite là-bas et qui est une éducateur qualifié, j’ai décidée de créer et faire fonctionner une organisation similaire.
+Au même automne je suis retourné pour travailler avec une organisation anglaises à propos des talibés, les enfants de la rue. Je suis installée dans une famille sénégalaise à Saint-Louis et travaillais dans un centre dirigé par cette organisation. En 2016, j’y suis retourné encore pendant trois mois. C’était une expérience fantastique pour moi et une fois reparti, j’ai pensé à une aide supplémentaire. Vivre dans une famille sénégalaise comme ça, est une excellente manière de comprendre la culture. Alors en automne 2017 je suis partie à Ziguinchor pour six semaines pour travailler avec des jeunes adultes. Durant cette période je réalise qu’il n’y avait rien pour les talibés de Ziguinchor comme le centre à Saint-Louis’ alors ensemble avec Saliou Sagna qui habite là-bas et qui est un éducateur qualifié, j’ai décidée de créer et faire fonctionner une organisation similaire.
 
 ## Aujourd’hui
 
@@ -41,13 +41,13 @@ Nous avons ouvert notre centre en Mai 2018 et nous avons 30 à 50 visiteurs tali
 
 ![null](/img/om-oss-23.jpg)
 
-Les enfants des rues au Sénégal sont appelés talibées, ce qui signifie disciples. Ils ont été relayés par leurs parents, parfois déjà à l'âge de quatre ans, dans les écoles coraniques de Marabou. L'intention est que les garçons apprennent le Coran au-delà de ce qui peut prendre jusqu'à dix ans. Beaucoup d'enfants ne rencontrent pas leurs familles pendant tout ce temps. La plupart du temps, ils passent dans les rues pour mendier de la nourriture et de l'argent pour le Marabou. Les enfants sont sales avec des vêtements cassés et généralement sans chaussures.
+Les enfants des rues au Sénégal sont appelés talibées, ce qui signifie disciples. Ils ont été relayés par leurs parents, parfois déjà à l'âge de quatre ans, dans les écoles coraniques de Marabout. L'intention est que les garçons apprendre le Coran et ce qui peut prendre dix ans. Beaucoup d'enfants ne rencontrent pas leurs familles pendant tout ce temps. La plupart du temps, ils passent dans les rues pour mendier de la nourriture et de l'argent pour le Marabout. Les enfants sont sales avec des vêtements déchirrés et généralement sans chaussures.
 
 ## Daaras
 
 ![null](/img/darras-1.jpg)
 
-Daara c´est le nom d'une école coranique. Beaucoup sont situés dans des endroits que nous considérons comme étant déversés. Les talibées dorment sur des nattes en plastique directemente sur le sol sale. Ici, ils passent aussi du temps pour leurs études avec les Marabous. L'accès aux toilettes est bien sûr, mais pas beaucoup d'hygiène.
+Daara c´est le nom d'une école coranique. Beaucoup sont situés dans des endroits que nous considérons comme étant déversés. Les talibées dorment sur des nattes en plastique directemente sur le sol sale. Ici, ils passent aussi du temps pour leurs études avec les Marabouts. L'accès aux toilettes est bien sûr, mais pas beaucoup d'hygiène.
 
 ![null](/img/darras-2.jpg)
 
