@@ -19,3 +19,67 @@ På fritid ges tillfälle till utflykter bland annat till t ex Cap Skirring som 
 ![null](/img/mat-4.jpg)
 
 Det kommer också att finnas möjlighet till lektioner i franska, wolof och djola.
+
+# Intresserad?
+
+Det skulle glädja oss mycket om du är intresserad av att komma till oss i Ziguinchor för att arbeta med våra gatubarn.
+
+## Förutsättningarna är följande:
+
+Priser:
+
+3 veckor. 5.000kr
+
+4 veckor  6.700 kr
+
+5 veckor. 8.400 kr
+
+6 veckor. 10.100 kr
+
+Därefter 1.500 kr ytterligare för varje tillkommande vecka
+
+
+
+## De krav vi ställer på våra volontärer är att:
+
+## 
+
+Man arbetar minimum 3 veckor
+
+Man är minimum 18 år
+
+Man har nödvändiga vaccinationer
+
+Man har en rese- och sjukförsäkring
+
+Man lämnar oss ett utdrag ur polisens belastningsregister
+
+
+
+## I priset ingår:
+
+Boende och alla måltider i en senegalesisk familj
+
+Transport till och från flygplatsen/hamnen i Ziguinchor
+
+Vatten på flaska under arbetstid i centret
+
+Stöd från och tillgång till personal dygnet runt
+
+
+
+## I priset ingår ej:
+
+Biljett
+
+Rese- och sjukförsäkring 
+
+Vaccinationer
+
+Ev visum, behövs endast för vistelse längre än 90 dagar
+
+Utdrag ur polisens belastningsregister
+
+Utflykter
+
+## Vi kan lova att Du genom att tillbringa en tid med en familj här och att arbeta med gatubarnen kommer att bli ett minne för livet!
