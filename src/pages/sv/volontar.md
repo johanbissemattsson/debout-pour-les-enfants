@@ -38,8 +38,6 @@ Priser:
 
 Därefter 1.500 kr ytterligare för varje tillkommande vecka
 
-
-
 ## De krav vi ställer på våra volontärer är att:
 
 ## 
@@ -54,8 +52,6 @@ Man har en rese- och sjukförsäkring
 
 Man lämnar oss ett utdrag ur polisens belastningsregister
 
-
-
 ## I priset ingår:
 
 Boende och alla måltider i en senegalesisk familj
@@ -65,8 +61,6 @@ Transport till och från flygplatsen/hamnen i Ziguinchor
 Vatten på flaska under arbetstid i centret
 
 Stöd från och tillgång till personal dygnet runt
-
-
 
 ## I priset ingår ej:
 
@@ -82,4 +76,4 @@ Utdrag ur polisens belastningsregister
 
 Utflykter
 
-## Vi kan lova att Du genom att tillbringa en tid med en familj här och att arbeta med gatubarnen kommer att bli ett minne för livet!
+## Vi kan lova att Du genom att tillbringa en tid med en familj här och samtidigt arbeta med gatubarnen på vårt center kommer att få ett minne för livet!
