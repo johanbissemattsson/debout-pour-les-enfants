@@ -30,6 +30,10 @@ Vår månadsbudget är på ca 5.000 kr.
 
 Vår förhoppning är att kunna öka budgeten och ge barnen ett mål mat i veckan.
 
+## Vi skickar Nyhetsbrev
+
+Som bidragsgivare får du våra Nyhetsbrev! Meddela oss din mailadress via debout@telia.com så skickar vi dig fortlöpande information om vår verksamhet. 
+
 ## Följande företag stöder oss
 
 * [Incoord AB](https://www.incoord.se/)
