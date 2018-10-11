@@ -41,3 +41,5 @@ Som bidragsgivare får du våra Nyhetsbrev! Meddela oss din mailadress via debou
 * Luxark AB
 * CR Möbelrestaurering 
 * Lotén Arkitekter AB
+* Ektorps Apotek
+* Gertab i Stockholm
