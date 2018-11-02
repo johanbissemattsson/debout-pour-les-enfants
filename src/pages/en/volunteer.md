@@ -22,3 +22,85 @@ On Friday evenings we usually meet somewhere in the city to have a drink togethe
 ![null](/img/mat-4.jpg)
 
 There will also be opportunities to have lessons in French, Wolof and Djola.
+
+# Are you interested?
+
+
+
+It will make us very happy if you are interested in coming to Ziguinchor to work with our streetchildren.
+
+
+
+## The conditions are as follows:
+
+
+
+Prices
+
+
+
+3 weeks  483 Euros
+
+4 weeks  647 Euros
+
+5 weeks  811 Euros
+
+6 weeks  976 Euros
+
+
+
+After that an additional 145 Euros for every extra week.
+
+
+
+## The demands we have on our volunteers are:
+
+
+
+You are working minimum 3 weeks
+
+The minimum age is 18
+
+You have all the necessary vaccinations
+
+You have a travel- and health insurance
+
+You will give us a record of previous convictions
+
+
+
+## Included in the price:
+
+
+
+The housing and all meals in a senegalese family
+
+Transport to and from the airport/harbour in Ziguinchor
+
+Bottled water during working hours in the center
+
+Support from the staff day and night
+
+
+
+## Not included in the price:
+
+
+
+Tickets
+
+Travel- and health insurances
+
+Vaccinations
+
+Visa if staying more than 90 dags
+
+The record of previous convictions
+
+Exkursions
+
+
+
+## We can promis You that spending time with a family in Senegal and at the same time be working with the talibés in our centre will be a memory for life!
+
+##
