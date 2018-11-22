@@ -26,7 +26,7 @@ Alla bidrag går oavkortat, så när som på avgifter till bank och domän, till
 
 Jag, Kristina, betalar personligen alla mina egna utgifter såsom resor o dyl. 
 
-Vår månadsbudget är på ca 5.000 kr.
+Vår månadsbudget är på ca 6.000 kr.
 
 Vår förhoppning är att kunna öka budgeten och ge barnen ett mål mat i veckan.
 
