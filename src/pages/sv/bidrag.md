@@ -36,6 +36,7 @@ Som bidragsgivare får du våra Nyhetsbrev! Meddela oss din mailadress via debou
 
 ## Följande företag stöder oss
 
+* Mälarkajen Fastigheter AB
 * [Incoord AB](https://www.incoord.se/)
 * Call Control AB
 * Luxark AB
