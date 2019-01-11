@@ -1,7 +1,7 @@
 ---
 templateKey: post
 language: fr
-title: Dan le journal!
+title: Dans le journal!
 date: '2019-01-11T11:08:35+01:00'
 featuredImage: /img/nvp-jan-2019.jpg
 ---
