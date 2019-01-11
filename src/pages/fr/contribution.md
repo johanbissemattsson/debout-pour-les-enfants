@@ -9,7 +9,7 @@ ingress: ''
 IBAN SE 6000 0000 0005 2448 2381\
 BIC HANDSESS
 
-La somme entière ira dans le project à Ziguinchor, à l’exeption des charges de la bank et du page web.
+La somme entière ira dans le project à Ziguinchor, à l’exeption des charges de la bank et du page web. Plus de 95% de l´argent colleté  va direct à notre projet à Ziguinchor, Sènègal.
 
 Moi Kristina Lotén personnellement pay toutes les dépenses, comme les voyages etc…
 
