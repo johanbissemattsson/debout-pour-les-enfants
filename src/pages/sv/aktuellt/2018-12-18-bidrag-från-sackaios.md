@@ -1,7 +1,7 @@
 ---
 templateKey: post
 language: sv
-title: Bidrag från Sackaios!
+title: Bidrag från Tabita!
 date: '2018-12-18T14:25:22+01:00'
 featuredImage: /img/bild-4.jpg
 ---
