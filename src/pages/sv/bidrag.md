@@ -34,8 +34,9 @@ Vår förhoppning är att kunna öka budgeten och ge barnen ett mål mat i vecka
 
 Som bidragsgivare får du våra Nyhetsbrev! Meddela oss din mailadress via debout@telia.com så skickar vi dig fortlöpande information om vår verksamhet. 
 
-## Följande företag stöder oss
+## Följande företag och organisationer stöder oss:
 
+* Stiftelsen Tabita 
 * Mälarkajen Fastigheter AB
 * [Incoord AB](https://www.incoord.se/)
 * Call Control AB
