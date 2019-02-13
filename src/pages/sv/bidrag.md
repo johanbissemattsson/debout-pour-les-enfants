@@ -16,9 +16,9 @@ Bg 5268-5930
 
 Swish. 1234604229
 
-## Utlandsbetalning
+## Betalning från utlandet
 
-IBAN SE 6000 0000 0005 2448 2381        BIC HANDSESS
+IBAN SE 47 6000 0000 0005 2448 2381        BIC HANDSESS
 
 ## Vår budget
 
