@@ -6,7 +6,7 @@ ingress: ''
 ---
 ## CONTRIBUTIONS
 
-IBAN SE 6000 0000 0005 2448 2381\
+IBAN SE47 6000 0000 0005 2448 2381\
 BIC HANDSESS
 
 La somme entière ira dans le project à Ziguinchor, à l’exeption des charges de la bank et du page web. 
