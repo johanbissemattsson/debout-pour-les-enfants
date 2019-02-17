@@ -1,7 +1,7 @@
 ---
 templateKey: post
 language: fr
-title: Une expostion!
+title: Une exposition!
 date: '2019-02-17T19:15:43+01:00'
 featuredImage: /img/utställning-forum-nacka.jpg
 ---
