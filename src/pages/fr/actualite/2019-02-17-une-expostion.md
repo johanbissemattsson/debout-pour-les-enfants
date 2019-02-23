@@ -7,4 +7,4 @@ featuredImage: /img/utställning-forum-nacka.jpg
 ---
 ![null](/img/utställning-forum-nacka.jpg)
 
-Nous avons  maintenant une petite exposition concernant DPE jusqu´à 27 février.
+Nous avons  maintenant une petite exposition concernant DPE dans la bibliothèque à Nacka jusqu´à 27 février.
