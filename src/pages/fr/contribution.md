@@ -13,6 +13,6 @@ La somme entière ira dans le project à Ziguinchor, à l’exeption des charges
 
 Moi Kristina Lotén personnellement pay toutes les dépenses, comme les voyages etc.
 
-Notre budget mensuel est de 600 euros.
+Notre budget mensuel est de 700 euros.
 
 ##
