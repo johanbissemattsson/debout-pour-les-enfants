@@ -26,9 +26,9 @@ IBAN SE47 6000 0000 0005 2448 2381        BIC HANDSESS
 
 Jag, Kristina, betalar personligen alla mina egna utgifter såsom resor o dyl. 
 
-Vår månadsbudget är på ca 6.000 kr.
+Vår månadsbudget är på ca 7.000 kr.
 
-Vår förhoppning är att kunna öka budgeten och ge barnen ett mål mat i veckan.
+Vi kan nu ge barnen ett mål mat i veckan.
 
 ## Vi skickar Nyhetsbrev
 
