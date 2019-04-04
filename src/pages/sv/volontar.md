@@ -28,9 +28,11 @@ Det skulle glädja oss mycket om du är intresserad av att komma till oss i Zigu
 
 Priser:
 
-3 veckor. 5.000kr
+2 veckor. 3.500 kr
 
-4 veckor  6.700 kr
+3 veckor. 5.000 kr
+
+4 veckor.  6.700 kr
 
 5 veckor. 8.400 kr
 
