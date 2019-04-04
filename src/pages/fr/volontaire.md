@@ -21,11 +21,7 @@ Il y aura une opportunité de faire des excursions, par exemple Cap Skirring, un
 
 # Êtes vous intéressé ?
 
-
-
 Nous serons très heureux que vous soyez intéressé de venir travailler avec ses enfants de la rue.
-
-
 
 ## Les conditions sont les suivantes :
 
@@ -33,7 +29,7 @@ Nous serons très heureux que vous soyez intéressé de venir travailler avec se
 
 Prix :
 
-
+2 semaines  350 Euros
 
 3 semaines  483 Euros
 
@@ -44,8 +40,6 @@ Prix :
 6 semaines  976 Euros
 
 Et après ça une addition de 145 Euro pour chaque semaine supplémentaire. 
-
-
 
 ## Les demandes exigées aux volontaires sont :
 
@@ -61,11 +55,7 @@ Assurances de voyage et santé
 
 Un papier de Police pour votre conviction 
 
-
-
 ## Inclu aux prix :
-
-
 
 Votre maison d’accueil et vos repas dans la famille sénégalaise 
 
@@ -75,11 +65,7 @@ Une bouteille d’eau durant les heures de travail dans le centre
 
 Un numéro de téléphone à votre disposition que vous pouvez appeler 24h/24 h
 
-
-
 ## Pas inclus au prix :
-
-
 
 Tickets
 
@@ -92,7 +78,5 @@ Visa si vous restez plus de 90 jours
 Papier de la Police pour votre convictions 
 
 Excursions
-
-
 
 ## Nous pouvons vous promettre que passer de temps dans une famille sénégalaise et en même temps travailler avec nous pour les talibés (enfants de la rue) dans le centre seront de belle souvenir pour vous.
