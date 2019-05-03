@@ -39,7 +39,7 @@ Prix :
 
 6 semaines  1010 Euros
 
-Et après ça une addition de 140 Euro pour chaque semaine supplémentaire. 
+Et après ça une addition de 150 Euro pour chaque semaine supplémentaire. 
 
 ## Les demandes exigées aux volontaires sont :
 
