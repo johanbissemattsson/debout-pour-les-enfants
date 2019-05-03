@@ -33,11 +33,11 @@ Prix :
 
 3 semaines  500 Euros
 
-4 semaines  650 Euros
+4 semaines  670 Euros
 
-5 semaines  800 Euros
+5 semaines  840 Euros
 
-6 semaines  950 Euros
+6 semaines  1010 Euros
 
 Et après ça une addition de 140 Euro pour chaque semaine supplémentaire. 
 
@@ -45,7 +45,7 @@ Et après ça une addition de 140 Euro pour chaque semaine supplémentaire.
 
 ## 
 
-Vous devrez travailler 3 semaines au minimum
+Vous devrez travailler 2 semaines au minimum
 
 Avoir 18 ans du minimum
 
