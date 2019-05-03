@@ -31,15 +31,15 @@ Prix :
 
 2 semaines  350 Euros
 
-3 semaines  483 Euros
+3 semaines  500 Euros
 
-4 semaines  647 Euros
+4 semaines  650 Euros
 
-5 semaines  811 Euros
+5 semaines  800 Euros
 
-6 semaines  976 Euros
+6 semaines  950 Euros
 
-Et après ça une addition de 145 Euro pour chaque semaine supplémentaire. 
+Et après ça une addition de 140 Euro pour chaque semaine supplémentaire. 
 
 ## Les demandes exigées aux volontaires sont :
 
