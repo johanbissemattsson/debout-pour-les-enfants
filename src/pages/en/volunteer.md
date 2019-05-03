@@ -33,15 +33,15 @@ Prices
 
 2 weeks 350 Euros
 
-3 weeks  483 Euros
+3 weeks  500 Euros
 
-4 weeks  647 Euros
+4 weeks  650 Euros
 
-5 weeks  811 Euros
+5 weeks  800 Euros
 
-6 weeks  976 Euros
+6 weeks  950 Euros
 
-After that an additional 145 Euros for every extra week.
+After that an additional 140 Euros for every extra week.
 
 ## The demands we have on our volunteers are:
 
