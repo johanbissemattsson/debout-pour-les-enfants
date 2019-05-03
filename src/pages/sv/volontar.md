@@ -44,7 +44,7 @@ Därefter 1.500 kr ytterligare för varje tillkommande vecka
 
 ## 
 
-Man arbetar minimum 3 veckor
+Man arbetar minimum 2 veckor
 
 Man är minimum 18 år
 
