@@ -45,7 +45,7 @@ After that an additional 150 Euros for every extra week.
 
 ## The demands we have on our volunteers are:
 
-You are working minimum 3 weeks
+You are working minimum 2 weeks
 
 The minimum age is 18
 
