@@ -1,7 +1,7 @@
 ---
 templateKey: post
 language: fr
-title: Une Exposition!
+title: Une Exposition
 date: '2019-10-02T21:00:50+02:00'
 featuredImage: /img/utställning-2-okt.jpg
 ---
