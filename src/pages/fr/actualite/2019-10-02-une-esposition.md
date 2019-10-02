@@ -7,4 +7,4 @@ featuredImage: /img/utställning-2-okt.jpg
 ---
 ![null](/img/utställning-2-okt.jpg)
 
-Une petite exposition de DPE dans la bibliotheque de Nacka durant le mois  d´octobre
+Une petite exposition de DPE dans la bibliotheque de Nacka durant le mois   d´octobre
