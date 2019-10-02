@@ -1,7 +1,7 @@
 ---
 templateKey: post
 language: sv
-title: Ny Utställning!
+title: Ny Utställning
 date: '2019-10-02T20:36:15+02:00'
 featuredImage: /img/utställning-2-okt.jpg
 ---
