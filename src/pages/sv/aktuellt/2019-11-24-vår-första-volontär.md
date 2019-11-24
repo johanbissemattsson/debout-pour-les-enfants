@@ -1,7 +1,7 @@
 ---
 templateKey: post
 language: sv
-title: Vår första Volontär.
+title: Vår första volontär.
 date: '2019-11-19T19:00:00+01:00'
 featuredImage: /img/aktuellt-19-nov-2019.jpg
 ---
