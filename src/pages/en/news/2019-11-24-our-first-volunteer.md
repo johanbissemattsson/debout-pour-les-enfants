@@ -1,7 +1,7 @@
 ---
 templateKey: post
 language: en
-title: Our first volunteer
+title: Our first volunteer.
 date: '2019-11-19T19:04:00+01:00'
 featuredImage: /img/aktuellt-19-nov-2019.jpg
 ---
