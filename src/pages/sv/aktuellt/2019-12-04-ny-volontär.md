@@ -1,7 +1,7 @@
 ---
 templateKey: post
 language: sv
-title: Ny Volontär
+title: Ny volontär
 date: '2019-12-04T22:23:29+01:00'
 featuredImage: /img/karin-w-och-saliou.jpg
 ---
