@@ -7,6 +7,4 @@ featuredImage: /img/1-dec-2019.jpg
 ---
 ![](/img/1-dec-2019.jpg)
 
-![null](/img/karin-w-och-saliou.jpg)
-
 DPE has got it´s second volunteer, Karin from Sweden is working with us now.
