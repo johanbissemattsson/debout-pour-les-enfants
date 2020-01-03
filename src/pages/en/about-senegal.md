@@ -17,7 +17,7 @@ The average length of life is 67 years and the median age is 18,5 years which me
 
 ![null](/img/senegal-3003.jpg)
 
-The GNP/individual of Senegal is 3 % that of Sweden. The main export products are fish and peanuts.
+The GNP of Senegal is 7 % that of Sweden. The main export products are fish and peanuts.
 
 French is the official language but people mostly speak their own ethnic language like Wolof, Pulaar, Jola, Mandinca and so on. Many speak several of these languages.
 
