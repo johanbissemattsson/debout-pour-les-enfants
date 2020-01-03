@@ -10,7 +10,7 @@ ingress: >-
 
 ## Senegal
 
-Ytan är ca 200 000 kvadratkilometer vilket motsvarar knappt halva Sveriges yta. Befolkningsmängden är knappt 16 miljoner varav huvudstaden Dakar har ca 2 miljon innevånare. Medellivslängden är 67 år och medianåldern är ca 18,5 år dvs hälften av befolkningen är under 19 år. Ungdomsarbetslösheten är hög och medelinkomsten låg. Endast en liten del av befolkningen har anställning och därmed fast inkomst. Hälften av befolkningen är mycket fattiga. Senegals BNP är ca 7 % av Sveriges. De stora exportprodukterna är fisk och jordnötter. Andra näringar är livsmedel, gruvdrift, cement, konstgödsel, textilier och raffinering av importerad olja. 
+Ytan är ca 200 000 kvadratkilometer vilket motsvarar knappt halva Sveriges yta. Befolkningsmängden är knappt 16 miljoner varav huvudstaden Dakar har ca 2 miljon innevånare. Medellivslängden är 67 år och medianåldern är ca 18,5 år dvs hälften av befolkningen är under 19 år. Ungdomsarbetslösheten är hög och medelinkomsten låg. Endast en liten del av befolkningen har anställning och därmed fast inkomst. Hälften av befolkningen är mycket fattiga. Senegals BNP är ca 3 % av Sveriges. De stora exportprodukterna är fisk och jordnötter. Andra näringar är livsmedel, gruvdrift, cement, konstgödsel, textilier och raffinering av importerad olja. 
 
 ![null](/img/senegal-3003.jpg)
 
