@@ -29,8 +29,6 @@ Nous serons très heureux que vous soyez intéressé de venir travailler avec se
 
 Prix :
 
-2 semaines  350 Euros
-
 3 semaines  500 Euros
 
 4 semaines  670 Euros
@@ -45,7 +43,7 @@ Et après ça une addition de 150 Euro pour chaque semaine supplémentaire.
 
 ## 
 
-Vous devrez travailler 2 semaines au minimum
+Vous devrez travailler 3 semaines au minimum
 
 Avoir 18 ans du minimum
 
