@@ -31,8 +31,6 @@ It will make us very happy if you are interested in coming to Ziguinchor to work
 
 Prices
 
-2 weeks 350 Euros
-
 3 weeks  500 Euros
 
 4 weeks  670 Euros
@@ -45,7 +43,7 @@ After that an additional 150 Euros for every extra week.
 
 ## The demands we have on our volunteers are:
 
-You are working minimum 2 weeks
+You are working minimum 3 weeks
 
 The minimum age is 18
 
