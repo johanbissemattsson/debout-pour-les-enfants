@@ -42,15 +42,15 @@ Därefter 1.500 kr ytterligare för varje tillkommande vecka
 
 Att man:
 
-arbetar minimum 3 veckor
+Arbetar minimum 3 veckor
 
-är minimum 18 år
+Är minimum 18 år
 
-har nödvändiga vaccinationer
+Har nödvändiga vaccinationer
 
-har en rese- och sjukförsäkring
+Har en rese- och sjukförsäkring
 
-ämnar oss ett utdrag ur polisens belastningsregister
+Lämnar oss ett utdrag ur polisens belastningsregister
 
 ## I priset ingår:
 
