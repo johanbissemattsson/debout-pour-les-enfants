@@ -28,8 +28,6 @@ Det skulle glädja oss mycket om du är intresserad av att komma till oss i Zigu
 
 Priser:
 
-2 veckor. 3.500 kr
-
 3 veckor. 5.000 kr
 
 4 veckor.  6.700 kr
@@ -42,17 +40,17 @@ Därefter 1.500 kr ytterligare för varje tillkommande vecka
 
 ## De krav vi ställer på våra volontärer är att:
 
-## 
+Att man:
 
-Man arbetar minimum 2 veckor
+arbetar minimum 3 veckor
 
-Man är minimum 18 år
+är minimum 18 år
 
-Man har nödvändiga vaccinationer
+har nödvändiga vaccinationer
 
-Man har en rese- och sjukförsäkring
+har en rese- och sjukförsäkring
 
-Man lämnar oss ett utdrag ur polisens belastningsregister
+ämnar oss ett utdrag ur polisens belastningsregister
 
 ## I priset ingår:
 
