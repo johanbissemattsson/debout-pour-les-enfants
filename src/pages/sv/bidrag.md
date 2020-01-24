@@ -22,11 +22,11 @@ IBAN SE47 6000 0000 0005 2448 2381        BIC HANDSESS
 
 ## Vår budget
 
- Mer än 95% av insamlade medel går direkt till vår verksamhet i Ziguinchor, Senegal. Våra kostnader begränsar sig till bankavgifter.
+ Ungefär 98% av insamlade medel går direkt till vår verksamhet i Ziguinchor, Senegal. Våra kostnader begränsar sig till bankavgifter.
 
 Jag, Kristina, betalar personligen alla mina egna utgifter såsom resor o dyl. 
 
-Vår månadsbudget är på ca 8.000 kr.
+Vår månadsbudget är på ca 10.000 kr.
 
 Vi kan nu ge barnen ett mål mat i veckan.
 
