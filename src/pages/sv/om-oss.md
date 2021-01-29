@@ -8,7 +8,7 @@ ingress: >-
 ---
 # 0m oss
 
-Debout Pour les Enfants (DPE) grundades i januari 2018 av Saliou Sagna, Ziguinchor, Senegal och Kristina Lotén, Nacka, Sverige.
+Debout Pour les Enfants (DPE) grundades i januari 2018 av Saliou Sagna, Ziguinchor, Senegal och Kristina Lotén, Nacka, Sverige. Syftet med organisationen är att stötta gatubarnen i staden Ziguinchor. På vårt dagcenter kan vi nu ge dessa barn tillgång till Undervisning, Lek, Sårvård samt möjlighet att sköta sin Hygien. Varje torsdag serveras en måltid.  
 
 ## I Sverige
 
@@ -34,7 +34,7 @@ Hösten 2017 ville jag prova något annat så jag åkte till Ziguinchor i södra
 
 ![null](/img/om-oss-24.jpg)
 
-Nu besöks det nyöppnade centret dagligen av mellan 30 och 50 barn, ibland fler. Här får de vara barn som leker, spelar fotboll, ritar och läser böcker. Möjlighet finns till undervisning i franska och engelska. De kan duscha och borsta tänderna vid varje besök. Det finns också en liten klinik där vi tar hand om deras sår. 
+Nu besöks det nyöppnade centret dagligen av mellan 30 och 50 barn, ibland fler. Här får de vara barn som leker, spelar fotboll, ritar och läser böcker. Möjlighet finns till undervisning i franska, engelska och matematik. De kan duscha och borsta tänderna vid varje besök. Det finns också en liten klinik där vi tar hand om deras sår. Torsdagar serveras mat.
 
 # Om Gatubarn
 
