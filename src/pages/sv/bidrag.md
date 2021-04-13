@@ -37,6 +37,7 @@ Som bidragsgivare får du våra Nyhetsbrev! Meddela oss din mailadress via debou
 ## Följande företag och organisationer stöder oss:
 
 * Kurt och Else-May Pilacks Stiftelse
+* The Council         https://thecouncil.se/
 * Odd Fellow Barnfond
 * Stiftelsen Tabita 
 * Mälarkajen Fastigheter AB
