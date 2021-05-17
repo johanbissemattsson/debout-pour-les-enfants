@@ -7,4 +7,4 @@ featuredImage: /img/17-maj-2021-b.jpg
 ---
 ![null](/img/17-maj-2021-b.jpg)
 
-En mai, nois célébrons les trois ans de l´ouverture du centre DPE.
+En mai, nous célébrons les trois ans de l´ouverture du centre DPE.
