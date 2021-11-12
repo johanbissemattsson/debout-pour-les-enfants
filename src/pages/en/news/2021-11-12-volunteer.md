@@ -1,7 +1,7 @@
 ---
 templateKey: post
 language: en
-title: Volunteer
+title: Volunteers
 date: '2021-11-12T16:44:36+01:00'
 featuredImage: /img/volontärer-1.jpg
 ---
