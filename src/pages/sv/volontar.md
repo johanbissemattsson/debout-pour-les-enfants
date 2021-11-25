@@ -72,8 +72,6 @@ Vaccinationer
 
 Ev visum, behövs endast för vistelse längre än 90 dagar
 
-Utdrag ur polisens belastningsregister
-
 Utflykter
 
 ## Vi kan lova att Du genom att tillbringa en tid med en familj här och samtidigt arbeta med gatubarnen på vårt center kommer att få ett minne för livet!
