@@ -13,4 +13,4 @@ The entire amount will go to the project in Ziguinchor, except charges to the ba
 
 I Kristina Lotén is paying all my expenses, like journeys et cetera, personally.
 
-Our monthly budget is about 1000 euros.
+Our monthly budget is about 1300 euros.
