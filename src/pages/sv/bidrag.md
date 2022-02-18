@@ -26,9 +26,9 @@ IBAN SE47 6000 0000 0005 2448 2381        BIC HANDSESS
 
 Jag, Kristina, betalar personligen alla mina egna utgifter såsom resor o dyl. 
 
-Vår månadsbudget är på ca 12.000 kr.
+Vår månadsbudget är på ca 13.500 kr.
 
-Vi kan nu ge barnen ett mål mat i veckan.
+Vi kan nu ge barnen två mål mat i veckan.
 
 ## Vi skickar Nyhetsbrev
 
@@ -36,13 +36,13 @@ Som bidragsgivare får du våra Nyhetsbrev! Meddela oss din mailadress via debou
 
 ## Följande företag och organisationer stöder oss:
 
-* Kurt och Else-May Pilacks Stiftelse
+* Sevholts Hjälpfond
 * The Council         https://thecouncil.se/
 * Odd Fellow Barnfond
 * Stiftelsen Tabita 
-* Mälarkajen Fastigheter AB
+* Brunnberg & Forshed Arkitektkontor AB   https://www.brunnbergoforshed.se/
 * [Incoord AB](https://www.incoord.se/)
-* Call Control AB
+* Kurt och Else-May Pilacks Stiftelse
 * Luxark AB
 * CR Möbelrestaurering 
 * Lotén Arkitekter AB
