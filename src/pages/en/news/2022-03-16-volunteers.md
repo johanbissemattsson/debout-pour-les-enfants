@@ -3,8 +3,8 @@ templateKey: post
 language: en
 title: Volunteers
 date: '2022-03-16T10:59:44+01:00'
-featuredImage: /img/kalle-o-alicia.jpg
+featuredImage: /img/alicia-o-kalle.jpg
 ---
-![](/img/kalle-o-alicia.jpg)
+![null](/img/alicia-o-kalle.jpg)
 
 During month of March, Alicia and Kalle work as volunteers with us. This pleases us as well as the children!
