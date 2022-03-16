@@ -7,4 +7,4 @@ featuredImage: /img/alicia-o-kalle.jpg
 ---
 ![null](/img/alicia-o-kalle.jpg)
 
-During month of March, Alicia and Kalle work as volunteers with us. This pleases us as well as the children!
+During the month of March, Alicia and Kalle work as volunteers with us. This pleases us as well as the children!
