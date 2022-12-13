@@ -7,6 +7,4 @@ featuredImage: /img/nyhet-dec-2022-b.jpg
 ---
 ![null](/img/nyhet-dec-2022-b.jpg)
 
-![null](/img/centret-nov-2022-b.png)
-
 Vi har tacksamt mottagit ytterligare ett betydande bidrag från stiftelsen Sevholts Hjälpfond.
