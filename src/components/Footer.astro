@@ -1,0 +1,115 @@
+---
+import LangLink from "./LangLink.astro";
+const { lang } = Astro.params;
+---
+
+<footer>
+	<nav>
+		<div class="home">
+			{lang === 'sv' && (
+				<a href="/sv">
+					Debout pour les Enfants
+				</a>
+			)}
+				{lang === 'en' && (
+				<a href="/en">
+					Debout pour les Enfants
+				</a>
+			)}
+				{lang === 'fr' && (
+				<a href="/fr">
+					Debout pour les Enfants
+				</a>
+			)}
+		</div>
+		<div class="nav-items">
+			{lang === 'sv' && (
+				<a href="/sv/om-oss">Om oss</a>
+				<a href="/sv/aktuellt">Aktuellt</a>
+				<a href="/sv/bidrag">Bidrag</a>
+				<a href="/sv/volontar">Volontär</a>
+				<a href="/sv/om-senegal">Om Senegal</a>
+				<a href="/sv/kontakt">Kontakt</a>
+			)}
+			{lang === 'fr' && (
+				<a href="/fr/a-propos-de-nous">à Propos de nous</a>
+				<a href="/fr/actualite">`d Actualite</a>
+				<a href="/fr/contribution">Contribution</a>
+				<a href="/fr/volontaire">Volontaire</a>
+				<a href="/fr/de-senegal">de Sénégal</a>
+				<a href="/fr/contact">Contact</a>
+			)}
+			{lang === 'en' && (
+				<a href="/en/about-us">About us</a>
+				<a href="/en/news">News</a>
+				<a href="/en/contribution">Contribution</a>
+				<a href="/en/volunteer">Volunteer</a>
+				<a href="/en/about-senegal">About Sénégal</a>
+				<a href="/en/contact">Contact</a>
+			)}
+			<div class="lang">
+				<LangLink lang="sv" href="/sv">Svenska</LangLink>
+				<LangLink lang="fr" href="/fr">Français</LangLink>
+				<LangLink lang="en" href="/en">English</LangLink>
+			</div>
+		</div>
+	</nav>
+</footer>
+<style>
+	footer {
+    background: url("/bg-texture-blue.png");
+    margin-top: 6em;
+		padding: 2em 5% 3em;
+	}
+	footer nav {
+		display: flex;
+		flex-direction: column;
+		max-width: 1440px;
+    margin: 0 auto;
+	}
+
+	.home {
+    font-family: "Asap Condensed", sans-serif;
+    font-weight: 300;
+    font-size: 1.5em;
+    letter-spacing: .015em;
+    text-transform: uppercase;
+    margin: 0 0 0.5em;
+	}
+	.nav-items {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.nav-items .lang {
+		display: flex;
+		flex-direction: column;
+		padding-top: 3em;
+	}
+
+	footer nav a {
+		color: hsla(0,0%,100%,.75);
+    text-decoration: none;
+    transition: color .25s;
+		margin-right: 2em;
+    margin-bottom: 1em;
+	}
+
+	footer nav a:hover {
+		text-decoration: underline;
+		color: #fff;
+	}
+
+	@media only screen and (min-width: 1140px) {
+		.nav-items {
+			flex-direction: row;
+		}
+
+		.nav-items .lang {
+			flex-direction: row;
+			margin-left: auto;
+			border-top: none;
+			padding-top: 0;
+		}
+	} 
+</style>

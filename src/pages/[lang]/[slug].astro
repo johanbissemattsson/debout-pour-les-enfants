@@ -1,0 +1,40 @@
+---
+import { getCollection, getEntryBySlug } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import PageIntro from "../../components/PageIntro.astro";
+import ContentContainer from "../../components/ContentContainer.astro";
+
+export async function getStaticPaths() {
+  const allSvPages = await getCollection("sv");
+  const allEnPages = await getCollection("en");
+  const allFrPages = await getCollection("fr");
+
+  const routes = [
+    ...allSvPages.map((page) => ({ params: { lang: "sv", slug: page.slug } })),
+    ...allEnPages.map((page) => ({ params: { lang: "en", slug: page.slug } })),
+    ...allFrPages.map((page) => ({ params: { lang: "fr", slug: page.slug } })),
+    { params: { lang: "sv", slug: "aktuellt" } },
+    { params: { lang: "en", slug: "news" } },
+    { params: { lang: "fr", slug: "actualite" } },
+  ];
+
+  return routes;
+}
+
+const { lang, slug } = Astro.params;
+
+const page = await getEntryBySlug(lang as "sv" | "en" | "fr", slug);
+
+const { Content, headings } = await page.render();
+---
+
+<BaseLayout title={page.data.title}>
+  <article>
+    <PageIntro title={page.data.title} ingress={page.data.ingress} bgImage={page.data.bgImage} />
+    <ContentContainer>
+      <Content />
+    </ContentContainer>
+</article>
+
+</BaseLayout>
+

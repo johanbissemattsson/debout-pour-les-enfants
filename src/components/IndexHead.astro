@@ -1,0 +1,105 @@
+---
+import ContentContainer from "./ContentContainer.astro";
+const { bgImage } = Astro.props;
+---
+
+<div class="header-container">
+  <header class="header">
+    <div
+      class="intro-container"
+      style={`background: url("${bgImage}") center 40% / cover;`}
+    >
+      <div class="intro">
+        <div class="intro-content">
+          <h1>Debout pour les enfants Senegal</h1>
+          <slot />
+        </div>
+      </div>
+    </div>
+  </header>
+</div>
+
+<style>
+  .header-container {
+    background-color: purple;
+    margin-bottom: 3rem;
+    background: url("/bg-texture-purple.png");
+  }
+
+  .header {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
+  .intro-container {
+    padding: 4em 0;
+    display: flex;
+    align-items: center;
+    min-height: 56.1vh;
+  }
+
+  .intro {
+    width: 100%;
+    max-width: 720px;
+    padding: 0 5%;
+  }
+
+  .intro-content {
+    background: url(/bg-texture-purple.png);
+    color: #e8dfe6;
+    max-width: 648px;
+    padding: 2em;
+    box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);
+		box-sizing: border-box;
+  }
+
+  .intro-content h1 {
+    margin: 0 0 0.33em;
+    color: #fff;
+    font-size: 2.25em;
+    text-transform: uppercase;
+    max-width: 12ch;
+    font-weight: 200;
+  }
+
+  @media only screen and (min-width: 1140px) {
+    .intro-content {
+      padding: 2em 4em;
+    }
+
+    .intro-content h1 {
+      margin: 0.5em 0 0.33em;
+      font-size: 4em;
+    }
+  }
+
+  .intro :global(.button) {
+    font-family: "Asap Condensed", sans-serif;
+    font-weight: 600;
+    color: #fff;
+    letter-spacing: 0.015em;
+    text-decoration: none;
+    padding: 0.5em 0.625em;
+    margin-right: 0.25em;
+    background: #e8dfe6;
+    color: #936889;
+    transition: background-color 0.25s;
+    border-bottom: none;
+  }
+
+  .intro :global(a) {
+    text-decoration: none;
+    color: #e8dfe6;
+    position: relative;
+  }
+
+  .intro :global(a:after) {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 0;
+    left: 0;
+    bottom: 1px;
+    border-bottom: 1px dotted #d3c1cf;
+  }
+</style>
