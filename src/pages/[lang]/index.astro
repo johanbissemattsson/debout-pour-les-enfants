@@ -1,0 +1,50 @@
+---
+import { getCollection, getEntryBySlug } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import IndexHead from "../../components/IndexHead.astro";
+import News from "../../components/News.astro";
+import { render } from "astro/dist/runtime/server";
+
+export function getStaticPaths() {
+  return [
+    { params: { lang: "sv" } },
+    { params: { lang: "en" } },
+    { params: { lang: "fr" } },
+  ];
+}
+
+const { lang } = Astro.params;
+const page = await getEntryBySlug(lang as "sv" | "en" | "fr", "index");
+
+const { Content } = await page.render();
+
+const enNews = await getCollection("news");
+const svNews = await getCollection("aktuellt");
+const frNews = await getCollection("actualite");
+
+const news = (lang === "sv" && svNews) || (lang === "fr" && frNews) || enNews;
+
+const sortedNews = news.sort((a, b) => {
+  return new Date(b.data.date).getTime() - new Date(a.data.date).getTime();
+});
+---
+
+<BaseLayout>
+  <IndexHead bgImage={page.data.bgImage}>
+    <Content />
+  </IndexHead>
+  <News
+    title={(lang === "sv" && "Aktuellt") ||
+      (lang === "en" && "News") ||
+      (lang === "fr" && "`d Actualite")}
+    moreLink={`${
+      (lang === "sv" && "/sv/aktuellt") ||
+      (lang === "en" && "/en/news") ||
+      (lang === "fr" && "/fr/actualite")
+    }`}
+    moreCaption={(lang === "sv" && "Fler nyheter") ||
+      (lang === "en" && "More news") ||
+      (lang === "fr" && "Plus d'actualities")}
+    items={sortedNews?.slice(0, 2)}
+  />
+</BaseLayout>

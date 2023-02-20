@@ -1,0 +1,115 @@
+---
+const { title, items, moreLink, moreCaption } = Astro.props;
+const { lang } = Astro.params;
+import removeMd from "remove-markdown";
+
+const newsSlug =
+  (lang === "sv" && "aktuellt") ||
+  (lang === "en" && "news") ||
+  (lang === "fr" && "actualite") ||
+  "news";
+---
+
+<div class="news-container">
+  <div class="news">
+    {title ? <h2>{title}</h2> : undefined}
+    <ul class="news-items">
+      {
+        items.map((item) => {
+          return (
+            <li>
+              <a href={`/${lang}/${newsSlug}/${item.slug}`}>
+                <img src={item.data.featuredImage} alt={item.data.title} />
+                <h3>{item.data.title}</h3>
+              </a>
+              <p>
+                {removeMd(item.body)?.replaceAll('null', '')}
+              </p>
+              <div class="date">
+                {new Intl.DateTimeFormat("sv-SE").format(
+                  new Date(item.data.date)
+                )}
+              </div>
+            </li>
+          );
+        })
+      }
+    </ul>
+    <a href={moreLink}>
+      {moreCaption}
+    </a>
+  </div>
+</div>
+
+<style>
+  .news-container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
+  .news {
+    display: flex;
+    flex-direction: column;
+    padding: 0 5%;
+  }
+
+  .news h2 {
+    font-size: 2em;
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 0.015em;
+    margin-top: 1em;
+  }
+
+  .news-items {
+    display: grid;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    column-gap: 2.5%;
+  }
+
+  @media only screen and (min-width: 720px) {
+    .news-items {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  .news-items li {
+    margin-bottom: 2em;
+    background: #f5f8fc;
+    border-radius: 4px;
+    box-shadow: 0 3px 6px rgb(123 166 216 / 12%),
+      0 3px 6px rgb(123 166 216 / 16%);
+    padding: 2em;
+  }
+
+  @media only screen and (min-width: 1140px) {
+    .news-items li {
+      padding: 2em 4em;
+    }
+  }
+
+  .news-items img {
+    width: 100%;
+    height: auto;
+  }
+
+  .news-items a {
+    text-decoration: none;
+  }
+
+  .news-items a:hover {
+    text-decoration: underline;
+  }
+
+  .date {
+    ont-size: 0.875em;
+    font-family: "Asap Condensed", sans-serif;
+    font-weight: 600;
+    letter-spacing: 0.015em;
+    color: #7ba6d8;
+    margin-bottom: 0;
+  }
+</style>

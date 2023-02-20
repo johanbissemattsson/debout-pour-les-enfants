@@ -1,0 +1,21 @@
+---
+import { getCollection, getEntryBySlug } from "astro:content";
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import ContentContainer from "../../../components/ContentContainer.astro";
+
+export async function getStaticPaths() {
+	const enNews = await getCollection("news")
+	const routes = enNews.map((item) => ({ params: { lang: 'en', slug: item.slug }}))
+	return routes
+}
+
+const { lang, slug } = Astro.params;
+const page = await getEntryBySlug('news', slug);
+const { Content, headings } = await page.render();
+---
+<BaseLayout title={page.data.title}>
+	<ContentContainer>
+		<h1>{page.data.title}</h1>
+		<Content />
+	</ContentContainer>
+</BaseLayout>

@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.5;
+}
+
+h1,
+h2 {
+  font-family: "Asap Condensed", sans-serif;
+  line-height: 1.125;
+  color: #936889;
+}
+
+h1 {
+  font-size: 2em;
+	font-weight: 300;
+}
+
+h2 {
+	font-size: 1.2em;
+	font-weight: 600;
+}
+
+@media only screen and (min-width: 1140px) {
+  h1 {
+    font-size: 2.666666666666667em;
+  }
+}
+
+a {
+  color: #7ba6d8;
+}

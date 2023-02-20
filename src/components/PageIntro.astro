@@ -1,0 +1,96 @@
+---
+export interface Props extends astroHTML.JSX.AnchorHTMLAttributes {}
+
+const { bgImage, title, ingress } = Astro.props;
+
+const { pathname } = Astro.url;
+---
+
+<div class="header-container">
+  <header class="header">
+      {title && bgImage ? (
+      <div
+        class="intro-container"
+        style={bgImage ? `background: url("${bgImage}") center 43% / cover;` : 'min-height: 0;'}
+      >
+        <div class="intro">
+          <div class="intro-content">
+            <h1>{title}</h1>
+            <div class="ingress">{ingress}</div>
+          </div>
+        </div>
+      </div>
+    ) : (
+      <div class="small-intro-container"><h1>{title}</h1></div>
+    )}
+
+  </header>
+</div>
+
+<style>
+  .header-container {
+    background-color: purple;
+    margin-bottom: 3rem;
+    background: url("/bg-texture-purple.png");
+  }
+
+  .header {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
+  .intro-container {
+    padding: 4em 0;
+    display: flex;
+    align-items: center;
+    min-height: 25vh;
+  }
+
+  .intro {
+    width: 100%;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 5%;
+  }
+
+  .intro-content {
+    background: url(/bg-texture-purple.png);
+    color: #e8dfe6;
+    max-width: 576px;
+    padding: 2em;
+    box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);
+  }
+
+  h1 {
+    margin: 0 0 0.33em;
+    color: #fff;
+    font-size: 2.25em;
+  }
+
+  @media only screen and (min-width: 1140px) {
+    .intro-content {
+      padding: 1em 2em 2em;
+    }
+
+    h1 {
+      margin: 0.5em 0 0.33em;
+      font-size: 3em;
+    }
+  }
+
+  .small-intro-container {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 2em;
+  }
+
+  .small-intro-container h1 {
+    margin: 0;
+  }
+
+  @media only screen and (min-width: 1140px) {
+    .small-intro-container {
+      padding: 2em 4em;
+    }
+  }
+</style>

@@ -1,0 +1,22 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import News from "../../../components/News.astro";
+import PageIntro from "../../../components/PageIntro.astro";
+
+export function getStaticPaths() {
+  return [
+    {params: {lang: 'en'}},
+  ];
+}
+
+const news = await getCollection("news")
+const sortedNews = news.sort((a, b) => {
+  return new Date(b.data.date).getTime() - new Date(a.data.date).getTime();
+});
+const { lang } = Astro.params;
+---
+<BaseLayout title="News">
+  <PageIntro title="News" />
+  <News items={sortedNews} />
+</BaseLayout>

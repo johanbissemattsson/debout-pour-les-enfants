@@ -1,0 +1,42 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { getSiteTitle, getSiteDescription } from "../consts";
+
+export function getStaticPaths() {
+  return [
+    { params: { lang: "sv" } },
+    { params: { lang: "en" } },
+    { params: { lang: "fr" } },
+  ];
+}
+
+const { lang } = Astro.params;
+const { title } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang={lang}>
+  <head>
+    <BaseHead title={getSiteTitle({title, lang})} description={getSiteDescription(lang)} />
+  </head>
+  <body>
+    <Header />
+    <main>
+      <slot />
+    </main>
+    <Footer />
+    <script>
+      document.querySelector('.hamburger').addEventListener('click', () => {
+        document.querySelector('.main-menu-container').classList.toggle('expanded');
+      });
+      document.querySelector('.close-menu').addEventListener('click', () => {
+        document.querySelector('.main-menu-container').classList.toggle('expanded');
+      });
+      document.querySelector('.main-menu-background').addEventListener('click', () => {
+        document.querySelector('.main-menu-container').classList.toggle('expanded');
+      });
+    </script>
+  </body>
+</html>

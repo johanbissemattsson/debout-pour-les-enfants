@@ -1,0 +1,303 @@
+---
+import HeaderLink from './HeaderLink.astro';
+import LangLink from './LangLink.astro';
+
+const { lang } = Astro.params;
+---
+
+<header>
+	<nav class="site-nav">
+		<div class="logo">
+			<a href={`/${lang}`}><img src="/logo-dpe.svg" width={196} height={115}/></a>
+		</div>
+		<div class="nav-items">
+			<div class="lang">
+				<LangLink lang="sv" href="/sv">
+					<img src="/flags/sweden.svg" width={16} height={16} alt="Svenska"/>
+					Sv<span class="hideable-chars">enska</span>
+				</LangLink>
+				<LangLink lang="fr" href="/fr">
+					<img src="/flags/senegal.svg" width={16} height={16} alt="Français" />
+					Fr<span class="hideable-chars">ançais</span>
+				</LangLink>
+				<LangLink lang="en" href="/en">
+					<img src="/flags/gb.svg" width={16} height={16} alt="English" />
+					Eng<span class="hideable-chars">lish</span>
+				</LangLink>
+			</div>
+			<button type="button" class="hamburger">
+				<span class="line"></span>
+				<span class="line"></span>
+				<span class="line"></span>
+			</button>
+			<div class="main-menu-container">
+				<div class="main-menu-background"></div> 
+			<div class="main-menu">
+				<button type="button" class="close-menu">
+					<svg viewBox="0 0 24 24">
+						<path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path>
+					</svg>
+				</button>
+				{lang === 'sv' && (
+					<HeaderLink href="/sv/om-oss">Om oss</HeaderLink>
+					<HeaderLink href="/sv/aktuellt">Aktuellt</HeaderLink>
+					<HeaderLink href="/sv/bidrag">Bidrag</HeaderLink>
+					<HeaderLink href="/sv/volontar">Volontär</HeaderLink>
+					<HeaderLink href="/sv/om-senegal">Om Senegal</HeaderLink>
+					<HeaderLink href="/sv/kontakt">Kontakt</HeaderLink>
+				)}
+				{lang === 'fr' && (
+					<HeaderLink href="/fr/a-propos-de-nous">à Propos de nous</HeaderLink>
+					<HeaderLink href="/fr/actualite">`d Actualite</HeaderLink>
+					<HeaderLink href="/fr/contribution">Contribution</HeaderLink>
+					<HeaderLink href="/fr/volontaire">Volontaire</HeaderLink>
+					<HeaderLink href="/fr/de-senegal">de Sénégal</HeaderLink>
+					<HeaderLink href="/fr/contact">Contact</HeaderLink>
+				)}
+				{lang === 'en' && (
+					<HeaderLink href="/en/about-us">About us</HeaderLink>
+					<HeaderLink href="/en/news">News</HeaderLink>
+					<HeaderLink href="/en/contribution">Contribution</HeaderLink>
+					<HeaderLink href="/en/volunteer">Volunteer</HeaderLink>
+					<HeaderLink href="/en/about-senegal">About Sénégal</HeaderLink>
+					<HeaderLink href="/en/contact">Contact</HeaderLink>
+				)}
+			</div>
+		</div>
+		</div>
+	</nav>
+</header>
+<style>
+	header {
+		max-width: 1440px;
+		margin: 0 auto;
+	}
+	.site-nav {
+		display: flex;
+		margin-bottom: 1em;
+    padding: 0 5%;
+	}
+
+	.logo {
+		margin-top: 1em;
+	}
+
+	.nav-items {
+		display: flex;
+		flex-direction: column;
+		margin-left: auto;
+		text-align: right;
+	}
+
+	.nav-items a {
+		text-decoration: none;
+	}
+
+	.lang {
+		font-size: .75em;
+    display: flex;
+    justify-content: flex-end;
+	}
+
+	.hideable-chars {
+		display: none;
+	}
+	
+	@media only screen and (min-width: 480px) {
+		.lang {
+			font-size: .875em;
+		}
+	}
+
+	@media only screen and (min-width: 640px) {
+		.hideable-chars {
+			display: inline;
+		}
+	}
+
+	.lang a {
+		color: #936889;
+    background: #e8dfe6;
+    padding: 1em 0.75em;
+    display: flex;
+    align-items: center;
+    transition: background-color .25s;
+	}
+
+	.lang a.active {
+		background: #936889;
+    color: #fff;
+		font-weight: m;
+	}
+
+	.lang a:first-child {
+		border-radius: 0 0 0 16px;
+	}
+
+	.lang a:last-child {
+		border-radius: 0 0 16px 0;
+	}
+
+	.lang img {
+		border-radius: 100%;
+    margin-right: 0.5em;
+	}
+
+	.main-menu {
+		display: none;
+		margin-top: 1.5em;
+	}
+
+	.main-menu-container.expanded {
+		display: block;
+		position: fixed;
+		top: 0;
+		right: 0;
+		width: 100vw;
+		height: 100%;
+		margin: 0;
+		z-index: 100;
+		margin: 0;
+	}
+
+	.main-menu-container.expanded {
+		display: block;
+	}
+
+	.main-menu-container.expanded .main-menu-background {
+		display: block;
+	}
+	
+	.main-menu-background {
+		display: none;
+		position: fixed;
+		top: 0;
+		right: 0;
+		width: 100vw;
+		height: 100%;
+		margin: 0;
+		z-index: 100;
+		margin: 0;
+		background: rgba(0, 0, 0, 0.333);
+	}
+
+	.main-menu-container.expanded .main-menu {
+		position: absolute;
+		top: 0;
+		right: 0;
+		width: 80vw;
+		max-width: 320px;
+		height: 100%;
+		display: flex;
+		flex-direction: column;
+		background: #f5f8fc;
+		margin: 0;
+		z-index: 101;
+	}
+
+	.main-menu-container.expanded .main-menu a {
+		margin: 0 !important;
+		text-align: left;
+		padding: 1.5em;
+		font-weight: 300;
+		font-family: 'Open Sans', sans-serif;
+	}
+
+	.main-menu a {
+		margin-right: 0.25em;
+    font-family: "Asap Condensed", sans-serif;
+    font-weight: 600;
+    font-size: 1.125em;
+    line-height: 1.125;
+		color: #7ba6d8;
+    transition: background-color .25s;
+    border-radius: 4px;
+    background: #f5f8fc;
+	}
+
+	.main-menu a:hover {
+		background: #e5eef7;
+	}
+
+	.main-menu a.active {
+		background: #7ba6d8;
+		color: #fff;
+	}
+
+	@media only screen and (min-width: 480px) {
+		.main-menu a:not(:last-child) {
+			margin-right: 0.25em;
+		}
+	}
+
+	@media only screen and (min-width: 1140px) {
+		.main-menu a {
+			padding: .625em 1em;
+		}
+		.main-menu a:not(:last-child) {
+			margin-right: 1em;
+		}
+	}
+
+	@media only screen and (min-width: 1024px) {
+		.main-menu a {
+			padding: .625em 0.625em;
+		}
+	}
+
+  .hamburger {
+    cursor: pointer;
+		margin-left: auto;
+		margin-top: 2.5em;
+		border: none;
+		background: none;
+  }
+
+	.hamburger:hover {
+		opacity: 0.75;
+	}
+
+  .hamburger .line {
+    display: block;
+    width: 40px;
+    height: 5px;
+    margin-bottom: 8px;
+    background-color: #7ba6d8;
+  }
+
+	.close-menu {
+		display: none;
+		margin-left: auto;
+		width: 64px;
+		height: 64px;
+		min-height: 64px;
+		cursor: pointer;
+		background: none;
+		border: none;
+	}
+
+	.close-menu svg {
+		fill: #7ba6d8;
+		width: 32px;
+		height: 32px;
+	}
+
+	.close-menu:hover {
+		opacity: 0.75;
+	}
+		
+	.expanded .close-menu {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	@media screen and (min-width: 1024px) {
+		.hamburger {
+			display: none;
+		}
+		.main-menu {
+			display: block;
+		}
+	}
+</style>
